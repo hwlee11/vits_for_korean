@@ -15,13 +15,18 @@ logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logger = logging
 
 
-def load_checkpoint(checkpoint_path, model, optimizer=None):
+def load_checkpoint(checkpoint_path, model, optimizer=None, scheduler=None):
   assert os.path.isfile(checkpoint_path)
   checkpoint_dict = torch.load(checkpoint_path, map_location='cpu')
   iteration = checkpoint_dict['iteration']
   learning_rate = checkpoint_dict['learning_rate']
   if optimizer is not None:
     optimizer.load_state_dict(checkpoint_dict['optimizer'])
+  #if scheduler is not None:
+  #  print('scheduler')
+  #  scheduler.load_state_dict(checkpoint_dict['scheduler_state_dict'])
+  #  print('scheduler loded')
+
   saved_state_dict = checkpoint_dict['model']
   if hasattr(model, 'module'):
     state_dict = model.module.state_dict()
@@ -40,10 +45,10 @@ def load_checkpoint(checkpoint_path, model, optimizer=None):
     model.load_state_dict(new_state_dict)
   logger.info("Loaded checkpoint '{}' (iteration {})" .format(
     checkpoint_path, iteration))
-  return model, optimizer, learning_rate, iteration
+  return model, optimizer, scheduler, learning_rate, iteration
 
 
-def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path):
+def save_checkpoint(model, optimizer, scheduler, learning_rate, iteration, checkpoint_path):
   logger.info("Saving model and optimizer state at iteration {} to {}".format(
     iteration, checkpoint_path))
   if hasattr(model, 'module'):
@@ -53,6 +58,7 @@ def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
   torch.save({'model': state_dict,
               'iteration': iteration,
               'optimizer': optimizer.state_dict(),
+              'scheduler_state_dict': scheduler.state_dict(),
               'learning_rate': learning_rate}, checkpoint_path)
 
 
@@ -132,7 +138,8 @@ def plot_alignment_to_numpy(alignment, info=None):
 
 def load_wav_to_torch(full_path):
   sampling_rate, data = read(full_path)
-  return torch.FloatTensor(data.astype(np.float32)), sampling_rate
+  return data, sampling_rate
+  #return torch.FloatTensor(data.astype(np.float32)), sampling_rate
 
 
 def load_filepaths_and_text(filename, split="|"):
@@ -215,6 +222,9 @@ def get_logger(model_dir, filename="train.log"):
   global logger
   logger = logging.getLogger(os.path.basename(model_dir))
   logger.setLevel(logging.DEBUG)
+  from numba.core.errors import NumbaWarning
+  import warnings
+  warnings.simplefilter('ignore', category=NumbaWarning)
   
   formatter = logging.Formatter("%(asctime)s\t%(name)s\t%(levelname)s\t%(message)s")
   if not os.path.exists(model_dir):

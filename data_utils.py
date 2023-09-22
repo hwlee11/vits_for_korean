@@ -4,12 +4,15 @@ import random
 import numpy as np
 import torch
 import torch.utils.data
+import librosa
 
 import commons 
 from mel_processing import spectrogram_torch
 from utils import load_wav_to_torch, load_filepaths_and_text
 from text import text_to_sequence, cleaned_text_to_sequence
+from text.korean import text_to_sequence as korean_text_to_sequence
 
+from scipy.io.wavfile import write
 
 class TextAudioLoader(torch.utils.data.Dataset):
     """
@@ -48,7 +51,8 @@ class TextAudioLoader(torch.utils.data.Dataset):
 
         audiopaths_and_text_new = []
         lengths = []
-        for audiopath, text in self.audiopaths_and_text:
+        for i in range(len(self.audiopaths_and_text)):
+            audiopath, text = self.audiopaths_and_text[i][0], self.audiopaths_and_text[i][1]
             if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
                 audiopaths_and_text_new.append([audiopath, text])
                 lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
@@ -62,12 +66,52 @@ class TextAudioLoader(torch.utils.data.Dataset):
         spec, wav = self.get_audio(audiopath)
         return (text, spec, wav)
 
+    def pcm2float(self, sig, dtype='float32'):
+        """Convert PCM signal to floating point with a range from -1 to 1.
+        Use dtype='float32' for single precision.
+        Parameters
+        ----------
+        sig : array_like
+            Input array, must have integral type.
+        dtype : data type, optional
+            Desired (floating point) data type.
+        Returns
+        -------
+        numpy.ndarray
+            Normalized floating point data.
+        See Also
+        --------
+        float2pcm, dtype
+        """
+        sig = np.asarray(sig)
+        if sig.dtype.kind not in 'iu':
+            raise TypeError("'sig' must be an array of integers")
+        dtype = np.dtype(dtype)
+        if dtype.kind != 'f':
+            raise TypeError("'dtype' must be a floating point type")
+
+        i = np.iinfo(sig.dtype)
+        abs_max = 2 ** (i.bits - 1)
+        offset = i.min + abs_max
+        return (sig.astype(dtype) - offset) / abs_max
+
     def get_audio(self, filename):
         audio, sampling_rate = load_wav_to_torch(filename)
+        audio = torch.FloatTensor(self.pcm2float(audio))
+        #print('loaded',audio,type(audio),len(audio))
         if sampling_rate != self.sampling_rate:
-            raise ValueError("{} {} SR doesn't match target {} SR".format(
-                sampling_rate, self.sampling_rate))
-        audio_norm = audio / self.max_wav_value
+            #raise ValueError("{} {} SR doesn't match target {} SR".format(
+            #    sampling_rate, self.sampling_rate))
+            #audio = librosa.resample(audio.numpy(), orig_sr=sampling_rate, target_sr=self.sampling_rate)
+            audio = torch.from_numpy(librosa.resample(audio.numpy(), orig_sr=sampling_rate, target_sr=self.sampling_rate))
+            #print('resam',audio,type(audio),len(audio))
+            sampling_rate = self.sampling_rate
+        #write('float_test_resmaple.wav',self.sampling_rate,audio)
+        audio_norm = audio #/ self.max_wav_value
+        #audio_norm = audio / self.max_wav_value
+        #print('-----------------------',self.max_wav_value)
+        #write('float_test_norm.wav',self.sampling_rate,audio_norm)
+
         audio_norm = audio_norm.unsqueeze(0)
         spec_filename = filename.replace(".wav", ".spec.pt")
         if os.path.exists(spec_filename):
@@ -84,7 +128,12 @@ class TextAudioLoader(torch.utils.data.Dataset):
         if self.cleaned_text:
             text_norm = cleaned_text_to_sequence(text)
         else:
-            text_norm = text_to_sequence(text, self.text_cleaners)
+            if self.text_cleaners == ['korean_cleaners']:
+                text_norm = korean_text_to_sequence(text, self.text_cleaners)
+                print(text,text_norm)
+                exit()
+            else:
+                text_norm = text_to_sequence(text, self.text_cleaners)
         if self.add_blank:
             text_norm = commons.intersperse(text_norm, 0)
         text_norm = torch.LongTensor(text_norm)

@@ -1,0 +1,1040 @@
+/share/datas/kss/1/1_0000.wav|그는 괜찮은 척하려고 애쓰는 것 같았다.|그는 괜찮은 척하려고 애쓰는 것 같았다.|그는 괜찮은 척하려고 애쓰는 것 같았다.|3.5|He seemed to be pretending to be okay.
+/share/datas/kss/1/1_0001.wav|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다.|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다.|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다.|4.0|I tried in vain to win her love.
+/share/datas/kss/1/1_0002.wav|용돈을 아껴 써라.|용돈을 아껴 써라.|용돈을 아껴 써라.|1.8|Save your pocket money.
+/share/datas/kss/1/1_0003.wav|그는 아내를 많이 아낀다.|그는 아내를 많이 아낀다.|그는 아내를 많이 아낀다.|2.3|He cherishes his wife.
+/share/datas/kss/1/1_0004.wav|그 애 전화번호 알아?|그 애 전화번호 알아?|그 애 전화번호 알아?|1.3|Do you know his number?
+/share/datas/kss/1/1_0005.wav|차에 대해 잘 아세요?|차에 대해 잘 아세요?|차에 대해 잘 아세요?|1.7|Do you know much about cars?
+/share/datas/kss/1/1_0006.wav|거기 도착하면 나한테 알려 줘.|거기 도착하면 나한테 알려 줘.|거기 도착하면 나한테 알려 줘.|2.8|Let me know if you get there.
+/share/datas/kss/1/1_0007.wav|그들은 내가 시험에 떨어졌다고 알려 왔다.|그들은 내가 시험에 떨어졌다고 알려 왔다.|그들은 내가 시험에 떨어졌다고 알려 왔다.|3.5|They informed me that I failed the exam.
+/share/datas/kss/1/1_0008.wav|나는 살아오면서 감기를 앓은 적이 한 번도 없다.|나는 살아오면서 감기를 앓은 적이 한 번도 없다.|나는 살아오면서 감기를 앓은 적이 한 번도 없다.|4.2|I've never had a cold in my life.
+/share/datas/kss/1/1_0009.wav|사흘 동안 심하게 몸살을 앓았어요.|사흘 동안 심하게 몸살을 앓았어요.|사흘 동안 심하게 몸살을 앓았어요.|3.2|My whole body ached for three days.
+/share/datas/kss/1/1_0010.wav|요즘 공부가 안돼요.|요즘 공부가 안돼요.|요즘 공부가 안돼요.|1.9|My studying is not going well these days.
+/share/datas/kss/1/1_0011.wav|장사가 잘 안돼서 우울해.|장사가 잘 안돼서 우울해.|장사가 잘 안돼서 우울해.|2.5|I'm depressed because my business is not doing so well.
+/share/datas/kss/1/1_0012.wav|아무 것도 먹지 않으면 죽게 되어 있다.|아무 것도 먹지 않으면 죽게 되어 있다.|아무 것도 먹지 않으면 죽게 되어 있다.|3.1|If you don't eat anything, you will die.
+/share/datas/kss/1/1_0013.wav|그녀는 이유를 묻지 않고 돈을 빌려 주었다.|그녀는 이유를 묻지 않고 돈을 빌려 주었다.|그녀는 이유를 묻지 않고 돈을 빌려 주었다.|3.8|She lent her money without asking why.
+/share/datas/kss/1/1_0014.wav|내가 아기를 안고 있을게.|내가 아기를 안고 있을게.|내가 아기를 안고 있을게.|2.2|Let me hold the baby.
+/share/datas/kss/1/1_0015.wav|엄마는 말없이 나를 꼭 안아 주셨다.|엄마는 말없이 나를 꼭 안아 주셨다.|엄마는 말없이 나를 꼭 안아 주셨다.|4.0|She hugged me tight without a word.
+/share/datas/kss/1/1_0016.wav|자리에 앉으세요.|자리에 앉으세요.|자리에 앉으세요.|1.1|Take a seat, please.
+/share/datas/kss/1/1_0017.wav|한 여자가 내 옆에 앉았다.|한 여자가 내 옆에 앉았다.|한 여자가 내 옆에 앉았다.|2.2|A lady sat next to me.
+/share/datas/kss/1/1_0018.wav|114에 전화를 해서 번호를 알아보시지 그러세요?|일일사에 전화를 해서 번호를 알아보시지 그러세요?|일일사에 전화를 해서 번호를 알아보시지 그러세요?|3.8|Why don't you dial 114 and ask for the number?
+/share/datas/kss/1/1_0019.wav|내가 누군지 알아보겠니?|내가 누군지 알아보겠니?|내가 누군지 알아보겠니?|1.9|Do you recognize me?
+/share/datas/kss/1/1_0020.wav|그는 절대 다른 사람의 의견을 받아들이지 않는다.|그는 절대 다른 사람의 의견을 받아들이지 않는다.|그는 절대 다른 사람의 의견을 받아들이지 않는다.|4.1|He never accepts the opinions of others.
+/share/datas/kss/1/1_0021.wav|아이들도 언젠가는 그녀를 엄마로 받아들일 거야.|아이들도 언젠가는 그녀를 엄마로 받아들일 거야.|아이들도 언젠가는 그녀를 엄마로 받아들일 거야.|4.0|The children will also accept her as their mom some time.
+/share/datas/kss/1/1_0022.wav|어디에서 영어를 배우셨어요?|어디에서 영어를 배우셨어요?|어디에서 영어를 배우셨어요?|2.2|Where did you learn English?
+/share/datas/kss/1/1_0023.wav|동료에게서 수화를 배우고 있습니다.|동료에게서 수화를 배우고 있습니다.|동료에게서 수화를 배우고 있습니다.|2.9|I'm learning sign language from my colleague.
+/share/datas/kss/1/1_0024.wav|이거 다른 걸로 바꿀 수 있을까요?|이거 다른 걸로 바꿀 수 있을까요?|이거 다른 걸로 바꿀 수 있을까요?|2.4|Can I exchange this for another one?
+/share/datas/kss/1/1_0025.wav|색깔을 바꾸는 게 나을 거 같아.|색깔을 바꾸는 게 나을 거 같아.|색깔을 바꾸는 게 나을 거 같아.|2.3|It would be better to change the color.
+/share/datas/kss/1/1_0026.wav|소영이 좀 바꿔 주세요.|소영이 좀 바꿔 주세요.|소영이 좀 바꿔 주세요.|1.8|Can I talk to Soyoung?
+/share/datas/kss/1/1_0027.wav|눈이 얼음으로 바뀌었어.|눈이 얼음으로 바뀌었어.|눈이 얼음으로 바뀌었어.|2.1|The snow turned into ice.
+/share/datas/kss/1/1_0028.wav|핸드폰이 네 거랑 바뀐 거 같아.|핸드폰이 네 거랑 바뀐 거 같아.|핸드폰이 네 거랑 바뀐 거 같아.|2.6|I think my cell phone was switched with yours.
+/share/datas/kss/1/1_0029.wav|그 차는 들판에 버려진 채 발견됐다.|그 차는 들판에 버려진 채 발견됐다.|그 차는 들판에 버려진 채 발견됐다.|3.4|The car was found abandoned in a field.
+/share/datas/kss/1/1_0030.wav|이번 달 초에 상어떼가 해안가에서 발견됐다.|이번 달 초에 상어떼가 해안가에서 발견됐다.|이번 달 초에 상어떼가 해안가에서 발견됐다.|4.1|A group of sharks was spotted off the coast earlier this month.
+/share/datas/kss/1/1_0031.wav|오타를 발견하시는 분께 사례하겠습니다.|오타를 발견하시는 분께 사례하겠습니다.|오타를 발견하시는 분께 사례하겠습니다.|3.3|We'll reward the person who finds a typo.
+/share/datas/kss/1/1_0032.wav|결국 그의 개가 그의 시신을 발견했다.|결국 그의 개가 그의 시신을 발견했다.|결국 그의 개가 그의 시신을 발견했다.|3.6|Finally his dog discovered his dead body.
+/share/datas/kss/1/1_0033.wav|정신분석학은 20세기에 급격히 발전했다.|정신분석학은 이십 세기에 급격히 발전했다.|정신분석학은 이십 세기에 급격히 발전했다.|4.3|Psychoanalysis made rapid progress during the twentieth century.
+/share/datas/kss/1/1_0034.wav|한국어 실력이 날이 갈수록 발전하는 것을 보니 기쁩니다.|한국어 실력이 날이 갈수록 발전하는 것을 보니 기쁩니다.|한국어 실력이 날이 갈수록 발전하는 것을 보니 기쁩니다.|4.7|I'm glad that your Korean is really getting better.
+/share/datas/kss/1/1_0035.wav|죄송하지만 제 이름을 밝힐 수는 없어요.|죄송하지만 제 이름을 밝힐 수는 없어요.|죄송하지만 제 이름을 밝힐 수는 없어요.|3.4|I'm sorry but I can't tell you my name.
+/share/datas/kss/1/1_0036.wav|정전이 되어 촛불을 밝혔다.|정전이 되어 촛불을 밝혔다.|정전이 되어 촛불을 밝혔다.|2.9|I lit a candle due to the blackout.
+/share/datas/kss/1/1_0037.wav|모두가 시험에 통과했음을 발표하게 되어 기쁘게 생각합니다.|모두가 시험에 통과했음을 발표하게 되어 기쁘게 생각합니다.|모두가 시험에 통과했음을 발표하게 되어 기쁘게 생각합니다.|4.7|I'm pleased to announce that everybody passed the test.
+/share/datas/kss/1/1_0038.wav|그 밴드는 첫 음반을 발표한 직후에 해체했다.|그 밴드는 첫 음반을 발표한 직후에 해체했다.|그 밴드는 첫 음반을 발표한 직후에 해체했다.|4.3|The band broke up shortly after releasing its first album.
+/share/datas/kss/1/1_0039.wav|화재가 발생하지 않도록 조심해라.|화재가 발생하지 않도록 조심해라.|화재가 발생하지 않도록 조심해라.|2.7|Make sure that a fire doesn't break out.
+/share/datas/kss/1/1_0040.wav|어제 일본에서 태풍이 발생했다.|어제 일본에서 태풍이 발생했다.|어제 일본에서 태풍이 발생했다.|3.1|There was a typhoon in Japan yesterday.
+/share/datas/kss/1/1_0041.wav|돌고래는 지능이 발달했다.|돌고래는 지능이 발달했다.|돌고래는 지능이 발달했다.|2.6|Dolphins are highly intelligent.
+/share/datas/kss/1/1_0042.wav|이 지역에는 농업이 발달했어요.|이 지역에는 농업이 발달했어요.|이 지역에는 농업이 발달했어요.|3.0|Agriculture developed in this region.
+/share/datas/kss/1/1_0043.wav|그녀는 내 제안에 반대했다.|그녀는 내 제안에 반대했다.|그녀는 내 제안에 반대했다.|2.9|She objected to my suggestion.
+/share/datas/kss/1/1_0044.wav|저는 무력 사용을 반대합니다.|저는 무력 사용을 반대합니다.|저는 무력 사용을 반대합니다.|2.6|I'm against the use of force.
+/share/datas/kss/1/1_0045.wav|밤늦게 남의 집을 방문하는 것은 실례다.|밤늦게 남의 집을 방문하는 것은 실례다.|밤늦게 남의 집을 방문하는 것은 실례다.|3.6|It is not good to visit others late at night.
+/share/datas/kss/1/1_0046.wav|저희 회사에 방문해 주셔서 감사드립니다.|저희 회사에 방문해 주셔서 감사드립니다.|저희 회사에 방문해 주셔서 감사드립니다.|3.5|Thank you for visiting our company.
+/share/datas/kss/1/1_0047.wav|너는 브레이크를 너무 세게 밟아.|너는 브레이크를 너무 세게 밟아.|너는 브레이크를 너무 세게 밟아.|3.1|You step on the brake too hard.
+/share/datas/kss/1/1_0048.wav|어떤 남자가 지하철에서 내 발을 밟고 모른 척했다.|어떤 남자가 지하철에서 내 발을 밟고 모른 척했다.|어떤 남자가 지하철에서 내 발을 밟고 모른 척했다.|4.7|In a subway, a guy stepped on my foot but he pretended he hadn't done anything.
+/share/datas/kss/1/1_0049.wav|그녀는 호기심으로 가득찬 눈으로 나를 바라보았다.|그녀는 호기심으로 가득찬 눈으로 나를 바라보았다.|그녀는 호기심으로 가득찬 눈으로 나를 바라보았다.|4.5|She looked at me with eyes full of curiosity.
+/share/datas/kss/1/1_0050.wav|이 문제는 제3자의 시각에서 바라볼 필요가 있어.|이 문제는 제 삼 자의 시각에서 바라볼 필요가 있어.|이 문제는 제 삼 자의 시각에서 바라볼 필요가 있어.|4.4|You need to see this matter from the perspective of a third person.
+/share/datas/kss/1/1_0051.wav|저한테 너무 많은 걸 바라지 마세요.|저한테 너무 많은 걸 바라지 마세요.|저한테 너무 많은 걸 바라지 마세요.|2.9|Don't expect too much from me.
+/share/datas/kss/1/1_0052.wav|빨리 나으시길 바랍니다.|빨리 나으시길 바랍니다.|빨리 나으시길 바랍니다.|2.1|I hope you get better soon.
+/share/datas/kss/1/1_0053.wav|입술에 침이나 바르고 말해.|입술에 침이나 바르고 말해.|입술에 침이나 바르고 말해.|2.3|Don't lie through your teeth.
+/share/datas/kss/1/1_0054.wav|선크림을 발랐어야지.|선크림을 발랐어야지.|선크림을 발랐어야지.|2.2|You should have put on some sunblock.
+/share/datas/kss/1/1_0055.wav|나는 생일 선물로 책을 받았다.|나는 생일 선물로 책을 받았다.|나는 생일 선물로 책을 받았다.|3.0|I was given a book for my birthday.
+/share/datas/kss/1/1_0056.wav|신용 카드를 받나요?|신용 카드를 받나요?|신용 카드를 받나요?|1.7|Do you take credit cards?
+/share/datas/kss/1/1_0057.wav|스트레스 받는 일 있어?|스트레스 받는 일 있어?|스트레스 받는 일 있어?|1.6|Are you stressed about something?
+/share/datas/kss/1/1_0058.wav|어떻게 그렇게 돈을 버셨어요?|어떻게 그렇게 돈을 버셨어요?|어떻게 그렇게 돈을 버셨어요?|2.6|How did you make all that money?
+/share/datas/kss/1/1_0059.wav|한 달에 300만 원을 법니다.|한 달에 삼백만 원을 법니다.|한 달에 삼백만 원을 법니다.|2.2|I earn three million won a month.
+/share/datas/kss/1/1_0060.wav|입을 벌려 보세요.|입을 벌려 보세요.|입을 벌려 보세요.|1.4|Please open your mouth.
+/share/datas/kss/1/1_0061.wav|지하철에서 다리를 벌리고 앉지 마라.|지하철에서 다리를 벌리고 앉지 마라.|지하철에서 다리를 벌리고 앉지 마라.|3.4|Don't sit with your legs spread in the subway.
+/share/datas/kss/1/1_0062.wav|벽 사이에 벌어진 틈이 있어.|벽 사이에 벌어진 틈이 있어.|벽 사이에 벌어진 틈이 있어.|2.5|There's a gap between the walls.
+/share/datas/kss/1/1_0063.wav|그 법안을 놓고 말다툼이 벌어졌어.|그 법안을 놓고 말다툼이 벌어졌어.|그 법안을 놓고 말다툼이 벌어졌어.|2.9|An argument took place over the bill.
+/share/datas/kss/1/1_0064.wav|담배 꽁초를 여기에 버리지 마세요.|담배 꽁초를 여기에 버리지 마세요.|담배 꽁초를 여기에 버리지 마세요.|2.5|Don't throw your cigarette butts away here.
+/share/datas/kss/1/1_0065.wav|돈을 다 써 버렸어요|돈을 다 써 버렸어요|돈을 다 써 버렸어요|1.7|I used up the money.
+/share/datas/kss/1/1_0066.wav|내년 아버지 환갑 때 잔치를 벌일 거야.|내년 아버지 환갑 때 잔치를 벌일 거야.|내년 아버지 환갑 때 잔치를 벌일 거야.|3.4|We'll have a party on my father's 60th birthday next year.
+/share/datas/kss/1/1_0067.wav|오늘 아침 아내랑 말다툼을 벌였어.|오늘 아침 아내랑 말다툼을 벌였어.|오늘 아침 아내랑 말다툼을 벌였어.|3.0|I had an argument with my wife this morning.
+/share/datas/kss/1/1_0068.wav|가난에서 벗어나려면 습관부터 바꿔라.|가난에서 벗어나려면 습관부터 바꿔라.|가난에서 벗어나려면 습관부터 바꿔라.|3.4|Change your habits first to escape from poverty.
+/share/datas/kss/1/1_0069.wav|복잡한 도시 지역을 벗어나니 참 좋군요.|복잡한 도시 지역을 벗어나니 참 좋군요.|복잡한 도시 지역을 벗어나니 참 좋군요.|3.7|It's nice to get out of the crowded urban areas.
+/share/datas/kss/1/1_0070.wav|외투 벗으실래요?|외투 벗으실래요?|외투 벗으실래요?|1.6|Do you want to take your coat off?
+/share/datas/kss/1/1_0071.wav|신발이 너무 꽉 껴서 벗을 수가 없어요.|신발이 너무 꽉 껴서 벗을 수가 없어요.|신발이 너무 꽉 껴서 벗을 수가 없어요.|3.1|I can't take my shoes off because they are too tight.
+/share/datas/kss/1/1_0072.wav|아침 햇빛이 비치는 걸 보니 상쾌하군.|아침 햇빛이 비치는 걸 보니 상쾌하군.|아침 햇빛이 비치는 걸 보니 상쾌하군.|3.5|It's so nice to see the morning sunlight shine.
+/share/datas/kss/1/1_0073.wav|커튼 너머에 누군가의 그림자가 비쳤다.|커튼 너머에 누군가의 그림자가 비쳤다.|커튼 너머에 누군가의 그림자가 비쳤다.|3.9|There's someone's shadow over the curtain.
+/share/datas/kss/1/1_0074.wav|램프가 그의 작품을 비추게 배치되어 있었다.|램프가 그의 작품을 비추게 배치되어 있었다.|램프가 그의 작품을 비추게 배치되어 있었다.|3.6|Lamps were set up to illuminate his work.
+/share/datas/kss/1/1_0075.wav|아침마다 내 얼굴을 거울에 비춰 봐요.|아침마다 내 얼굴을 거울에 비춰 봐요.|아침마다 내 얼굴을 거울에 비춰 봐요.|3.5|Every morning I look at my face in the mirror.
+/share/datas/kss/1/1_0076.wav|금고는 이미 비어 있었다.|금고는 이미 비어 있었다.|금고는 이미 비어 있었다.|2.5|The safe was already empty.
+/share/datas/kss/1/1_0077.wav|이 자리는 비었습니까?|이 자리는 비었습니까?|이 자리는 비었습니까?|2.1|Is this seat empty?
+/share/datas/kss/1/1_0078.wav|우리는 서로 답을 비교해 보았다.|우리는 서로 답을 비교해 보았다.|우리는 서로 답을 비교해 보았다.|3.2|We compared answers with each other.
+/share/datas/kss/1/1_0079.wav|부모가 저지르는 큰 실수 중 하나는 자기 아이를 다른 집 아이와 비교하는 것이다.|부모가 저지르는 큰 실수 중 하나는 자기 아이를 다른 집 아이와 비교하는 것이다.|부모가 저지르는 큰 실수 중 하나는 자기 아이를 다른 집 아이와 비교하는 것이다.|6.6|One of the biggest mistakes parents often make is to compare theirchildren with others.
+/share/datas/kss/1/1_0080.wav|이틀 동안 차를 빌리고 싶은데요.|이틀 동안 차를 빌리고 싶은데요.|이틀 동안 차를 빌리고 싶은데요.|2.8|I'd like to rent it for two days.
+/share/datas/kss/1/1_0081.wav|아내에게서 돈을 빌린다는 것은 좀 이상해요.|아내에게서 돈을 빌린다는 것은 좀 이상해요.|아내에게서 돈을 빌린다는 것은 좀 이상해요.|4.3|It's weird to borrow money from one's wife.
+/share/datas/kss/1/1_0082.wav|다이아몬드가 눈부시게 빛나고 있었다.|다이아몬드가 눈부시게 빛나고 있었다.|다이아몬드가 눈부시게 빛나고 있었다.|3.6|The diamond was sparkling brightly.
+/share/datas/kss/1/1_0083.wav|모든 창에서 촛불이 반짝반짝 빛나고 있었다.|모든 창에서 촛불이 반짝반짝 빛나고 있었다.|모든 창에서 촛불이 반짝반짝 빛나고 있었다.|4.1|From all the windows the candles were gleaming.
+/share/datas/kss/1/1_0084.wav|영화 보러 갈까?|영화 보러 갈까?|영화 보러 갈까?|1.5|Shall we go watch a movie?
+/share/datas/kss/1/1_0085.wav|오늘 우연히 길에서 그 여자를 봤어요.|오늘 우연히 길에서 그 여자를 봤어요.|오늘 우연히 길에서 그 여자를 봤어요.|3.6|I happened to see her on the street today.
+/share/datas/kss/1/1_0086.wav|제가 해 볼게요.|제가 해 볼게요.|제가 해 볼게요.|1.7|Let me try it.
+/share/datas/kss/1/1_0087.wav|어디선가 뵌 분 같아요.|어디선가 뵌 분 같아요.|어디선가 뵌 분 같아요.|2.0|I feel like I know you from somewhere.
+/share/datas/kss/1/1_0088.wav|지난번에 뵌 후 오랜만에 뵙습니다.|지난번에 뵌 후 오랜만에 뵙습니다.|지난번에 뵌 후 오랜만에 뵙습니다.|3.1|It's been a long time since I last saw you.
+/share/datas/kss/1/1_0089.wav|그거 맛있어 보이네.|그거 맛있어 보이네.|그거 맛있어 보이네.|1.7|It looks appetizing.
+/share/datas/kss/1/1_0090.wav|그는 나이에 비해 정말 젊어 보인다.|그는 나이에 비해 정말 젊어 보인다.|그는 나이에 비해 정말 젊어 보인다.|3.3|He looks really young for his age.
+/share/datas/kss/1/1_0091.wav|그녀가 나에게 사진 몇 장을 보여 주었다.|그녀가 나에게 사진 몇 장을 보여 주었다.|그녀가 나에게 사진 몇 장을 보여 주었다.|3.7|She showed me some pictures.
+/share/datas/kss/1/1_0092.wav|주민등록증을 보여 주시겠어요?|주민등록증을 보여 주시겠어요?|주민등록증을 보여 주시겠어요?|2.7|Could I see your ID?
+/share/datas/kss/1/1_0093.wav|김치가 맛이 없어서 볶았어.|김치가 맛이 없어서 볶았어.|김치가 맛이 없어서 볶았어.|2.5|I stir-fried the kimchi because it tasted bad.
+/share/datas/kss/1/1_0094.wav|고기를 기름에 볶지 마라.|고기를 기름에 볶지 마라.|고기를 기름에 볶지 마라.|2.4|Never stir-fry meat in oil.
+/share/datas/kss/1/1_0095.wav|이 소포를 뉴욕으로 보내고 싶은데요.|이 소포를 뉴욕으로 보내고 싶은데요.|이 소포를 뉴욕으로 보내고 싶은데요.|3.2|I'd like to send this parcel to New York.
+/share/datas/kss/1/1_0096.wav|선생님께 한 부 보내 드리겠습니다.|선생님께 한 부 보내 드리겠습니다.|선생님께 한 부 보내 드리겠습니다.|3.2|I'll send you a copy.
+/share/datas/kss/1/1_0097.wav|휴가 잘 보내세요.|휴가 잘 보내세요.|휴가 잘 보내세요.|2.3|Have a good vacation.
+/share/datas/kss/1/1_0098.wav|그녀는 짐 하나하나에 이름표를 붙였다.|그녀는 짐 하나하나에 이름표를 붙였다.|그녀는 짐 하나하나에 이름표를 붙였다.|4.3|She attached a label to each piece of luggage.
+/share/datas/kss/1/1_0099.wav|침으로 편지 봉투에 우표를 붙이지 마세요.|침으로 편지 봉투에 우표를 붙이지 마세요.|침으로 편지 봉투에 우표를 붙이지 마세요.|3.6|Don't stick a stamp on the envelope with spit.
+/share/datas/kss/1/1_0100.wav|우리는 파티 준비를 위해 풍선을 불었다.|우리는 파티 준비를 위해 풍선을 불었다.|우리는 파티 준비를 위해 풍선을 불었다.|4.0|We blew up balloons to prepare for the party.
+/share/datas/kss/1/1_0101.wav|바람이 많이 불어.|바람이 많이 불어.|바람이 많이 불어.|2.0|It's very windy.
+/share/datas/kss/1/1_0102.wav|경찰 좀 불러 주세요.|경찰 좀 불러 주세요.|경찰 좀 불러 주세요.|2.0|Please call the police.
+/share/datas/kss/1/1_0103.wav|사람들은 그를 게으른 천재라고 부른다.|사람들은 그를 게으른 천재라고 부른다.|사람들은 그를 게으른 천재라고 부른다.|3.5|People call him a lazy genius.
+/share/datas/kss/1/1_0104.wav|노래 한 곡 부르세요.|노래 한 곡 부르세요.|노래 한 곡 부르세요.|2.0|Sing a song.
+/share/datas/kss/1/1_0105.wav|여행사에 예약을 부탁하는 게 어때?|여행사에 예약을 부탁하는 게 어때?|여행사에 예약을 부탁하는 게 어때?|3.4|Why don't you ask the travel agency to reserve your ticket?
+/share/datas/kss/1/1_0106.wav|엄마한테 도와달라고 부탁해 봐.|엄마한테 도와달라고 부탁해 봐.|엄마한테 도와달라고 부탁해 봐.|2.9|Ask your mom to help you.
+/share/datas/kss/1/1_0107.wav|냄비에 물을 부어라.|냄비에 물을 부어라.|냄비에 물을 부어라.|1.8|Pour water into the pot.
+/share/datas/kss/1/1_0108.wav|우유를 좀 부어 봐.|우유를 좀 부어 봐.|우유를 좀 부어 봐.|1.9|Pour some milk.
+/share/datas/kss/1/1_0109.wav|신발 밑창에 껌이 붙었다.|신발 밑창에 껌이 붙었다.|신발 밑창에 껌이 붙었다.|2.5|I've got some chewing gum stuck to the sole of my shoe.
+/share/datas/kss/1/1_0110.wav|저는 운전면허시험에 세 번 만에 붙었어요.|저는 운전면허시험에 세 번 만에 붙었어요.|저는 운전면허시험에 세 번 만에 붙었어요.|4.1|I passed the driver's license test after three attempts.
+/share/datas/kss/1/1_0111.wav|밤이 되면 그녀는 괴물로 변한다.|밤이 되면 그녀는 괴물로 변한다.|밤이 되면 그녀는 괴물로 변한다.|3.8|At night she changes into a monster.
+/share/datas/kss/1/1_0112.wav|전혀 안 변하셨네요.|전혀 안 변하셨네요.|전혀 안 변하셨네요.|1.9|You haven't changed a bit.
+/share/datas/kss/1/1_0113.wav|그는 점차 냉혹한 지도자로 변화했다.|그는 점차 냉혹한 지도자로 변화했다.|그는 점차 냉혹한 지도자로 변화했다.|3.9|He gradually turned into a cruel leader.
+/share/datas/kss/1/1_0114.wav|지구가 빠르게 변화하고 있다.|지구가 빠르게 변화하고 있다.|지구가 빠르게 변화하고 있다.|2.7|Our planet is changing rapidly.
+/share/datas/kss/1/1_0115.wav|그는 공을 차는 척하면서 상대 선수를 찼다.|그는 공을 차는 척하면서 상대 선수를 찼다.|그는 공을 차는 척하면서 상대 선수를 찼다.|4.3|He kicked his opponent, pretending to go for the ball.
+/share/datas/kss/1/1_0116.wav|그녀는 7년간 사귄 남자 친구를 차 버리고 딴 남자랑 결혼했다.|그녀는 칠 년간 사귄 남자 친구를 차 버리고 딴 남자랑 결혼했다.|그녀는 칠 년간 사귄 남자 친구를 차 버리고 딴 남자랑 결혼했다.|6.5|She dumped her boyfriend of seven years and married another guy.
+/share/datas/kss/1/1_0117.wav|소지품을 잘 챙기세요.|소지품을 잘 챙기세요.|소지품을 잘 챙기세요.|2.5|Don't forget to take your belongings with you.
+/share/datas/kss/1/1_0118.wav|엄마는 아빠를 엄청 챙기신다.|엄마는 아빠를 엄청 챙기신다.|엄마는 아빠를 엄청 챙기신다.|3.4|My mom takes such good care of my dad.
+/share/datas/kss/1/1_0119.wav|빈칸을 채우시오.|빈칸을 채우시오.|빈칸을 채우시오.|2.1|Fill in the blanks.
+/share/datas/kss/1/1_0120.wav|기름을 가득 채워 주세요.|기름을 가득 채워 주세요.|기름을 가득 채워 주세요.|2.5|Fill it up please.
+/share/datas/kss/1/1_0121.wav|제 잔에는 물을 반만 채워 주세요.|제 잔에는 물을 반만 채워 주세요.|제 잔에는 물을 반만 채워 주세요.|3.5|Please fill my glass half full of water.
+/share/datas/kss/1/1_0122.wav|인터넷 찾아봤어?|인터넷 찾아봤어?|인터넷 찾아봤어?|1.8|Have you checked on the internet?
+/share/datas/kss/1/1_0123.wav|다 찾아봤지만 찾을 수가 없어요.|다 찾아봤지만 찾을 수가 없어요.|다 찾아봤지만 찾을 수가 없어요.|3.1|I looked everywhere, but I can't find it.
+/share/datas/kss/1/1_0124.wav|내일 댁으로 찾아가겠습니다.|내일 댁으로 찾아가겠습니다.|내일 댁으로 찾아가겠습니다.|2.2|I'll come by your house tomorrow.
+/share/datas/kss/1/1_0125.wav|내일까지 짐을 찾아가셔야 해요.|내일까지 짐을 찾아가셔야 해요.|내일까지 짐을 찾아가셔야 해요.|2.6|You should pick you stuff up by tomorrow.
+/share/datas/kss/1/1_0126.wav|도움이 필요하면 나를 찾아와.|도움이 필요하면 나를 찾아와.|도움이 필요하면 나를 찾아와.|2.8|If you need help, come see me.
+/share/datas/kss/1/1_0127.wav|은행에서 돈 찾아와야 해.|은행에서 돈 찾아와야 해.|은행에서 돈 찾아와야 해.|2.6|I need to withdraw some money from the bank.
+/share/datas/kss/1/1_0128.wav|많은 배우들이 그 시상식에 참석하지 않았다.|많은 배우들이 그 시상식에 참석하지 않았다.|많은 배우들이 그 시상식에 참석하지 않았다.|4.1|Many actors didn't attend the awards ceremony.
+/share/datas/kss/1/1_0129.wav|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요.|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요.|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요.|5.0|I couldn't attend the meeting because my parents-in-law showed up suddenly.
+/share/datas/kss/1/1_0130.wav|웃음을 참을 수가 없었어요.|웃음을 참을 수가 없었어요.|웃음을 참을 수가 없었어요.|2.3|I could hardly contain my laughter.
+/share/datas/kss/1/1_0131.wav|더 이상은 못 참아.|더 이상은 못 참아.|더 이상은 못 참아.|1.9|I can't take it anymore.
+/share/datas/kss/1/1_0132.wav|엄마랑 아빠는 항상 같이 상을 차리세요.|엄마랑 아빠는 항상 같이 상을 차리세요.|엄마랑 아빠는 항상 같이 상을 차리세요.|3.6|My mom and dad always set the table together.
+/share/datas/kss/1/1_0133.wav|얼른 기운 차리셔야죠.|얼른 기운 차리셔야죠.|얼른 기운 차리셔야죠.|2.5|I hope you get well soon.
+/share/datas/kss/1/1_0134.wav|교차로에서 저를 찾을 수 있을 거예요.|교차로에서 저를 찾을 수 있을 거예요.|교차로에서 저를 찾을 수 있을 거예요.|3.3|You'll find me at the crossroads.
+/share/datas/kss/1/1_0135.wav|이 책을 찾고 있어요.|이 책을 찾고 있어요.|이 책을 찾고 있어요.|2.1|I'm looking for this book.
+/share/datas/kss/1/1_0136.wav|아기는 소리가 나는 쪽을 쳐다본다.|아기는 소리가 나는 쪽을 쳐다본다.|아기는 소리가 나는 쪽을 쳐다본다.|3.6|Babies look in the direction of the sound.
+/share/datas/kss/1/1_0137.wav|그런 식으로 사람을 빤히 쳐다보지 마.|그런 식으로 사람을 빤히 쳐다보지 마.|그런 식으로 사람을 빤히 쳐다보지 마.|3.9|Don't stare at people like that.
+/share/datas/kss/1/1_0138.wav|나는 1년에 한 번 우리 집 화장실을 청소한다.|나는 일 년에 한 번 우리 집 화장실을 청소한다.|나는 일 년에 한 번 우리 집 화장실을 청소한다.|4.2|I clean the bathroom in my house once a year.
+/share/datas/kss/1/1_0139.wav|창문은 뭘로 청소하나요?|창문은 뭘로 청소하나요?|창문은 뭘로 청소하나요?|2.5|What do I clean the windows with?
+/share/datas/kss/1/1_0140.wav|그는 내 얼굴을 쳐서 자기 손목을 삐었다.|그는 내 얼굴을 쳐서 자기 손목을 삐었다.|그는 내 얼굴을 쳐서 자기 손목을 삐었다.|3.7|He punched me in the face, and sprained his wrist.
+/share/datas/kss/1/1_0141.wav|테니스를 치다가 발목을 삐었어요.|테니스를 치다가 발목을 삐었어요.|테니스를 치다가 발목을 삐었어요.|3.5|I sprained my ankle while playing tennis.
+/share/datas/kss/1/1_0142.wav|오늘 시험 잘 쳤어요?|오늘 시험 잘 쳤어요?|오늘 시험 잘 쳤어요?|2.4|How was the test?
+/share/datas/kss/1/1_0143.wav|이번 주말 내 생일에 너를 초대하고 싶은데.|이번 주말 내 생일에 너를 초대하고 싶은데.|이번 주말 내 생일에 너를 초대하고 싶은데.|4.2|I'd like to invite you to my birthday this weekend.
+/share/datas/kss/1/1_0144.wav|그녀는 나를 자기 집으로 초대했다.|그녀는 나를 자기 집으로 초대했다.|그녀는 나를 자기 집으로 초대했다.|3.2|She invited me to her home.
+/share/datas/kss/1/1_0145.wav|낯선 사람들 앞에서 춤을 추는 건 나한테는 정말 어려운 일이야.|낯선 사람들 앞에서 춤을 추는 건 나한테는 정말 어려운 일이야.|낯선 사람들 앞에서 춤을 추는 건 나한테는 정말 어려운 일이야.|5.5|It is really hard to dance in front of people I'm not familiar with.
+/share/datas/kss/1/1_0146.wav|그녀와 나는 음악에 맞추어 탱고를 췄다.|그녀와 나는 음악에 맞추어 탱고를 췄다.|그녀와 나는 음악에 맞추어 탱고를 췄다.|4.1|She and I danced the tango to the music.
+/share/datas/kss/1/1_0147.wav|결혼 축하해!|결혼 축하해!|결혼 축하해!|1.6|Congratulations on your wedding!
+/share/datas/kss/1/1_0148.wav|할아버지의 회갑을 축하하는 잔치를 열었다.|할아버지의 회갑을 축하하는 잔치를 열었다.|할아버지의 회갑을 축하하는 잔치를 열었다.|4.0|We had a party in celebration of my grandfather's 60th birthday.
+/share/datas/kss/1/1_0149.wav|그 사람은 한 시간 전에 역으로 출발했어요.|그 사람은 한 시간 전에 역으로 출발했어요.|그 사람은 한 시간 전에 역으로 출발했어요.|3.3|He left for the station one hour ago.
+/share/datas/kss/1/1_0150.wav|이 역에서 출발하는 사람 중에는 군인이 많아.|이 역에서 출발하는 사람 중에는 군인이 많아.|이 역에서 출발하는 사람 중에는 군인이 많아.|3.7|Many soldiers depart from this station.
+/share/datas/kss/1/1_0151.wav|이 기차는 부산을 3시에 출발합니다.|이 기차는 부산을 세 시에 출발합니다.|이 기차는 부산을 세 시에 출발합니다.|3.9|This train will leave Busan at 3 o'clock.
+/share/datas/kss/1/1_0152.wav|지금 춤출 기분이 아냐.|지금 춤출 기분이 아냐.|지금 춤출 기분이 아냐.|2.1|I'm not in the mood for dancing.
+/share/datas/kss/1/1_0153.wav|오늘 밤에 춤추러 갈까요?|오늘 밤에 춤추러 갈까요?|오늘 밤에 춤추러 갈까요?|2.2|Shall we go dancing tonight?
+/share/datas/kss/1/1_0154.wav|소주 5병에 결국 취하고 말았다.|소주 다섯 병에 결국 취하고 말았다.|소주 다섯 병에 결국 취하고 말았다.|3.4|Finally I felt drunk ater five bottles of soju.
+/share/datas/kss/1/1_0155.wav|나 안 취했어.|나 안 취했어.|나 안 취했어.|1.7|I'm not drunk.
+/share/datas/kss/1/1_0156.wav|내가 한 말 취소하겠어요.|내가 한 말 취소하겠어요.|내가 한 말 취소하겠어요.|2.2|I will take back my words.
+/share/datas/kss/1/1_0157.wav|죄송하지만 예약을 취소하고 싶어요.|죄송하지만 예약을 취소하고 싶어요.|죄송하지만 예약을 취소하고 싶어요.|3.0|I'm sorry but I want to cancel my reservation.
+/share/datas/kss/1/1_0158.wav|어제 농구를 하다 코를 다쳤어요.|어제 농구를 하다 코를 다쳤어요.|어제 농구를 하다 코를 다쳤어요.|2.6|Yesterday I hurt my nose playing basketball
+/share/datas/kss/1/1_0159.wav|어쩌다 다친 거야?|어쩌다 다친 거야?|어쩌다 다친 거야?|2.1|How did you get hurt?
+/share/datas/kss/1/1_0160.wav|이 문은 잘 안 닫혀요.|이 문은 잘 안 닫혀요.|이 문은 잘 안 닫혀요.|2.2|The door will not shut.
+/share/datas/kss/1/1_0161.wav|컴퓨터가 멈춰서 창이 닫히지 않아.|컴퓨터가 멈춰서 창이 닫히지 않아.|컴퓨터가 멈춰서 창이 닫히지 않아.|3.1|My computer is stuck and the window won't close.
+/share/datas/kss/1/1_0162.wav|카드를 단말기 위에 대세요.|카드를 단말기 위에 대세요.|카드를 단말기 위에 대세요.|2.8|Put your card on the machine.
+/share/datas/kss/1/1_0163.wav|그렇게 먹어 대니까 살이 안 빠지지.|그렇게 먹어 대니까 살이 안 빠지지.|그렇게 먹어 대니까 살이 안 빠지지.|3.5|You're not losing any weight because you pig out like that.
+/share/datas/kss/1/1_0164.wav|질문에 대답하세요.|질문에 대답하세요.|질문에 대답하세요.|2.3|Please answer the question.
+/share/datas/kss/1/1_0165.wav|어른들에게는 "예"나 "아니요"라고 대답해야 합니다.|어른들에게는 예나 아니요라고 대답해야 합니다.|어른들에게는 예나 아니요라고 대답해야 합니다.|4.4|You should answer "ye"or "aniyo" to seniors.
+/share/datas/kss/1/1_0166.wav|그녀는 나를 딸처럼 대한다.|그녀는 나를 딸처럼 대한다.|그녀는 나를 딸처럼 대한다.|3.1|She treats me like her daughter.
+/share/datas/kss/1/1_0167.wav|이 문제에 대해 말해 볼 사람?|이 문제에 대해 말해 볼 사람?|이 문제에 대해 말해 볼 사람?|2.7|Does anyone want to talk about this issue?
+/share/datas/kss/1/1_0168.wav|그 개는 낯선 사람이 다가가면 짖는다.|그 개는 낯선 사람이 다가가면 짖는다.|그 개는 낯선 사람이 다가가면 짖는다.|4.1|The dog barks at strangers.
+/share/datas/kss/1/1_0169.wav|내가 그녀에게 다가가자 그녀의 얼굴이 창백해졌다.|내가 그녀에게 다가가자 그녀의 얼굴이 창백해졌다.|내가 그녀에게 다가가자 그녀의 얼굴이 창백해졌다.|5.3|As I approached, her face turned pale.
+/share/datas/kss/1/1_0170.wav|폭풍이 다가오자 하늘이 어두워졌다.|폭풍이 다가오자 하늘이 어두워졌다.|폭풍이 다가오자 하늘이 어두워졌다.|3.6|The sky darkened as the storm approached.
+/share/datas/kss/1/1_0171.wav|그녀가 내게 다가왔다.|그녀가 내게 다가왔다.|그녀가 내게 다가왔다.|2.9|She came up to me.
+/share/datas/kss/1/1_0172.wav|그는 힘이 다할 때까지 계속 소리쳤다.|그는 힘이 다할 때까지 계속 소리쳤다.|그는 힘이 다할 때까지 계속 소리쳤다.|3.8|He kept shouting until his strength was exhausted.
+/share/datas/kss/1/1_0173.wav|부모님을 실망시키지 않기 위해 최선을 다하겠다.|부모님을 실망시키지 않기 위해 최선을 다하겠다.|부모님을 실망시키지 않기 위해 최선을 다하겠다.|4.5|I will do my best in order not to disappoint my parents.
+/share/datas/kss/1/1_0174.wav|자기 전에 이 닦는 거 잊지 마라.|자기 전에 이 닦는 거 잊지 마라.|자기 전에 이 닦는 거 잊지 마라.|3.2|Don't forget to brush your teeth before going to bed.
+/share/datas/kss/1/1_0175.wav|바닥을 닦아라.|바닥을 닦아라.|바닥을 닦아라.|2.1|Mop the floor.
+/share/datas/kss/1/1_0176.wav|블라우스에 브로치를 달았다.|블라우스에 브로치를 달았다.|블라우스에 브로치를 달았다.|2.8|I put a brooch on my blouse.
+/share/datas/kss/1/1_0177.wav|태극기를 다세요.|태극기를 다세요.|태극기를 다세요.|2.0|Hoist a (Korean) flag.
+/share/datas/kss/1/1_0178.wav|엄마가 돌아가신 후 모든 것이 달라졌어요.|엄마가 돌아가신 후 모든 것이 달라졌어요.|엄마가 돌아가신 후 모든 것이 달라졌어요.|4.2|Everything has changed since my mom died.
+/share/datas/kss/1/1_0179.wav|저는 아내 덕분에 많이 달라졌습니다.|저는 아내 덕분에 많이 달라졌습니다.|저는 아내 덕분에 많이 달라졌습니다.|4.0|I've changed a lot thanks to my wife.
+/share/datas/kss/1/1_0180.wav|그는 결승점을 향해 전속력으로 달렸다.|그는 결승점을 향해 전속력으로 달렸다.|그는 결승점을 향해 전속력으로 달렸다.|3.9|He ran to the finish line at full speed
+/share/datas/kss/1/1_0181.wav|그 오토바이는 시속 60킬로로 달렸어요.|그 오토바이는 시속 육십 킬로로 달렸어요.|그 오토바이는 시속 육십 킬로로 달렸어요.|3.9|The motorbike went at sixty kilometers per hour.
+/share/datas/kss/1/1_0182.wav|포도가 나무에 달려 있었다.|포도가 나무에 달려 있었다.|포도가 나무에 달려 있었다.|2.5|Grapes were hanging from the trees.
+/share/datas/kss/1/1_0183.wav|너한테 달렸어.|너한테 달렸어.|너한테 달렸어.|2.0|It's up to you.
+/share/datas/kss/1/1_0184.wav|아내를 업고 병원으로 달려갔다.|아내를 업고 병원으로 달려갔다.|아내를 업고 병원으로 달려갔다.|3.3|I ran to a hospital carrying my wife on my back.
+/share/datas/kss/1/1_0185.wav|딸아이는 저한테 혼나고 나면 엄마한테 달려가요.|딸아이는 저한테 혼나고 나면 엄마한테 달려가요.|딸아이는 저한테 혼나고 나면 엄마한테 달려가요.|4.8|My daughter runs to her mom after being scolded by me.
+/share/datas/kss/1/1_0186.wav|그릇에 물이 담겨 있어.|그릇에 물이 담겨 있어.|그릇에 물이 담겨 있어.|2.6|The bowl has water in it.
+/share/datas/kss/1/1_0187.wav|부모님의 꾸중에는 사랑이 담겨 있다.|부모님의 꾸중에는 사랑이 담겨 있다.|부모님의 꾸중에는 사랑이 담겨 있다.|3.4|There is love in parents' scolding.
+/share/datas/kss/1/1_0188.wav|너는 내가 아는 어떤 사람이랑 많이 닮았어.|너는 내가 아는 어떤 사람이랑 많이 닮았어.|너는 내가 아는 어떤 사람이랑 많이 닮았어.|4.0|You look like someone I know.
+/share/datas/kss/1/1_0189.wav|그들은 아주 친한 사이여서 서로를 닮아 가고 있다.|그들은 아주 친한 사이여서 서로를 닮아 가고 있다.|그들은 아주 친한 사이여서 서로를 닮아 가고 있다.|4.6|They are such close friends that they are starting to resemble each other.
+/share/datas/kss/1/1_0190.wav|방금 상자에 담아 둔 책이 없어졌어.|방금 상자에 담아 둔 책이 없어졌어.|방금 상자에 담아 둔 책이 없어졌어.|3.5|The book I've just put in the box is gone.
+/share/datas/kss/1/1_0191.wav|고객이 감사의 마음을 담은 편지를 보내 왔어.|고객이 감사의 마음을 담은 편지를 보내 왔어.|고객이 감사의 마음을 담은 편지를 보내 왔어.|4.7|A customer sent us a letter of thanks.
+/share/datas/kss/1/1_0192.wav|밧줄을 너무 세게 당겨서 끊어졌어.|밧줄을 너무 세게 당겨서 끊어졌어.|밧줄을 너무 세게 당겨서 끊어졌어.|3.2|The rope was broken because I pulled it too hard.
+/share/datas/kss/1/1_0193.wav|문을 당겨서 여세요.|문을 당겨서 여세요.|문을 당겨서 여세요.|2.3|Pull the door open.
+/share/datas/kss/1/1_0194.wav|내 동생이 어제 교통사고를 당했어.|내 동생이 어제 교통사고를 당했어.|내 동생이 어제 교통사고를 당했어.|3.4|My younger brother got into a car accident.
+/share/datas/kss/1/1_0195.wav|그는 자기 부하들 앞에서 창피를 당했다.|그는 자기 부하들 앞에서 창피를 당했다.|그는 자기 부하들 앞에서 창피를 당했다.|4.0|He has lost face before his men.
+/share/datas/kss/1/1_0196.wav|어느 학교에 다녔어요?|어느 학교에 다녔어요?|어느 학교에 다녔어요?|2.2|Where did you go to school?
+/share/datas/kss/1/1_0197.wav|학생이세요? 아니면 직장을 다니세요?|학생이세요? 아니면 직장을 다니세요?|학생이세요? 아니면 직장을 다니세요?|3.6|Are you a student? Or do you work?
+/share/datas/kss/1/1_0198.wav|아버지는 일요일이면 사냥을 다니세요.|아버지는 일요일이면 사냥을 다니세요.|아버지는 일요일이면 사냥을 다니세요.|3.7|My father goes hunting every Sunday.
+/share/datas/kss/1/1_0199.wav|학교 다녀왔어요.|학교 다녀왔어요.|학교 다녀왔어요.|1.8|I'm home.
+/share/datas/kss/1/1_0200.wav|추석에는 많은 사람들이 고향을 다녀온다.|추석에는 많은 사람들이 고향을 다녀온다.|추석에는 많은 사람들이 고향을 다녀온다.|3.7|On Chusok, many people visit their hometown.
+/share/datas/kss/1/1_0201.wav|용의자는 부산으로 달아났다.|용의자는 부산으로 달아났다.|용의자는 부산으로 달아났다.|3.1|The suspect ran away to Busan.
+/share/datas/kss/1/1_0202.wav|도둑은 개를 보고는 달아났습니다.|도둑은 개를 보고는 달아났습니다.|도둑은 개를 보고는 달아났습니다.|3.1|The thief ran away when she saw the dog.
+/share/datas/kss/1/1_0203.wav|신문 좀 내려주실래요? 선반에 손이 안 닿아서요.|신문 좀 내려주실래요? 선반에 손이 안 닿아서요.|신문 좀 내려주실래요? 선반에 손이 안 닿아서요.|4.1|Could you get the paper down? I can't reach the shelf.
+/share/datas/kss/1/1_0204.wav|저희 집은 여기에서 엎어지면 코 닿을 데 있어요.|저희 집은 여기에서 엎어지면 코 닿을 데 있어요.|저희 집은 여기에서 엎어지면 코 닿을 데 있어요.|4.6|I live a stone's throw away from here.
+/share/datas/kss/1/1_0205.wav|창문을 좀 닫아도 될까요?|창문을 좀 닫아도 될까요?|창문을 좀 닫아도 될까요?|2.7|Do you mind if I close the window?
+/share/datas/kss/1/1_0206.wav|저희 가게는 밤 10시에 문을 닫습니다.|저희 가게는 밤 열 시에 문을 닫습니다.|저희 가게는 밤 열 시에 문을 닫습니다.|3.9|We close our shop at 10 p. m.
+/share/datas/kss/1/1_0207.wav|마음 속으로 생각한 수에 2를 더하세요.|마음 속으로 생각한 수에 이를 더하세요.|마음 속으로 생각한 수에 이를 더하세요.|4.3|Add two to the number you've thought of.
+/share/datas/kss/1/1_0208.wav|삼 더하기 사는 칠|삼 더하기 사는 칠|삼 더하기 사는 칠|2.9|3+4=7
+/share/datas/kss/1/1_0209.wav|연못에 돌을 던지지 마세요.|연못에 돌을 던지지 마세요.|연못에 돌을 던지지 마세요.|2.8|Don't throw stones into the pond.
+/share/datas/kss/1/1_0210.wav|투수는 타자가 아닌 포수에게 공을 던져야 한다.|투수는 타자가 아닌 포수에게 공을 던져야 한다.|투수는 타자가 아닌 포수에게 공을 던져야 한다.|4.3|The pitcher must throw a ball to the catcher, not to the hitter.
+/share/datas/kss/1/1_0211.wav|책을 덮으세요.|책을 덮으세요.|책을 덮으세요.|1.6|Close your books.
+/share/datas/kss/1/1_0212.wav|컵을 종이로 덮어 두어라.|컵을 종이로 덮어 두어라.|컵을 종이로 덮어 두어라.|2.5|Cover the cup with paper.
+/share/datas/kss/1/1_0213.wav|7시쯤에 너를 데리러 갈게.|일곱 시쯤에 너를 데리러 갈게.|일곱 시쯤에 너를 데리러 갈게.|3.1|Let me pick you up around seven.
+/share/datas/kss/1/1_0214.wav|그는 딸을 데리고 회사에 왔다.|그는 딸을 데리고 회사에 왔다.|그는 딸을 데리고 회사에 왔다.|2.8|He brought his daughter to the office.
+/share/datas/kss/1/1_0215.wav|이 남자 병원에 데려가야 해.|이 남자 병원에 데려가야 해.|이 남자 병원에 데려가야 해.|2.9|We should take this man to a hospital.
+/share/datas/kss/1/1_0216.wav|오늘 여자 친구를 부모님께 데려갈 거야.|오늘 여자 친구를 부모님께 데려갈 거야.|오늘 여자 친구를 부모님께 데려갈 거야.|3.8|Today I will take my girlfriend over to my house.
+/share/datas/kss/1/1_0217.wav|집들이 때 회사 사람들 집에 데려와도 돼?|집들이 때 회사 사람들 집에 데려와도 돼?|집들이 때 회사 사람들 집에 데려와도 돼?|3.8|Can I bring my colleagues to a house warming party?
+/share/datas/kss/1/1_0218.wav|그때 그녀가 의사를 데려오지 않았으면 나는 죽었을 거야.|그때 그녀가 의사를 데려오지 않았으면 나는 죽었을 거야.|그때 그녀가 의사를 데려오지 않았으면 나는 죽었을 거야.|5.3|I would have died if she had not brought a doctor at that time.
+/share/datas/kss/1/1_0219.wav|그녀를 잊는 데에 2년이 들었어.|그녀를 잊는 데에 이 년이 들었어.|그녀를 잊는 데에 이 년이 들었어.|2.6|It took me two years to forget her.
+/share/datas/kss/1/1_0220.wav|비타민 C가 많이 들어 있는 과일을 드세요.|비타민 씨가 많이 들어 있는 과일을 드세요.|비타민 씨가 많이 들어 있는 과일을 드세요.|3.4|Eat fruits containing lots of vitamin C.
+/share/datas/kss/1/1_0221.wav|감기 든 거니?|감기 든 거니?|감기 든 거니?|1.8|Did you catch a cold?
+/share/datas/kss/1/1_0222.wav|무거운 것을 들다 허리를 삐끗했다.|무거운 것을 들다 허리를 삐끗했다.|무거운 것을 들다 허리를 삐끗했다.|3.6|My back went out as I lifted up a heavy thing.
+/share/datas/kss/1/1_0223.wav|왼손에 우산을 든 여자가 내 아내야.|왼손에 우산을 든 여자가 내 아내야.|왼손에 우산을 든 여자가 내 아내야.|3.7|The woman holding an umbrella in her left hand is my wife.
+/share/datas/kss/1/1_0224.wav|사무실에 잠깐 들러 주실 수 있으세요?|사무실에 잠깐 들러 주실 수 있으세요?|사무실에 잠깐 들러 주실 수 있으세요?|3.3|Are you available to drop by my office for a moment?
+/share/datas/kss/1/1_0225.wav|어제 주유소를 들러서 기름을 가득 채웠습니다.|어제 주유소를 들러서 기름을 가득 채웠습니다.|어제 주유소를 들러서 기름을 가득 채웠습니다.|4.4|Yesterday I stopped at the gas station and filled the tank.
+/share/datas/kss/1/1_0226.wav|제 말이 들리세요?|제 말이 들리세요?|제 말이 들리세요?|1.8|Can you hear me?
+/share/datas/kss/1/1_0227.wav|당신 제안은 흥미롭게 들리네요.|당신 제안은 흥미롭게 들리네요.|당신 제안은 흥미롭게 들리네요.|2.8|Your suggestion sounds interesting.
+/share/datas/kss/1/1_0228.wav|눈에 뭔가가 들어갔어요.|눈에 뭔가가 들어갔어요.|눈에 뭔가가 들어갔어요.|2.7|Why are you blinking? - Something went into my eyes.
+/share/datas/kss/1/1_0229.wav|열쇠를 잃어버려서 창문으로 집에 들어갔다.|열쇠를 잃어버려서 창문으로 집에 들어갔다.|열쇠를 잃어버려서 창문으로 집에 들어갔다.|4.0|I entered my house through the window because I lost my key.
+/share/datas/kss/1/1_0230.wav|그들의 음모가 드러나고 있다.|그들의 음모가 드러나고 있다.|그들의 음모가 드러나고 있다.|2.5|Their conspiracy has been brought to light.
+/share/datas/kss/1/1_0231.wav|그것이 사실임이 드러났다.|그것이 사실임이 드러났다.|그것이 사실임이 드러났다.|2.6|It turned out to be true.
+/share/datas/kss/1/1_0232.wav|그녀가 새하얀 이를 드러내면서 웃었다.|그녀가 새하얀 이를 드러내면서 웃었다.|그녀가 새하얀 이를 드러내면서 웃었다.|3.6|She laughed showing her white teeth.
+/share/datas/kss/1/1_0233.wav|방금 네가 한 말은 너의 무지를 드러내는 거야.|방금 네가 한 말은 너의 무지를 드러내는 거야.|방금 네가 한 말은 너의 무지를 드러내는 거야.|4.2|What you've just said reveals your ignorance.
+/share/datas/kss/1/1_0234.wav|이곳에 들어오시면 안 됩니다.|이곳에 들어오시면 안 됩니다.|이곳에 들어오시면 안 됩니다.|2.4|You are not allowed here.
+/share/datas/kss/1/1_0235.wav|오늘은 집으로 일찍 들어와라.|오늘은 집으로 일찍 들어와라.|오늘은 집으로 일찍 들어와라.|2.8|Come home early today.
+/share/datas/kss/1/1_0236.wav|길을 잘못 들어선 것 같아요.|길을 잘못 들어선 것 같아요.|길을 잘못 들어선 것 같아요.|2.9|I think we are going the wrong way.
+/share/datas/kss/1/1_0237.wav|이 지역에 새 아파트가 여기저기 들어서고 있다.|이 지역에 새 아파트가 여기저기 들어서고 있다.|이 지역에 새 아파트가 여기저기 들어서고 있다.|4.3|New apartments are popping up like mushrooms in this area.
+/share/datas/kss/1/1_0238.wav|제가 전에 명함을 드렸나요?|제가 전에 명함을 드렸나요?|제가 전에 명함을 드렸나요?|2.3|Have I given you my business card before?
+/share/datas/kss/1/1_0239.wav|읽어 드리겠습니다.|읽어 드리겠습니다.|읽어 드리겠습니다.|1.8|Let me read it to you.
+/share/datas/kss/1/1_0240.wav|나는 문을 열고 교회 안을 들여다봤다.|나는 문을 열고 교회 안을 들여다봤다.|나는 문을 열고 교회 안을 들여다봤다.|3.7|I opened the door and looked into the church.
+/share/datas/kss/1/1_0241.wav|그 사람은 하루 종일 현미경을 들여다봐.|그 사람은 하루 종일 현미경을 들여다봐.|그 사람은 하루 종일 현미경을 들여다봐.|4.0|He looks into a microscope all day long.
+/share/datas/kss/1/1_0242.wav|나는 음악을 듣다 잠이 들었다.|나는 음악을 듣다 잠이 들었다.|나는 음악을 듣다 잠이 들었다.|3.0|I fell asleep while listening to the music.
+/share/datas/kss/1/1_0243.wav|제 말 듣고 계세요?|제 말 듣고 계세요?|제 말 듣고 계세요?|1.7|Are you listening to me?
+/share/datas/kss/1/1_0244.wav|몇 시에 인천에 도착하셨어요?|몇 시에 인천에 도착하셨어요?|몇 시에 인천에 도착하셨어요?|2.3|What time did you arrive in Incheon?
+/share/datas/kss/1/1_0245.wav|도착하면 알려 줘.|도착하면 알려 줘.|도착하면 알려 줘.|2.1|Let me know when you get there.
+/share/datas/kss/1/1_0246.wav|나는 10년 뒤에는 부자가 될 거야.|나는 십 년 뒤에는 부자가 될 거야.|나는 십 년 뒤에는 부자가 될 거야.|3.3|I will get rich in 10 years.
+/share/datas/kss/1/1_0247.wav|저는 친구를 사랑하게 되었어요.|저는 친구를 사랑하게 되었어요.|저는 친구를 사랑하게 되었어요.|3.2|I fell in love with my friend.
+/share/datas/kss/1/1_0248.wav|저는 애완견 돌보는 걸 좋아해요.|저는 애완견 돌보는 걸 좋아해요.|저는 애완견 돌보는 걸 좋아해요.|2.8|I like taking care of my pet.
+/share/datas/kss/1/1_0249.wav|우리 엄마는 우리를 돌보는 것 때문에 아침부터 밤까지 바빠요.|우리 엄마는 우리를 돌보는 것 때문에 아침부터 밤까지 바빠요.|우리 엄마는 우리를 돌보는 것 때문에 아침부터 밤까지 바빠요.|5.7|My mom is busy from morning till night taking care of us.
+/share/datas/kss/1/1_0250.wav|곧장 가다가 왼쪽으로 도세요.|곧장 가다가 왼쪽으로 도세요.|곧장 가다가 왼쪽으로 도세요.|3.0|Go straight and then turn left.
+/share/datas/kss/1/1_0251.wav|지구는 태양을 돈다.|지구는 태양을 돈다.|지구는 태양을 돈다.|2.3|The earth revolves round the sun.
+/share/datas/kss/1/1_0252.wav|채널 좀 그만 돌려라.|채널 좀 그만 돌려라.|채널 좀 그만 돌려라.|2.3|Stop changing the channel.
+/share/datas/kss/1/1_0253.wav|그녀는 나를 보자마자 차의 방향을 돌렸다.|그녀는 나를 보자마자 차의 방향을 돌렸다.|그녀는 나를 보자마자 차의 방향을 돌렸다.|4.8|She turned her car around when she saw me.
+/share/datas/kss/1/1_0254.wav|여기에서 도망가자.|여기에서 도망가자.|여기에서 도망가자.|2.1|Let's run away from here.
+/share/datas/kss/1/1_0255.wav|그는 자기 아내를 죽이고 해외로 도망갔다.|그는 자기 아내를 죽이고 해외로 도망갔다.|그는 자기 아내를 죽이고 해외로 도망갔다.|3.9|He fled the country after killing his wife.
+/share/datas/kss/1/1_0256.wav|뭘 도와 드릴까요?|뭘 도와 드릴까요?|뭘 도와 드릴까요?|1.7|How can I help you?
+/share/datas/kss/1/1_0257.wav|하늘은 스스로 돕는 자를 돕는다.|하늘은 스스로 돕는 자를 돕는다.|하늘은 스스로 돕는 자를 돕는다.|3.1|Heaven helps those who help themselves.
+/share/datas/kss/1/1_0258.wav|그 사람은 뒤를 돌아보지 않고 차에 올랐다.|그 사람은 뒤를 돌아보지 않고 차에 올랐다.|그 사람은 뒤를 돌아보지 않고 차에 올랐다.|4.1|He got on the car without looking back.
+/share/datas/kss/1/1_0259.wav|연말에는 한 해를 돌아볼 필요가 있다.|연말에는 한 해를 돌아볼 필요가 있다.|연말에는 한 해를 돌아볼 필요가 있다.|4.0|You should reflect at the end of the year.
+/share/datas/kss/1/1_0260.wav|제 꿈은 한국으로 돌아가는 거예요.|제 꿈은 한국으로 돌아가는 거예요.|제 꿈은 한국으로 돌아가는 거예요.|3.3|My dream is to return to Korea.
+/share/datas/kss/1/1_0261.wav|좀전에 할머니가 돌아가셨다는 전화를 받았어.|좀전에 할머니가 돌아가셨다는 전화를 받았어.|좀전에 할머니가 돌아가셨다는 전화를 받았어.|4.0|I just got a call saying that my grandmother has passed away.
+/share/datas/kss/1/1_0262.wav|그는 19살에 한국으로 돌아왔다.|그는 열아홉 살에 한국으로 돌아왔다.|그는 열아홉 살에 한국으로 돌아왔다.|3.6|He came back to Korea at 19 years of age.
+/share/datas/kss/1/1_0263.wav|환자의 의식이 돌아왔어요.|환자의 의식이 돌아왔어요.|환자의 의식이 돌아왔어요.|2.9|The patient came around.
+/share/datas/kss/1/1_0264.wav|제 숙제 좀 도와주세요.|제 숙제 좀 도와주세요.|제 숙제 좀 도와주세요.|2.1|Please help me with my homework.
+/share/datas/kss/1/1_0265.wav|도와주셔서 고맙습니다.|도와주셔서 고맙습니다.|도와주셔서 고맙습니다.|2.2|Thank you for helping me.
+/share/datas/kss/1/1_0266.wav|이 약은 아이들 손이 닿지 않는 곳에 두세요.|이 약은 아이들 손이 닿지 않는 곳에 두세요.|이 약은 아이들 손이 닿지 않는 곳에 두세요.|4.0|Keep this medicine out of children's reach.
+/share/datas/kss/1/1_0267.wav|수업 중에 휴대폰을 켜 두지 마세요.|수업 중에 휴대폰을 켜 두지 마세요.|수업 중에 휴대폰을 켜 두지 마세요.|3.0|Don't leave your cell phone on in class.
+/share/datas/kss/1/1_0268.wav|이 지역 주변을 둘러보고 싶어요.|이 지역 주변을 둘러보고 싶어요.|이 지역 주변을 둘러보고 싶어요.|2.9|I want to look around this area .
+/share/datas/kss/1/1_0269.wav|그냥 둘러보는 거예요.|그냥 둘러보는 거예요.|그냥 둘러보는 거예요.|2.5|I'm just looking around.
+/share/datas/kss/1/1_0270.wav|적군이 그를 둘러쌌다.|적군이 그를 둘러쌌다.|적군이 그를 둘러쌌다.|2.4|Enemy forces surrounded him.
+/share/datas/kss/1/1_0271.wav|이 문제를 둘러싸고 많은 논의가 있었다.|이 문제를 둘러싸고 많은 논의가 있었다.|이 문제를 둘러싸고 많은 논의가 있었다.|3.7|There were a lot of arguments over this issue.
+/share/datas/kss/1/1_0272.wav|이 얼룩을 없앨 수 있을까요?|이 얼룩을 없앨 수 있을까요?|이 얼룩을 없앨 수 있을까요?|2.2|Can you remove this stain?
+/share/datas/kss/1/1_0273.wav|그렇다면 그 자를 없애!|그렇다면 그 자를 없애!|그렇다면 그 자를 없애!|2.8|And then kill him!
+/share/datas/kss/1/1_0274.wav|이웃집에서 망치를 하나 얻어 와라.|이웃집에서 망치를 하나 얻어 와라.|이웃집에서 망치를 하나 얻어 와라.|3.4|Borrow a hammer from the neighbor.
+/share/datas/kss/1/1_0275.wav|서점에서 아이디어는 좀 얻었어?|서점에서 아이디어는 좀 얻었어?|서점에서 아이디어는 좀 얻었어?|2.7|Did you get some ideas at the bookstore?
+/share/datas/kss/1/1_0276.wav|나쁜 친구와 어울려 다니지 마라.|나쁜 친구와 어울려 다니지 마라.|나쁜 친구와 어울려 다니지 마라.|3.1|Don't hang around with bad company.
+/share/datas/kss/1/1_0277.wav|이 넥타이는 당신에게 어울리지 않아요.|이 넥타이는 당신에게 어울리지 않아요.|이 넥타이는 당신에게 어울리지 않아요.|4.5|This tie doesn't suit you.
+/share/datas/kss/1/1_0278.wav|저는 일요일마다 교회에 갑니다.|저는 일요일마다 교회에 갑니다.|저는 일요일마다 교회에 갑니다.|3.5|I go to church every Sunday.
+/share/datas/kss/1/1_0279.wav|날이 건조해서 농작물이 죽어 가요.|날이 건조해서 농작물이 죽어 가요.|날이 건조해서 농작물이 죽어 가요.|4.1|The weather is dry and the crops are dying.
+/share/datas/kss/1/1_0280.wav|상상력을 개발하고 싶으면 시를 읽으세요.|상상력을 개발하고 싶으면 시를 읽으세요.|상상력을 개발하고 싶으면 시를 읽으세요.|4.3|If you want to develop your imagination, read poems.
+/share/datas/kss/1/1_0281.wav|정부는 이 지역을 관광지로 개발할 계획이라고 발표했다.|정부는 이 지역을 관광지로 개발할 계획이라고 발표했다.|정부는 이 지역을 관광지로 개발할 계획이라고 발표했다.|5.7|The government announced that it would develop this region to an tourist attraction.
+/share/datas/kss/1/1_0282.wav|그 옷은 세탁소로 가져가세요.|그 옷은 세탁소로 가져가세요.|그 옷은 세탁소로 가져가세요.|2.8|Take the clothes to the laundromat.
+/share/datas/kss/1/1_0283.wav|개인 물건들을 꼭 가져가십시오.|개인 물건들을 꼭 가져가십시오.|개인 물건들을 꼭 가져가십시오.|4.0|Please make sure to take all your personal belongings.
+/share/datas/kss/1/1_0284.wav|펜 좀 이리로 가져와라.|펜 좀 이리로 가져와라.|펜 좀 이리로 가져와라.|2.5|Bring a pencil to here.
+/share/datas/kss/1/1_0285.wav|컴퓨터는 우리 생활에 엄청난 변화를 가져왔다.|컴퓨터는 우리 생활에 엄청난 변화를 가져왔다.|컴퓨터는 우리 생활에 엄청난 변화를 가져왔다.|4.5|Computers have brought great changes to our lives.
+/share/datas/kss/1/1_0286.wav|깜빡 잊고 펜을 안 가지고 왔어요.|깜빡 잊고 펜을 안 가지고 왔어요.|깜빡 잊고 펜을 안 가지고 왔어요.|3.1|I forgot to bring a pen with me.
+/share/datas/kss/1/1_0287.wav|우리 부부는 아이를 갖지 않기로 결정했어.|우리 부부는 아이를 갖지 않기로 결정했어.|우리 부부는 아이를 갖지 않기로 결정했어.|4.3|My wife and I decided not to have a baby.
+/share/datas/kss/1/1_0288.wav|그 책 어디에 감춘 거야?|그 책 어디에 감춘 거야?|그 책 어디에 감춘 거야?|2.1|Where did you hide the book?
+/share/datas/kss/1/1_0289.wav|왜 남자라는 사실을 감추려고 한 겁니까?|왜 남자라는 사실을 감추려고 한 겁니까?|왜 남자라는 사실을 감추려고 한 겁니까?|3.7|Why did you try to hide the fact that you're a man?
+/share/datas/kss/1/1_0290.wav|이 자리에 와 주신 여러분께 감사드립니다.|이 자리에 와 주신 여러분께 감사드립니다.|이 자리에 와 주신 여러분께 감사드립니다.|3.5|Thank you for coming here.
+/share/datas/kss/1/1_0291.wav|성원에 깊이 감사하고 있습니다.|성원에 깊이 감사하고 있습니다.|성원에 깊이 감사하고 있습니다.|3.1|I appreciate your support.
+/share/datas/kss/1/1_0292.wav|잠시만 눈 좀 감아 봐.|잠시만 눈 좀 감아 봐.|잠시만 눈 좀 감아 봐.|2.2|Close your eyes for a second.
+/share/datas/kss/1/1_0293.wav|저는 사진을 찍을 때 한쪽 눈을 감는 버릇이 있어요.|저는 사진을 찍을 때 한쪽 눈을 감는 버릇이 있어요.|저는 사진을 찍을 때 한쪽 눈을 감는 버릇이 있어요.|4.5|I have a habit of closing one eye when I take a picture.
+/share/datas/kss/1/1_0294.wav|박스를 끈으로 감아라.|박스를 끈으로 감아라.|박스를 끈으로 감아라.|2.1|Wind a string around the box.
+/share/datas/kss/1/1_0295.wav|실수로 테이프를 너무 많이 감아 버렸다.|실수로 테이프를 너무 많이 감아 버렸다.|실수로 테이프를 너무 많이 감아 버렸다.|3.7|I wound the tapes too much by mistake.
+/share/datas/kss/1/1_0296.wav|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.|5.8|Our teacher always emphasized the importance of reading to us.
+/share/datas/kss/1/1_0297.wav|태권도는 신체뿐만 아니라 마음의 수련을 강조한다.|태권도는 신체뿐만 아니라 마음의 수련을 강조한다.|태권도는 신체뿐만 아니라 마음의 수련을 강조한다.|5.2|Taekwondo emphasizes training the mind and the spirit as well as the body.
+/share/datas/kss/1/1_0298.wav|옷을 좀 갈아입고 올게요.|옷을 좀 갈아입고 올게요.|옷을 좀 갈아입고 올게요.|2.2|Let me go change.
+/share/datas/kss/1/1_0299.wav|그녀는 수영복으로 갈아입은 다음 밖으로 나갔다.|그녀는 수영복으로 갈아입은 다음 밖으로 나갔다.|그녀는 수영복으로 갈아입은 다음 밖으로 나갔다.|4.0|She changed into her swimsuit and went outside.
+/share/datas/kss/1/1_0300.wav|제 생각에는 버스를 갈아타는 게 나을 것 같아요.|제 생각에는 버스를 갈아타는 게 나을 것 같아요.|제 생각에는 버스를 갈아타는 게 나을 것 같아요.|4.0|In my opinion, it's better to change buses.
+/share/datas/kss/1/1_0301.wav|사당역에서 4호선으로 갈아타세요.|사당역에서 사 호선으로 갈아타세요.|사당역에서 사 호선으로 갈아타세요.|3.2|Transfer to line 4 at Sadang station.
+/share/datas/kss/1/1_0302.wav|저는 학생들을 가르치는 일을 좋아합니다.|저는 학생들을 가르치는 일을 좋아합니다.|저는 학생들을 가르치는 일을 좋아합니다.|3.4|I like to teach students.
+/share/datas/kss/1/1_0303.wav|외국인에게 태권도를 가르치고 있어요.|외국인에게 태권도를 가르치고 있어요.|외국인에게 태권도를 가르치고 있어요.|3.0|I'm teaching Taekwondo to foreigners.
+/share/datas/kss/1/1_0304.wav|화살표가 북쪽을 가리키고 있다.|화살표가 북쪽을 가리키고 있다.|화살표가 북쪽을 가리키고 있다.|3.1|The arrow points north.
+/share/datas/kss/1/1_0305.wav|시계는 7시를 가리키고 있어요.|시계는 일곱 시를 가리키고 있어요.|시계는 일곱 시를 가리키고 있어요.|3.6|The clock says seven o'clock.
+/share/datas/kss/1/1_0306.wav|그 호텔은 호화로운 시설들을 갖추고 있다.|그 호텔은 호화로운 시설들을 갖추고 있다.|그 호텔은 호화로운 시설들을 갖추고 있다.|4.3|The hotel has luxurious accommodations.
+/share/datas/kss/1/1_0307.wav|저는 제 자신이 업무에 필요한 모든 자질을 갖추고 있다고 자신합니다.|저는 제 자신이 업무에 필요한 모든 자질을 갖추고 있다고 자신합니다.|저는 제 자신이 업무에 필요한 모든 자질을 갖추고 있다고 자신합니다.|6.9|I'm sure I have all the qualities for the job.
+/share/datas/kss/1/1_0308.wav|감독관이 시험지를 빨리 거둔 것 같아.|감독관이 시험지를 빨리 거둔 것 같아.|감독관이 시험지를 빨리 거둔 것 같아.|3.4|I think the supervisor made us turn in our papers in early.
+/share/datas/kss/1/1_0309.wav|시험에서 좋은 성적을 거두려면 최선을 다해야 해.|시험에서 좋은 성적을 거두려면 최선을 다해야 해.|시험에서 좋은 성적을 거두려면 최선을 다해야 해.|4.5|I have to do my best to get good grades on my exams.
+/share/datas/kss/1/1_0310.wav|그는 내게 자신이 그 회사의 사장이라고 거짓말했다.|그는 내게 자신이 그 회사의 사장이라고 거짓말했다.|그는 내게 자신이 그 회사의 사장이라고 거짓말했다.|4.9|He lied to me that he was the boss of the company.
+/share/datas/kss/1/1_0311.wav|거짓말하지 마세요.|거짓말하지 마세요.|거짓말하지 마세요.|1.7|Don't lie.
+/share/datas/kss/1/1_0312.wav|저는 사소한 일은 걱정하지 않으려고 노력합니다.|저는 사소한 일은 걱정하지 않으려고 노력합니다.|저는 사소한 일은 걱정하지 않으려고 노력합니다.|4.5|I try not to worry about small things.
+/share/datas/kss/1/1_0313.wav|저는 걱정하지 마세요.|저는 걱정하지 마세요.|저는 걱정하지 마세요.|2.4|Don't worry about me.
+/share/datas/kss/1/1_0314.wav|옷걸이에 코트를 걸어라.|옷걸이에 코트를 걸어라.|옷걸이에 코트를 걸어라.|2.5|Hang your coat on the hanger.
+/share/datas/kss/1/1_0315.wav|그녀에게 다가가서 말을 걸었습니다.|그녀에게 다가가서 말을 걸었습니다.|그녀에게 다가가서 말을 걸었습니다.|3.8|I approached the girl and spoke to her.
+/share/datas/kss/1/1_0316.wav|전화 잘못 거셨어요.|전화 잘못 거셨어요.|전화 잘못 거셨어요.|2.3|You have the wrong number.
+/share/datas/kss/1/1_0317.wav|벽에 많은 옷이 걸려 있다.|벽에 많은 옷이 걸려 있다.|벽에 많은 옷이 걸려 있다.|2.5|Many clothes are hanging on the wall.
+/share/datas/kss/1/1_0318.wav|감기에 걸렸어요.|감기에 걸렸어요.|감기에 걸렸어요.|2.1|I caught a cold.
+/share/datas/kss/1/1_0319.wav|끝내려면 두 시간쯤 걸릴 거예요.|끝내려면 두 시간쯤 걸릴 거예요.|끝내려면 두 시간쯤 걸릴 거예요.|3.5|It will take around two hours to get it done.
+/share/datas/kss/1/1_0320.wav|집에서 회사까지 지하철로 얼마나 걸려요?|집에서 회사까지 지하철로 얼마나 걸려요?|집에서 회사까지 지하철로 얼마나 걸려요?|4.3|How long does it take from your house to the office by subway?
+/share/datas/kss/1/1_0321.wav|길을 건너면 은행이 있어요.|길을 건너면 은행이 있어요.|길을 건너면 은행이 있어요.|3.0|There is a bank across the street.
+/share/datas/kss/1/1_0322.wav|돌다리도 두드려 보고 건너라.|돌다리도 두드려 보고 건너라.|돌다리도 두드려 보고 건너라.|3.0|Look before you leap.
+/share/datas/kss/1/1_0323.wav|보통은 회사에 그냥 걸어가요.|보통은 회사에 그냥 걸어가요.|보통은 회사에 그냥 걸어가요.|2.8|Usually I just walk to the office.
+/share/datas/kss/1/1_0324.wav|저쪽으로 걸어가십시오.|저쪽으로 걸어가십시오.|저쪽으로 걸어가십시오.|2.6|Walk that way.
+/share/datas/kss/1/1_0325.wav|여기까지 걸어왔어요.|여기까지 걸어왔어요.|여기까지 걸어왔어요.|2.1|I came here on foot.
+/share/datas/kss/1/1_0326.wav|우리가 얼마나 걸어온 거지?|우리가 얼마나 걸어온 거지?|우리가 얼마나 걸어온 거지?|2.4|How far have we walked?
+/share/datas/kss/1/1_0327.wav|맨발로 걷지 마라.|맨발로 걷지 마라.|맨발로 걷지 마라.|2.2|Don't walk in bare feet.
+/share/datas/kss/1/1_0328.wav|길을 걷다 좋은 생각이 떠올랐어요.|길을 걷다 좋은 생각이 떠올랐어요.|길을 걷다 좋은 생각이 떠올랐어요.|3.0|A good idea popped into my mind as I walked down the street.
+/share/datas/kss/1/1_0329.wav|나무 밑에서 비가 그치기를 기다렸다.|나무 밑에서 비가 그치기를 기다렸다.|나무 밑에서 비가 그치기를 기다렸다.|3.8|I waited under the tree for the rain to stop.
+/share/datas/kss/1/1_0330.wav|나를 보자마자 아기는 울음을 그쳤어요.|나를 보자마자 아기는 울음을 그쳤어요.|나를 보자마자 아기는 울음을 그쳤어요.|4.2|On seeing me, the baby stopped crying.
+/share/datas/kss/1/1_0331.wav|예전 일은 왜 그만두셨어요?|예전 일은 왜 그만두셨어요?|예전 일은 왜 그만두셨어요?|2.5|Why did you quit your previous job?
+/share/datas/kss/1/1_0332.wav|저 그만두겠습니다.|저 그만두겠습니다.|저 그만두겠습니다.|2.1|I'd like to resign.
+/share/datas/kss/1/1_0333.wav|저는 방송국에서 근무하고 있습니다.|저는 방송국에서 근무하고 있습니다.|저는 방송국에서 근무하고 있습니다.|3.4|I work for a broadcasting station.
+/share/datas/kss/1/1_0334.wav|보통 하루에 몇 시간 근무하세요?|보통 하루에 몇 시간 근무하세요?|보통 하루에 몇 시간 근무하세요?|3.2|How many hours do you usually work a day?
+/share/datas/kss/1/1_0335.wav|그러는 게 좋을 것 같아.|그러는 게 좋을 것 같아.|그러는 게 좋을 것 같아.|2.5|It would be better.
+/share/datas/kss/1/1_0336.wav|그러지 않겠다고 약속했잖아.|그러지 않겠다고 약속했잖아.|그러지 않겠다고 약속했잖아.|2.8|You promised not to do that, didn't you?
+/share/datas/kss/1/1_0337.wav|저는 그림을 잘 못 그리지만 그림 그리는 걸 좋아해요.|저는 그림을 잘 못 그리지만 그림 그리는 걸 좋아해요.|저는 그림을 잘 못 그리지만 그림 그리는 걸 좋아해요.|5.0|I'm not a good painter, but I like painting.
+/share/datas/kss/1/1_0338.wav|누구를 그리고 계신 거예요?|누구를 그리고 계신 거예요?|누구를 그리고 계신 거예요?|2.7|Who are you drawing?
+/share/datas/kss/1/1_0339.wav|선생님을 만나 뵙기를 기대하고 있습니다.|선생님을 만나 뵙기를 기대하고 있습니다.|선생님을 만나 뵙기를 기대하고 있습니다.|3.6|I am looking forward to meeting you.
+/share/datas/kss/1/1_0340.wav|너무 기대하지 마.|너무 기대하지 마.|너무 기대하지 마.|2.0|Don't expect too much.
+/share/datas/kss/1/1_0341.wav|순서를 기다려 주세요.|순서를 기다려 주세요.|순서를 기다려 주세요.|2.3|Please wait for your turn.
+/share/datas/kss/1/1_0342.wav|친구를 기다리는 중입니다.|친구를 기다리는 중입니다.|친구를 기다리는 중입니다.|2.5|I am waiting for my friend.
+/share/datas/kss/1/1_0343.wav|아빠가 결혼기념일을 기억하지 못해?|아빠가 결혼기념일을 기억하지 못해?|아빠가 결혼기념일을 기억하지 못해?|3.8|Can't my dad remember his wedding anniversary?
+/share/datas/kss/1/1_0344.wav|저를 기억하시겠어요?|저를 기억하시겠어요?|저를 기억하시겠어요?|2.5|Do you remember me?
+/share/datas/kss/1/1_0345.wav|그 여자 낯은 아주 익은데, 이름이 기억나지 않아요.|그 여자 낯은 아주 익은데, 이름이 기억나지 않아요.|그 여자 낯은 아주 익은데, 이름이 기억나지 않아요.|4.7|She looks very familiar but I can't remember her name.
+/share/datas/kss/1/1_0346.wav|저 기억나세요?|저 기억나세요?|저 기억나세요?|2.3|You remember me, don't you?
+/share/datas/kss/1/1_0347.wav|어머님이 기뻐하시겠어요.|어머님이 기뻐하시겠어요.|어머님이 기뻐하시겠어요.|2.6|Your mother must be very happy.
+/share/datas/kss/1/1_0348.wav|아직 이긴 게 아니니까 기뻐하기에는 이릅니다.|아직 이긴 게 아니니까 기뻐하기에는 이릅니다.|아직 이긴 게 아니니까 기뻐하기에는 이릅니다.|4.5|It's too early to congratulate ourselves because we haven't won yet.
+/share/datas/kss/1/1_0349.wav|엄마, 고양이를 기르게 해 주세요.|엄마, 고양이를 기르게 해 주세요.|엄마, 고양이를 기르게 해 주세요.|3.7|Mom, please let me raise a cat.
+/share/datas/kss/1/1_0350.wav|턱수염을 기른 적이 있어요.|턱수염을 기른 적이 있어요.|턱수염을 기른 적이 있어요.|3.3|I used to have a beard.
+/share/datas/kss/1/1_0351.wav|집중력을 기르는 것이 공부를 잘하는 비결입니다.|집중력을 기르는 것이 공부를 잘하는 비결입니다.|집중력을 기르는 것이 공부를 잘하는 비결입니다.|4.4|The key to a good grade is to improve your concentration.
+/share/datas/kss/1/1_0352.wav|저는 일기장에 하루 동안 있었던 일을 모두 기록합니다.|저는 일기장에 하루 동안 있었던 일을 모두 기록합니다.|저는 일기장에 하루 동안 있었던 일을 모두 기록합니다.|5.2|I record everything about the day in my diary.
+/share/datas/kss/1/1_0353.wav|한국의 자동차 산업은 세계 3위를 기록하고 있습니다.|한국의 자동차 산업은 세계 삼 위를 기록하고 있습니다.|한국의 자동차 산업은 세계 삼 위를 기록하고 있습니다.|4.7|The Korean auto industry ranks No. 3 in the world.
+/share/datas/kss/1/1_0354.wav|몸을 옆으로 기울여 보세요.|몸을 옆으로 기울여 보세요.|몸을 옆으로 기울여 보세요.|2.8|Lean to one side.
+/share/datas/kss/1/1_0355.wav|나는 대체로 선생님의 말씀에 주의를 기울이지 않았다.|나는 대체로 선생님의 말씀에 주의를 기울이지 않았다.|나는 대체로 선생님의 말씀에 주의를 기울이지 않았다.|5.3|I usually didn't pay attention to the teacher.
+/share/datas/kss/1/1_0356.wav|이 라디오 고치는 데 얼마나 걸릴까요?|이 라디오 고치는 데 얼마나 걸릴까요?|이 라디오 고치는 데 얼마나 걸릴까요?|4.2|How long will it take to have this radio fixed?
+/share/datas/kss/1/1_0357.wav|다음 문장에서 틀린 부분을 고치세요.|다음 문장에서 틀린 부분을 고치세요.|다음 문장에서 틀린 부분을 고치세요.|4.0|Correct any mistakes in the following sentence.
+/share/datas/kss/1/1_0358.wav|밑줄 친 부분을 모두 이탤릭으로 고쳐라.|밑줄 친 부분을 모두 이탤릭으로 고쳐라.|밑줄 친 부분을 모두 이탤릭으로 고쳐라.|4.3|Change all the underlined parts to italic.
+/share/datas/kss/1/1_0359.wav|저는 대학에서 국문학을 공부할 거예요.|저는 대학에서 국문학을 공부할 거예요.|저는 대학에서 국문학을 공부할 거예요.|4.1|I will study Korean literature in college.
+/share/datas/kss/1/1_0360.wav|가을은 1년 중 공부하기에 제일 좋은 계절이다.|가을은 일 년 중 공부하기에 제일 좋은 계절이다.|가을은 일 년 중 공부하기에 제일 좋은 계절이다.|4.7|Autumn is the best season of the year to study.
+/share/datas/kss/1/1_0361.wav|이 중에서 하나를 고르세요.|이 중에서 하나를 고르세요.|이 중에서 하나를 고르세요.|2.5|Choose one among these.
+/share/datas/kss/1/1_0362.wav|제일 좋은 걸 고르셨어요.|제일 좋은 걸 고르셨어요.|제일 좋은 걸 고르셨어요.|3.1|You couldn't have chosen anything more suitable.
+/share/datas/kss/1/1_0363.wav|제 나이를 좀 고려해 주셨으면 좋겠어요.|제 나이를 좀 고려해 주셨으면 좋겠어요.|제 나이를 좀 고려해 주셨으면 좋겠어요.|3.8|I hope you consider my age.
+/share/datas/kss/1/1_0364.wav|모든 점을 고려했을 때 가지 않는 게 낫다.|모든 점을 고려했을 때 가지 않는 게 낫다.|모든 점을 고려했을 때 가지 않는 게 낫다.|4.4|All things considered, it's better not to go.
+/share/datas/kss/1/1_0365.wav|왜 사서 고생해?|왜 사서 고생해?|왜 사서 고생해?|2.0|Why are you asking for it?
+/share/datas/kss/1/1_0366.wav|여기에 오시느라 고생하지 않으셨어요?|여기에 오시느라 고생하지 않으셨어요?|여기에 오시느라 고생하지 않으셨어요?|3.4|Did you have any trouble getting here?
+/share/datas/kss/1/1_0367.wav|부산은 구경할 곳이 많아요.|부산은 구경할 곳이 많아요.|부산은 구경할 곳이 많아요.|3.3|There are many sights to see in Busan.
+/share/datas/kss/1/1_0368.wav|어디를 구경하고 싶으세요?|어디를 구경하고 싶으세요?|어디를 구경하고 싶으세요?|2.3|Where would you like to go sightseeing?
+/share/datas/kss/1/1_0369.wav|일자리를 구하고 있습니다.|일자리를 구하고 있습니다.|일자리를 구하고 있습니다.|2.4|I'm looking for work.
+/share/datas/kss/1/1_0370.wav|직장은 구하셨어요?|직장은 구하셨어요?|직장은 구하셨어요?|2.1|Did you get a job?
+/share/datas/kss/1/1_0371.wav|그 개는 주인을 구하기 위해 강으로 뛰어들었다.|그 개는 주인을 구하기 위해 강으로 뛰어들었다.|그 개는 주인을 구하기 위해 강으로 뛰어들었다.|4.8|The dog jumped into the river to save his master.
+/share/datas/kss/1/1_0372.wav|그 의사가 그녀의 목숨을 구해 냈다.|그 의사가 그녀의 목숨을 구해 냈다.|그 의사가 그녀의 목숨을 구해 냈다.|4.0|The doctor managed to save her life.
+/share/datas/kss/1/1_0373.wav|엄마는 빵을 굽고 계세요.|엄마는 빵을 굽고 계세요.|엄마는 빵을 굽고 계세요.|2.8|My mom is baking some bread.
+/share/datas/kss/1/1_0374.wav|나는 소시지를 기름에 튀기는 것보다 석쇠에 굽는 걸 좋아해.|나는 소시지를 기름에 튀기는 것보다 석쇠에 굽는 걸 좋아해.|나는 소시지를 기름에 튀기는 것보다 석쇠에 굽는 걸 좋아해.|6.0|I prefer to grill the sausages than fry them.
+/share/datas/kss/1/1_0375.wav|축구는 11명으로 구성돼 있습니다.|축구는 열한 명으로 구성돼 있습니다.|축구는 열한 명으로 구성돼 있습니다.|4.1|A soccer team is made up of 11 players.
+/share/datas/kss/1/1_0376.wav|이 문제 때문에 위원회가 구성됐습니다.|이 문제 때문에 위원회가 구성됐습니다.|이 문제 때문에 위원회가 구성됐습니다.|3.8|The board was assembled for this task.
+/share/datas/kss/1/1_0377.wav|이번 사건은 마약과 관련되어 있다.|이번 사건은 마약과 관련되어 있다.|이번 사건은 마약과 관련되어 있다.|3.9|This case is associated with drugs.
+/share/datas/kss/1/1_0378.wav|그 일은 내 동생과 관련돼 있어.|그 일은 내 동생과 관련돼 있어.|그 일은 내 동생과 관련돼 있어.|3.6|My brother has something to do with it.
+/share/datas/kss/1/1_0379.wav|내 취미는 길거리의 사람들을 관찰하는 거야.|내 취미는 길거리의 사람들을 관찰하는 거야.|내 취미는 길거리의 사람들을 관찰하는 거야.|4.2|I enjoy watching people on the street.
+/share/datas/kss/1/1_0380.wav|그 이상한 남자는 개미에 대해 관찰하면서 즐거움을 찾았다.|그 이상한 남자는 개미에 대해 관찰하면서 즐거움을 찾았다.|그 이상한 남자는 개미에 대해 관찰하면서 즐거움을 찾았다.|5.9|The strange man got pleasure from observing ants.
+/share/datas/kss/1/1_0381.wav|저는 그 사고에 관해 아는 것이 없습니다.|저는 그 사고에 관해 아는 것이 없습니다.|저는 그 사고에 관해 아는 것이 없습니다.|4.0|I don't know anything about the accident.
+/share/datas/kss/1/1_0382.wav|한국에 관한 책들은 어디에 있나요?|한국에 관한 책들은 어디에 있나요?|한국에 관한 책들은 어디에 있나요?|3.4|Where are some books on Korea?
+/share/datas/kss/1/1_0383.wav|저는 어렸을 때 많은 어려움을 겪었어요.|저는 어렸을 때 많은 어려움을 겪었어요.|저는 어렸을 때 많은 어려움을 겪었어요.|4.1|I experienced many difficulties when I was young.
+/share/datas/kss/1/1_0384.wav|저희 부부는 결혼한 직후에 한 차례 위기를 겪었습니다.|저희 부부는 결혼한 직후에 한 차례 위기를 겪었습니다.|저희 부부는 결혼한 직후에 한 차례 위기를 겪었습니다.|5.7|My wife and I went through a crisis once shortly after our marriage.
+/share/datas/kss/1/1_0385.wav|그와 결혼하기로 마음먹었다.|그와 결혼하기로 마음먹었다.|그와 결혼하기로 마음먹었다.|3.0|I made up my mind to marry him.
+/share/datas/kss/1/1_0386.wav|저희 막 결혼했어요.|저희 막 결혼했어요.|저희 막 결혼했어요.|2.9|We just got married.
+/share/datas/kss/1/1_0387.wav|아무 것도 결정된 건 없어요.|아무 것도 결정된 건 없어요.|아무 것도 결정된 건 없어요.|3.3|Nothing has been decided.
+/share/datas/kss/1/1_0388.wav|학교 이사회에서 그를 해고하기로 결정됐다.|학교 이사회에서 그를 해고하기로 결정됐다.|학교 이사회에서 그를 해고하기로 결정됐다.|4.6|The school board decided that they would fire him.
+/share/datas/kss/1/1_0389.wav|어디로 피서를 갈 지 아직 결정하지 못했어요.|어디로 피서를 갈 지 아직 결정하지 못했어요.|어디로 피서를 갈 지 아직 결정하지 못했어요.|4.3|I haven't decided yet where to go to avoid the hot summer.
+/share/datas/kss/1/1_0390.wav|심사위원들이 그를 우승자로 결정했어요.|심사위원들이 그를 우승자로 결정했어요.|심사위원들이 그를 우승자로 결정했어요.|4.4|The panel of judges chose him as the winner.
+/share/datas/kss/1/1_0391.wav|이혼을 결심했다.|이혼을 결심했다.|이혼을 결심했다.|2.5|I made up my mind to divorce her.
+/share/datas/kss/1/1_0392.wav|좀 더 다이어트를 엄격하게 하기로 결심했어요.|좀 더 다이어트를 엄격하게 하기로 결심했어요.|좀 더 다이어트를 엄격하게 하기로 결심했어요.|4.3|I resolved to go on a stricter diet.
+/share/datas/kss/1/1_0393.wav|이민자들은 육체적, 정신적 고통을 견뎌 왔다.|이민자들은 육체적, 정신적 고통을 견뎌 왔다.|이민자들은 육체적, 정신적 고통을 견뎌 왔다.|4.8|The emigrants have endured physical and mental pain.
+/share/datas/kss/1/1_0394.wav|더 이상 못 견디겠어.|더 이상 못 견디겠어.|더 이상 못 견디겠어.|2.8|I can't take it any longer.
+/share/datas/kss/1/1_0395.wav|저는 한국에 오자마자 문화적 충격을 경험했어요.|저는 한국에 오자마자 문화적 충격을 경험했어요.|저는 한국에 오자마자 문화적 충격을 경험했어요.|4.9|I experienced culture shock as soon as I got to Korea.
+/share/datas/kss/1/1_0396.wav|그는 한국의 여러 다른 생활방식을 경험할 수 있었다.|그는 한국의 여러 다른 생활방식을 경험할 수 있었다.|그는 한국의 여러 다른 생활방식을 경험할 수 있었다.|4.8|He was able to experience many different ways of life in Korea.
+/share/datas/kss/1/1_0397.wav|제가 잘못 계산했나 봐요.|제가 잘못 계산했나 봐요.|제가 잘못 계산했나 봐요.|3.0|I must have miscalculated.
+/share/datas/kss/1/1_0398.wav|카드로 계산하겠습니다.|카드로 계산하겠습니다.|카드로 계산하겠습니다.|2.5|I'll pay with my card.
+/share/datas/kss/1/1_0399.wav|지금 여기에 안 계세요.|지금 여기에 안 계세요.|지금 여기에 안 계세요.|2.9|He's not here at the moment.
+/share/datas/kss/1/1_0400.wav|사장님이 기다리고 계십니다.|사장님이 기다리고 계십니다.|사장님이 기다리고 계십니다.|3.2|My boss is waiting for you.
+/share/datas/kss/1/1_0401.wav|엄마는 병원에 누워 계세요.|엄마는 병원에 누워 계세요.|엄마는 병원에 누워 계세요.|3.1|Mom is flat on her back in the hospital.
+/share/datas/kss/1/1_0402.wav|우리는 밤새도록 얘기를 계속했습니다.|우리는 밤새도록 얘기를 계속했습니다.|우리는 밤새도록 얘기를 계속했습니다.|4.6|We went on talking all night long.
+/share/datas/kss/1/1_0403.wav|그는 계속해서 새로운 변명거리를 만들어 냈다.|그는 계속해서 새로운 변명거리를 만들어 냈다.|그는 계속해서 새로운 변명거리를 만들어 냈다.|5.1|He continued to make new excuses.
+/share/datas/kss/1/1_0404.wav|이렇게 무더운 날씨가 오래 계속되지는 않을 거예요.|이렇게 무더운 날씨가 오래 계속되지는 않을 거예요.|이렇게 무더운 날씨가 오래 계속되지는 않을 거예요.|5.2|Hot weather like this will not continue for so long.
+/share/datas/kss/1/1_0405.wav|회의가 밤늦도록 계속됐다.|회의가 밤늦도록 계속됐다.|회의가 밤늦도록 계속됐다.|3.7|The meeting continued late into the night.
+/share/datas/kss/1/1_0406.wav|지금 당장은 할 일이 없어요.|지금 당장은 할 일이 없어요.|지금 당장은 할 일이 없어요.|2.5|I have nothing to do right now.
+/share/datas/kss/1/1_0407.wav|숙제는 언제 할 거니?|숙제는 언제 할 거니?|숙제는 언제 할 거니?|2.5|When will you do your homework?
+/share/datas/kss/1/1_0408.wav|이 문제를 해결하기 전에는 집에 못 가.|이 문제를 해결하기 전에는 집에 못 가.|이 문제를 해결하기 전에는 집에 못 가.|4.3|You can't come back home before solving this problem.
+/share/datas/kss/1/1_0409.wav|직장 상사와의 갈등은 어떻게 해결하세요?|직장 상사와의 갈등은 어떻게 해결하세요?|직장 상사와의 갈등은 어떻게 해결하세요?|4.5|How do you solve conflicts with your boss?
+/share/datas/kss/1/1_0410.wav|아내는 나를 보고 기쁨의 눈물을 흘렸다.|아내는 나를 보고 기쁨의 눈물을 흘렸다.|아내는 나를 보고 기쁨의 눈물을 흘렸다.|4.8|Seeing me, my wife shed tears of joy.
+/share/datas/kss/1/1_0411.wav|열쇠를 어디에 흘린 거야?|열쇠를 어디에 흘린 거야?|열쇠를 어디에 흘린 거야?|3.2|Where did you drop your key?
+/share/datas/kss/1/1_0412.wav|우리는 탬버린을 흔들면서 같이 노래를 불렀다.|우리는 탬버린을 흔들면서 같이 노래를 불렀다.|우리는 탬버린을 흔들면서 같이 노래를 불렀다.|4.9|We sang together shaking the tambourines.
+/share/datas/kss/1/1_0413.wav|그녀는 아니라고 말하는 대신 고개를 흔들었다.|그녀는 아니라고 말하는 대신 고개를 흔들었다.|그녀는 아니라고 말하는 대신 고개를 흔들었다.|4.9|She shook her head instead of saying no.
+/share/datas/kss/1/1_0414.wav|물은 높은 곳에서 낮은 곳으로 흐른다.|물은 높은 곳에서 낮은 곳으로 흐른다.|물은 높은 곳에서 낮은 곳으로 흐른다.|3.7|Water flows from higher to lower.
+/share/datas/kss/1/1_0415.wav|시간이 흐르면 괜찮아질 거야.|시간이 흐르면 괜찮아질 거야.|시간이 흐르면 괜찮아질 거야.|3.0|You'll be fine as time goes by.
+/share/datas/kss/1/1_0416.wav|이 가방 산 걸 후회하고 있어요|이 가방 산 걸 후회하고 있어요|이 가방 산 걸 후회하고 있어요|2.7|I regret buying this bag.
+/share/datas/kss/1/1_0417.wav|그때 그녀를 차 버린 걸 지금은 후회해요.|그때 그녀를 차 버린 걸 지금은 후회해요.|그때 그녀를 차 버린 걸 지금은 후회해요.|3.9|I regret dumping her at that time.
+/share/datas/kss/1/1_0418.wav|그들은 영수증을 확인하고 돈을 환불해 주었다.|그들은 영수증을 확인하고 돈을 환불해 주었다.|그들은 영수증을 확인하고 돈을 환불해 주었다.|4.4|They gave me a refund after checking the receipt.
+/share/datas/kss/1/1_0419.wav|예약을 확인하고 싶은데요.|예약을 확인하고 싶은데요.|예약을 확인하고 싶은데요.|2.3|I'd like to confirm my reservation.
+/share/datas/kss/1/1_0420.wav|빈 방을 창고로 활용하고 있어요.|빈 방을 창고로 활용하고 있어요.|빈 방을 창고로 활용하고 있어요.|3.4|I use an empty room for storage.
+/share/datas/kss/1/1_0421.wav|성공은 시간을 어떻게 활용하는가에 달려 있다.|성공은 시간을 어떻게 활용하는가에 달려 있다.|성공은 시간을 어떻게 활용하는가에 달려 있다.|4.1|The key to success is how to make use of your time.
+/share/datas/kss/1/1_0422.wav|아빠가 화나신 것 같아.|아빠가 화나신 것 같아.|아빠가 화나신 것 같아.|2.3|My father looks angry.
+/share/datas/kss/1/1_0423.wav|나한테 화났어?|나한테 화났어?|나한테 화났어?|1.6|Are you mad at me?
+/share/datas/kss/1/1_0424.wav|이 배는 일본을 향하고 있습니다.|이 배는 일본을 향하고 있습니다.|이 배는 일본을 향하고 있습니다.|3.6|This ship is bound for Japan.
+/share/datas/kss/1/1_0425.wav|창문을 향해 앉아 주세요.|창문을 향해 앉아 주세요.|창문을 향해 앉아 주세요.|2.8|Please sit facing the window.
+/share/datas/kss/1/1_0426.wav|이번에는 너에게 꼭 이기고 싶어.|이번에는 너에게 꼭 이기고 싶어.|이번에는 너에게 꼭 이기고 싶어.|3.8|I really want to defeat you this time.
+/share/datas/kss/1/1_0427.wav|어려움을 이겨 내지 못하면 성공할 수 없어.|어려움을 이겨 내지 못하면 성공할 수 없어.|어려움을 이겨 내지 못하면 성공할 수 없어.|4.0|You can't succeed if you don't overcome the difficulty.
+/share/datas/kss/1/1_0428.wav|그 연극은 이해하기가 어려웠다.|그 연극은 이해하기가 어려웠다.|그 연극은 이해하기가 어려웠다.|3.7|The play was too hard to understand.
+/share/datas/kss/1/1_0429.wav|교사는 학생들을 이해할 필요가 있습니다.|교사는 학생들을 이해할 필요가 있습니다.|교사는 학생들을 이해할 필요가 있습니다.|3.7|Teachers need to understand students.
+/share/datas/kss/1/1_0430.wav|실은 나 한 달 전에 이혼했어.|실은 나 한 달 전에 이혼했어.|실은 나 한 달 전에 이혼했어.|2.9|Actually I got divorced a month ago.
+/share/datas/kss/1/1_0431.wav|부모님이 이혼하신 이후로 엄마랑 살고 있어요.|부모님이 이혼하신 이후로 엄마랑 살고 있어요.|부모님이 이혼하신 이후로 엄마랑 살고 있어요.|4.1|After my parents' divorce, I have lived with my mom.
+/share/datas/kss/1/1_0432.wav|야, 오랜만이야. 얼굴 잊어버리겠어!|야, 오랜만이야. 얼굴 잊어버리겠어!|야, 오랜만이야. 얼굴 잊어버리겠어!|4.2|Hey, long time no see! I almost forgot what you look like.
+/share/datas/kss/1/1_0433.wav|우산 가져오는 걸 잊어버렸어.|우산 가져오는 걸 잊어버렸어.|우산 가져오는 걸 잊어버렸어.|3.4|I forgot to bring my umbrella.
+/share/datas/kss/1/1_0434.wav|만화책 읽는 거 좋아하세요?|만화책 읽는 거 좋아하세요?|만화책 읽는 거 좋아하세요?|2.7|Do you like reading comic books?
+/share/datas/kss/1/1_0435.wav|저는 글을 읽을 줄은 알지만 쓸 줄은 몰라요.|저는 글을 읽을 줄은 알지만 쓸 줄은 몰라요.|저는 글을 읽을 줄은 알지만 쓸 줄은 몰라요.|4.7|I can read but I can't write.
+/share/datas/kss/1/1_0436.wav|편의점에서 일하고 있습니다.|편의점에서 일하고 있습니다.|편의점에서 일하고 있습니다.|2.6|I work at a convenience store.
+/share/datas/kss/1/1_0437.wav|하루에 몇 시간 일해?|하루에 몇 시간 일해?|하루에 몇 시간 일해?|2.4|How many hours do you work a day?
+/share/datas/kss/1/1_0438.wav|한국에 처음 왔을 때 서울에서 길을 잃었습니다.|한국에 처음 왔을 때 서울에서 길을 잃었습니다.|한국에 처음 왔을 때 서울에서 길을 잃었습니다.|4.5|I got lost in Seoul when I came to Korea for the first time.
+/share/datas/kss/1/1_0439.wav|많은 사람들이 태풍으로 전 재산을 잃었어요.|많은 사람들이 태풍으로 전 재산을 잃었어요.|많은 사람들이 태풍으로 전 재산을 잃었어요.|4.5|Many people lost all of their assets in the typhoon.
+/share/datas/kss/1/1_0440.wav|이모한테 인사해라.|이모한테 인사해라.|이모한테 인사해라.|2.1|Say hi to your aunt.
+/share/datas/kss/1/1_0441.wav|우리 신랑이랑 인사한 적 있어?|우리 신랑이랑 인사한 적 있어?|우리 신랑이랑 인사한 적 있어?|2.9|Have you met my husband before?
+/share/datas/kss/1/1_0442.wav|어떤 옷을 입어야 해요?|어떤 옷을 입어야 해요?|어떤 옷을 입어야 해요?|2.8|Which clothes should I wear?
+/share/datas/kss/1/1_0443.wav|교통사고로 가슴에 상처를 입었어요.|교통사고로 가슴에 상처를 입었어요.|교통사고로 가슴에 상처를 입었어요.|4.0|I got a chest injury from the car accident.
+/share/datas/kss/1/1_0444.wav|길을 잃어버렸어요.|길을 잃어버렸어요.|길을 잃어버렸어요.|2.5|I'm lost.
+/share/datas/kss/1/1_0445.wav|여권을 잃어버렸어요.|여권을 잃어버렸어요.|여권을 잃어버렸어요.|2.5|I lost my passport.
+/share/datas/kss/1/1_0446.wav|자리에서 일어나 대통령을 맞아 주십시오.|자리에서 일어나 대통령을 맞아 주십시오.|자리에서 일어나 대통령을 맞아 주십시오.|4.3|Please stand to welcome the President.
+/share/datas/kss/1/1_0447.wav|무슨 일이 일어난 거야?|무슨 일이 일어난 거야?|무슨 일이 일어난 거야?|2.4|What happened?
+/share/datas/kss/1/1_0448.wav|일어서서 말씀해 주세요.|일어서서 말씀해 주세요.|일어서서 말씀해 주세요.|2.6|Please stand up and speak.
+/share/datas/kss/1/1_0449.wav|그는 바닥을 짚고 간신히 일어섰다.|그는 바닥을 짚고 간신히 일어섰다.|그는 바닥을 짚고 간신히 일어섰다.|4.1|He barely pushed himself up from the floor.
+/share/datas/kss/1/1_0450.wav|천천히 몸을 일으켜 보세요.|천천히 몸을 일으켜 보세요.|천천히 몸을 일으켜 보세요.|2.8|Get up slowly.
+/share/datas/kss/1/1_0451.wav|너는 왜 늘상 말썽을 일으키니?|너는 왜 늘상 말썽을 일으키니?|너는 왜 늘상 말썽을 일으키니?|3.3|Why do you always make trouble?
+/share/datas/kss/1/1_0452.wav|수소와 산소가 결합해서 물을 이룬다.|수소와 산소가 결합해서 물을 이룬다.|수소와 산소가 결합해서 물을 이룬다.|4.0|Hydrogen and oxygen combine to form water.
+/share/datas/kss/1/1_0453.wav|저는 작가라는 내 어릴 적 꿈을 이뤘어요.|저는 작가라는 내 어릴 적 꿈을 이뤘어요.|저는 작가라는 내 어릴 적 꿈을 이뤘어요.|4.1|I realized my childhood dream─to be a writer.
+/share/datas/kss/1/1_0454.wav|축구에서 한 팀은 11명으로 이루어진다.|축구에서 한 팀은 열한 명으로 이루어진다.|축구에서 한 팀은 열한 명으로 이루어진다.|3.8|One team consists of 11 players in soccer.
+/share/datas/kss/1/1_0455.wav|꿈은 이루어진다.|꿈은 이루어진다.|꿈은 이루어진다.|2.2|Dreams come true.
+/share/datas/kss/1/1_0456.wav|사실은 시골로 이사하는 게 싫어.|사실은 시골로 이사하는 게 싫어.|사실은 시골로 이사하는 게 싫어.|2.9|Actually I hate to move to countryside.
+/share/datas/kss/1/1_0457.wav|내일 이사하신다고 들었어요.|내일 이사하신다고 들었어요.|내일 이사하신다고 들었어요.|2.5|I heard that you're moving tomorrow.
+/share/datas/kss/1/1_0458.wav|짧은 끈을 이어서 사용합시다.|짧은 끈을 이어서 사용합시다.|짧은 끈을 이어서 사용합시다.|3.0|Let's use short strings by connecting them.
+/share/datas/kss/1/1_0459.wav|필기시험에 이어 면접이 있겠습니다.|필기시험에 이어 면접이 있겠습니다.|필기시험에 이어 면접이 있겠습니다.|3.5|There will be an interview after the written test.
+/share/datas/kss/1/1_0460.wav|리모컨은 침대 위에 있어.|리모컨은 침대 위에 있어.|리모컨은 침대 위에 있어.|2.9|The remote is on the bed.
+/share/datas/kss/1/1_0461.wav|음악을 듣고 있습니다.|음악을 듣고 있습니다.|음악을 듣고 있습니다.|2.5|I'm listening to music.
+/share/datas/kss/1/1_0462.wav|왜 아직 안 자고 깨어 있니?|왜 아직 안 자고 깨어 있니?|왜 아직 안 자고 깨어 있니?|2.5|Why do you still stay awake?
+/share/datas/kss/1/1_0463.wav|아침에 너무 바빠서 렌즈 끼는 걸 잊었어.|아침에 너무 바빠서 렌즈 끼는 걸 잊었어.|아침에 너무 바빠서 렌즈 끼는 걸 잊었어.|3.8|I was so busy this morning that I forgot to wear contacts.
+/share/datas/kss/1/1_0464.wav|저를 잊지 마세요.|저를 잊지 마세요.|저를 잊지 마세요.|2.2|Please don't forget me.
+/share/datas/kss/1/1_0465.wav|당신과 더 이상 이야기하고 싶지 않아요.|당신과 더 이상 이야기하고 싶지 않아요.|당신과 더 이상 이야기하고 싶지 않아요.|3.6|I don't want to talk to you anymore.
+/share/datas/kss/1/1_0466.wav|아무한테도 이야기하지 마, 알았지?|아무한테도 이야기하지 마, 알았지?|아무한테도 이야기하지 마, 알았지?|3.5|Don't tell anyone, okay?
+/share/datas/kss/1/1_0467.wav|그 영화는 특수효과를 많이 이용해 만들어졌다.|그 영화는 특수효과를 많이 이용해 만들어졌다.|그 영화는 특수효과를 많이 이용해 만들어졌다.|4.6|The movie was made using a lot of special effects.
+/share/datas/kss/1/1_0468.wav|너는 책을 베개로 이용하는구나.|너는 책을 베개로 이용하는구나.|너는 책을 베개로 이용하는구나.|3.1|You use books as a pillow.
+/share/datas/kss/1/1_0469.wav|왜 늦게까지 안 자고 있니?|왜 늦게까지 안 자고 있니?|왜 늦게까지 안 자고 있니?|2.3|Why do you stay up so late?
+/share/datas/kss/1/1_0470.wav|저는 보통 20분 정도 낮잠을 잡니다.|저는 보통 이십 분 정도 낮잠을 잡니다.|저는 보통 이십 분 정도 낮잠을 잡니다.|4.1|I usually take a nap for 20 minutes.
+/share/datas/kss/1/1_0471.wav|모든 일이 잘되기를 빈다.|모든 일이 잘되기를 빈다.|모든 일이 잘되기를 빈다.|2.8|I hope everything goes well.
+/share/datas/kss/1/1_0472.wav|공부 잘되고 있어?|공부 잘되고 있어?|공부 잘되고 있어?|2.0|Is your studying going well?
+/share/datas/kss/1/1_0473.wav|그 사람 요리를 잘하는 것 같아.|그 사람 요리를 잘하는 것 같아.|그 사람 요리를 잘하는 것 같아.|2.9|I think he is a good cook.
+/share/datas/kss/1/1_0474.wav|노래를 정말 잘하시네요.|노래를 정말 잘하시네요.|노래를 정말 잘하시네요.|2.9|You are really good at singing.
+/share/datas/kss/1/1_0475.wav|네가 뭘 잘못했는지 몰라?|네가 뭘 잘못했는지 몰라?|네가 뭘 잘못했는지 몰라?|3.0|Don't you know what you did wrong?
+/share/datas/kss/1/1_0476.wav|저는 잘못한 게 없어요.|저는 잘못한 게 없어요.|저는 잘못한 게 없어요.|2.9|I didn't do anything wrong.
+/share/datas/kss/1/1_0477.wav|계산이 잘못된 것 같은데요.|계산이 잘못된 것 같은데요.|계산이 잘못된 것 같은데요.|3.0|I think the check is wrong.
+/share/datas/kss/1/1_0478.wav|만일 일이 잘못되면, 다 네 탓이야.|만일 일이 잘못되면, 다 네 탓이야.|만일 일이 잘못되면, 다 네 탓이야.|3.9|If anything goes wrong, I'll blame you for that.
+/share/datas/kss/1/1_0479.wav|잠들었으면 깨우지 마세요.|잠들었으면 깨우지 마세요.|잠들었으면 깨우지 마세요.|3.0|If she's asleep, don't disturb her.
+/share/datas/kss/1/1_0480.wav|요즘 잠들기가 힘들어.|요즘 잠들기가 힘들어.|요즘 잠들기가 힘들어.|2.6|I have trouble sleeping these days.
+/share/datas/kss/1/1_0481.wav|잠자는 척하는 게 쉬운 일이 아니야.|잠자는 척하는 게 쉬운 일이 아니야.|잠자는 척하는 게 쉬운 일이 아니야.|3.6|It's never easy to pretend to be asleep.
+/share/datas/kss/1/1_0482.wav|잠잘 시간이야.|잠잘 시간이야.|잠잘 시간이야.|1.9|It's time to go to bed.
+/share/datas/kss/1/1_0483.wav|범인이 누구한테 잡혔어요?|범인이 누구한테 잡혔어요?|범인이 누구한테 잡혔어요?|2.7|Who caught the criminal?
+/share/datas/kss/1/1_0484.wav|경찰에게 잡힌 용의자는 혐의를 부인했다.|경찰에게 잡힌 용의자는 혐의를 부인했다.|경찰에게 잡힌 용의자는 혐의를 부인했다.|4.1|The suspect caught by the police denied all charges.
+/share/datas/kss/1/1_0485.wav|내 손 잡아.|내 손 잡아.|내 손 잡아.|1.9|Hold my hand.
+/share/datas/kss/1/1_0486.wav|그는 자신이 거의 도둑을 잡을 뻔했다고 말했다.|그는 자신이 거의 도둑을 잡을 뻔했다고 말했다.|그는 자신이 거의 도둑을 잡을 뻔했다고 말했다.|3.9|He said he almost caught the thief.
+/share/datas/kss/1/1_0487.wav|머리가 너무 귀찮아. 너무 빨리 자라.|머리가 너무 귀찮아. 너무 빨리 자라.|머리가 너무 귀찮아. 너무 빨리 자라.|3.8|My hair is so annoying. It grows too fast.
+/share/datas/kss/1/1_0488.wav|저는 부산에서 자랐어요.|저는 부산에서 자랐어요.|저는 부산에서 자랐어요.|2.6|I grew up in Busan.
+/share/datas/kss/1/1_0489.wav|그 여자 자기 딸 자랑하는 데에 질렸어.|그 여자 자기 딸 자랑하는 데에 질렸어.|그 여자 자기 딸 자랑하는 데에 질렸어.|4.4|I was sick and tired of hearing her brag about her daughter.
+/share/datas/kss/1/1_0490.wav|우리 엄마는 내가 네 살 때 한글을 깨쳤다고 자랑했다.|우리 엄마는 내가 네 살 때 한글을 깨쳤다고 자랑했다.|우리 엄마는 내가 네 살 때 한글을 깨쳤다고 자랑했다.|5.6|My mom boasted that I mastered Hangul at the age of four.
+/share/datas/kss/1/1_0491.wav|머리 잘랐어?|머리 잘랐어?|머리 잘랐어?|1.9|Did you have your hair cut?
+/share/datas/kss/1/1_0492.wav|다이아몬드가 단단한 물질을 자르는 데 사용된다는 거 알아?|다이아몬드가 단단한 물질을 자르는 데 사용된다는 거 알아?|다이아몬드가 단단한 물질을 자르는 데 사용된다는 거 알아?|5.7|Do you know diamonds are used to cut hard materials?
+/share/datas/kss/1/1_0493.wav|그 사람은 집이 없는 사람들에게 먹을 것을 무료로 제공하고 있다.|그 사람은 집이 없는 사람들에게 먹을 것을 무료로 제공하고 있다.|그 사람은 집이 없는 사람들에게 먹을 것을 무료로 제공하고 있다.|6.2|He provides the homeless with food for free.
+/share/datas/kss/1/1_0494.wav|그 후보자는 많은 사람들에게 일자리를 제공하겠다고 약속했다.|그 후보자는 많은 사람들에게 일자리를 제공하겠다고 약속했다.|그 후보자는 많은 사람들에게 일자리를 제공하겠다고 약속했다.|6.9|The candidate promised to offer many people jobs.
+/share/datas/kss/1/1_0495.wav|나는 주로 학교 생활에 관한 것들을 일기에 적는다.|나는 주로 학교 생활에 관한 것들을 일기에 적는다.|나는 주로 학교 생활에 관한 것들을 일기에 적는다.|4.9|I write mainly about my school life in my diary.
+/share/datas/kss/1/1_0496.wav|성함을 영어로 적어 주세요.|성함을 영어로 적어 주세요.|성함을 영어로 적어 주세요.|2.6|Please write down your name in English.
+/share/datas/kss/1/1_0497.wav|누가 낼 건지 가위바위보로 정하자.|누가 낼 건지 가위바위보로 정하자.|누가 낼 건지 가위바위보로 정하자.|3.6|Let's decide who will pay by playing rock-paper-scissors.
+/share/datas/kss/1/1_0498.wav|약속 장소는 어디로 정했어?|약속 장소는 어디로 정했어?|약속 장소는 어디로 정했어?|3.3|Where did you decide to meet?
+/share/datas/kss/1/1_0499.wav|이 서류들을 알파벳 순으로 정리하세요.|이 서류들을 알파벳 순으로 정리하세요.|이 서류들을 알파벳 순으로 정리하세요.|3.5|Arrange these documents in alphabetical order.
+/share/datas/kss/1/1_0500.wav|방을 정리하는 데 여러 시간이 걸렸습니다.|방을 정리하는 데 여러 시간이 걸렸습니다.|방을 정리하는 데 여러 시간이 걸렸습니다.|3.7|It took hours to tidy up my room.
+/share/datas/kss/1/1_0501.wav|부모님께 안부 전해 주세요.|부모님께 안부 전해 주세요.|부모님께 안부 전해 주세요.|2.9|Please say hello to your parents.
+/share/datas/kss/1/1_0502.wav|이 책을 그 사람에게 꼭 몰래 전해야 합니다.|이 책을 그 사람에게 꼭 몰래 전해야 합니다.|이 책을 그 사람에게 꼭 몰래 전해야 합니다.|4.5|Make sure to deliver this book to him in secret.
+/share/datas/kss/1/1_0503.wav|회사에는 전화했어?|회사에는 전화했어?|회사에는 전화했어?|2.1|Did you call the office?
+/share/datas/kss/1/1_0504.wav|나중에 제가 다시 전화할게요.|나중에 제가 다시 전화할게요.|나중에 제가 다시 전화할게요.|2.7|I'll call again later.
+/share/datas/kss/1/1_0505.wav|비에 옷이 다 젖으셨네요.|비에 옷이 다 젖으셨네요.|비에 옷이 다 젖으셨네요.|2.4|Your clothes got all wet in the rain.
+/share/datas/kss/1/1_0506.wav|젖은 옷을 말리지 않으면 감기에 걸릴지도 몰라.|젖은 옷을 말리지 않으면 감기에 걸릴지도 몰라.|젖은 옷을 말리지 않으면 감기에 걸릴지도 몰라.|4.6|You may catch a cold if you don't dry your wet clothes.
+/share/datas/kss/1/1_0507.wav|아버지는 내게 인생을 즐기라고 말씀하시곤 했어.|아버지는 내게 인생을 즐기라고 말씀하시곤 했어.|아버지는 내게 인생을 즐기라고 말씀하시곤 했어.|4.9|My father would tell me to enjoy my life.
+/share/datas/kss/1/1_0508.wav|저는 맥주를 즐겨 마십니다.|저는 맥주를 즐겨 마십니다.|저는 맥주를 즐겨 마십니다.|3.0|I like to drink beer.
+/share/datas/kss/1/1_0509.wav|올해 들어 범죄가 눈에 띄게 증가했어요.|올해 들어 범죄가 눈에 띄게 증가했어요.|올해 들어 범죄가 눈에 띄게 증가했어요.|3.8|There has been a significant increase in crime this year.
+/share/datas/kss/1/1_0510.wav|이 제품에 대한 수요가 증가하고 있다.|이 제품에 대한 수요가 증가하고 있다.|이 제품에 대한 수요가 증가하고 있다.|3.8|Demands for this product are on the increase.
+/share/datas/kss/1/1_0511.wav|벌써 지친 거야?|벌써 지친 거야?|벌써 지친 거야?|2.0|Are you exhausted already?
+/share/datas/kss/1/1_0512.wav|당신한테 잔소리하는 것도 지쳤어요.|당신한테 잔소리하는 것도 지쳤어요.|당신한테 잔소리하는 것도 지쳤어요.|3.4|I am fed up with nagging you.
+/share/datas/kss/1/1_0513.wav|그는 여자에게 지는 걸 굉장히 싫어한다.|그는 여자에게 지는 걸 굉장히 싫어한다.|그는 여자에게 지는 걸 굉장히 싫어한다.|4.4|He hates to lose to a woman so much.
+/share/datas/kss/1/1_0514.wav|내가 게임에서 지다니 믿을 수가 없어.|내가 게임에서 지다니 믿을 수가 없어.|내가 게임에서 지다니 믿을 수가 없어.|4.1|I can't believe I lost the game.
+/share/datas/kss/1/1_0515.wav|그는 약속을 잘 지키는 사람이다.|그는 약속을 잘 지키는 사람이다.|그는 약속을 잘 지키는 사람이다.|3.6|He is a man of his word.
+/share/datas/kss/1/1_0516.wav|많은 청년들이 나라를 지키기 위해 자원입대했다.|많은 청년들이 나라를 지키기 위해 자원입대했다.|많은 청년들이 나라를 지키기 위해 자원입대했다.|4.9|Many young men volunteered for military service to protect their country.
+/share/datas/kss/1/1_0517.wav|어머니는 내가 먹는 것을 말없이 지켜보셨다.|어머니는 내가 먹는 것을 말없이 지켜보셨다.|어머니는 내가 먹는 것을 말없이 지켜보셨다.|4.8|My mother silently watched me eating.
+/share/datas/kss/1/1_0518.wav|형사는 용의자를 주의 깊게 지켜보았다.|형사는 용의자를 주의 깊게 지켜보았다.|형사는 용의자를 주의 깊게 지켜보았다.|4.0|The detective watched the suspect carefully.
+/share/datas/kss/1/1_0519.wav|주저하지 말고 모르는 건 선생님께 질문해라.|주저하지 말고 모르는 건 선생님께 질문해라.|주저하지 말고 모르는 건 선생님께 질문해라.|4.4|Don't hesitate to ask the teacher something you don't know.
+/share/datas/kss/1/1_0520.wav|질문하실 분 계신가요?|질문하실 분 계신가요?|질문하실 분 계신가요?|2.6|Is there anyone who has any questions?
+/share/datas/kss/1/1_0521.wav|마지막으로 사람을 본 지 3년이 지났다.|마지막으로 사람을 본 지 삼 년이 지났다.|마지막으로 사람을 본 지 삼 년이 지났다.|3.8|It has been three years since I saw anyone for the last time.
+/share/datas/kss/1/1_0522.wav|자리에서 졸다가 한 정거장을 지났어요.|자리에서 졸다가 한 정거장을 지났어요.|자리에서 졸다가 한 정거장을 지났어요.|4.2|I passed one stop, napping in the seat.
+/share/datas/kss/1/1_0523.wav|어떻게 지내니?|어떻게 지내니?|어떻게 지내니?|1.8|How are you doing?
+/share/datas/kss/1/1_0524.wav|아내와 저는 행복하게 잘 지내고 있습니다.|아내와 저는 행복하게 잘 지내고 있습니다.|아내와 저는 행복하게 잘 지내고 있습니다.|4.2|My wife and I are living happily.
+/share/datas/kss/1/1_0525.wav|여름 방학이 눈 깜짝할 사이에 지나갔어.|여름 방학이 눈 깜짝할 사이에 지나갔어.|여름 방학이 눈 깜짝할 사이에 지나갔어.|4.2|Summer vacation passed in a flash.
+/share/datas/kss/1/1_0526.wav|이 버스가 종로를 지나갑니까?|이 버스가 종로를 지나갑니까?|이 버스가 종로를 지나갑니까?|3.5|Does this bus go by Jongno?
+/share/datas/kss/1/1_0527.wav|모든 것이 잘 진행되고 있어요.|모든 것이 잘 진행되고 있어요.|모든 것이 잘 진행되고 있어요.|3.6|Everything is going well.
+/share/datas/kss/1/1_0528.wav|그 일은 계획한 대로 진행되고 있습니다.|그 일은 계획한 대로 진행되고 있습니다.|그 일은 계획한 대로 진행되고 있습니다.|4.0|The work is proceeding as planned.
+/share/datas/kss/1/1_0529.wav|젓가락으로 콩 한 조각 집을 수 있니?|젓가락으로 콩 한 조각 집을 수 있니?|젓가락으로 콩 한 조각 집을 수 있니?|3.0|Can you pick up a bean with chopsticks?
+/share/datas/kss/1/1_0530.wav|제 노트 좀 집어 주시겠어요?|제 노트 좀 집어 주시겠어요?|제 노트 좀 집어 주시겠어요?|2.7|Could you pick up my notebook?
+/share/datas/kss/1/1_0531.wav|사람들은 뱀을 보고는 비명을 지르기 시작했습니다.|사람들은 뱀을 보고는 비명을 지르기 시작했습니다.|사람들은 뱀을 보고는 비명을 지르기 시작했습니다.|4.9|People started screaming when they saw a snake.
+/share/datas/kss/1/1_0532.wav|집에 불이 나지 않는 이상은 고함 지르지 마라.|집에 불이 나지 않는 이상은 고함 지르지 마라.|집에 불이 나지 않는 이상은 고함 지르지 마라.|4.6|Never shout unless the house is on fire.
+/share/datas/kss/1/1_0533.wav|교회를 어디에 지을지는 아직 결정되지 않았습니다.|교회를 어디에 지을지는 아직 결정되지 않았습니다.|교회를 어디에 지을지는 아직 결정되지 않았습니다.|4.5|It is not decided yet where to build the church.
+/share/datas/kss/1/1_0534.wav|따님 이름은 뭐라고 지었어요?|따님 이름은 뭐라고 지었어요?|따님 이름은 뭐라고 지었어요?|2.9|What did you name your daughter?
+/share/datas/kss/1/1_0535.wav|그녀는 억지로 미소를 짓고 있었다.|그녀는 억지로 미소를 짓고 있었다.|그녀는 억지로 미소를 짓고 있었다.|4.2|She forced a smile.
+/share/datas/kss/1/1_0536.wav|화장은 하는 것보다 지우는 게 훨씬 더 중요하다.|화장은 하는 것보다 지우는 게 훨씬 더 중요하다.|화장은 하는 것보다 지우는 게 훨씬 더 중요하다.|4.5|Removing makeup is much more important than putting it on.
+/share/datas/kss/1/1_0537.wav|누군가가 제 전화기의 메시지를 자꾸 지우는 것 같아요.|누군가가 제 전화기의 메시지를 자꾸 지우는 것 같아요.|누군가가 제 전화기의 메시지를 자꾸 지우는 것 같아요.|5.1|I think someone keeps erasing messages on my phone.
+/share/datas/kss/1/1_0538.wav|아버지는 포크로 음식을 찍어 먹는 것을 좋아하지 않으세요.|아버지는 포크로 음식을 찍어 먹는 것을 좋아하지 않으세요.|아버지는 포크로 음식을 찍어 먹는 것을 좋아하지 않으세요.|5.3|My dad doesn't like to spear food with a fork.
+/share/datas/kss/1/1_0539.wav|그 나라에 가려면 지문을 찍어야 한다.|그 나라에 가려면 지문을 찍어야 한다.|그 나라에 가려면 지문을 찍어야 한다.|3.8|You will be subjected to fingerprinting as you enter the country.
+/share/datas/kss/1/1_0540.wav|여기서 사진 찍어도 됩니까?|여기서 사진 찍어도 됩니까?|여기서 사진 찍어도 됩니까?|2.8|May I take pictures here?
+/share/datas/kss/1/1_0541.wav|나는 여름을 별로 좋아하지 않아.|나는 여름을 별로 좋아하지 않아.|나는 여름을 별로 좋아하지 않아.|2.9|I don't like summer very much.
+/share/datas/kss/1/1_0542.wav|어느 가수를 제일 좋아하니?|어느 가수를 제일 좋아하니?|어느 가수를 제일 좋아하니?|2.5|Who is your favorite singer?
+/share/datas/kss/1/1_0543.wav|자리에 앉아 졸다가 한 정거장을 지나쳤다.|자리에 앉아 졸다가 한 정거장을 지나쳤다.|자리에 앉아 졸다가 한 정거장을 지나쳤다.|4.0|I passed one stop, napping in the seat.
+/share/datas/kss/1/1_0544.wav|실은 줄곧 졸았어요.|실은 줄곧 졸았어요.|실은 줄곧 졸았어요.|2.6|In fact, I snoozed the whole way.
+/share/datas/kss/1/1_0545.wav|저는 서울대학교를 졸업했습니다.|저는 서울대학교를 졸업했습니다.|저는 서울대학교를 졸업했습니다.|3.0|I graduated from Seoul National University.
+/share/datas/kss/1/1_0546.wav|졸업하고 나서 뭘 하고 싶어?|졸업하고 나서 뭘 하고 싶어?|졸업하고 나서 뭘 하고 싶어?|3.0|What do you want to do after you graduate?
+/share/datas/kss/1/1_0547.wav|경찰이 사건 현장을 조사하고 있어요.|경찰이 사건 현장을 조사하고 있어요.|경찰이 사건 현장을 조사하고 있어요.|3.5|The police are investigating the scene of the incident.
+/share/datas/kss/1/1_0548.wav|오늘의 과제는 환경오염에 대해 조사하는 겁니다.|오늘의 과제는 환경오염에 대해 조사하는 겁니다.|오늘의 과제는 환경오염에 대해 조사하는 겁니다.|4.4|Today's assignment is to research about environmental pollution.
+/share/datas/kss/1/1_0549.wav|자동차 조심해.|자동차 조심해.|자동차 조심해.|1.6|Watch out for cars.
+/share/datas/kss/1/1_0550.wav|감기 조심하세요.|감기 조심하세요.|감기 조심하세요.|1.8|Be careful not to catch a cold.
+/share/datas/kss/1/1_0551.wav|제게 기회를 주셔서 감사합니다.|제게 기회를 주셔서 감사합니다.|제게 기회를 주셔서 감사합니다.|3.0|Thank you for giving me a chance.
+/share/datas/kss/1/1_0552.wav|저 대신 운전 좀 해 주세요.|저 대신 운전 좀 해 주세요.|저 대신 운전 좀 해 주세요.|2.6|Can you drive for me?
+/share/datas/kss/1/1_0553.wav|그 사람을 왜 죽인 거야?|그 사람을 왜 죽인 거야?|그 사람을 왜 죽인 거야?|2.0|Why did you kill him?
+/share/datas/kss/1/1_0554.wav|시간 죽이려고 영화 보고 있어요.|시간 죽이려고 영화 보고 있어요.|시간 죽이려고 영화 보고 있어요.|2.9|I'm watching a movie to kill time.
+/share/datas/kss/1/1_0555.wav|일본은 독도를 자기 땅이라고 주장하고 있다.|일본은 독도를 자기 땅이라고 주장하고 있다.|일본은 독도를 자기 땅이라고 주장하고 있다.|4.1|Japan claims Dokdo is their territory.
+/share/datas/kss/1/1_0556.wav|그녀는 자신이 죄가 없다고 주장했다.|그녀는 자신이 죄가 없다고 주장했다.|그녀는 자신이 죄가 없다고 주장했다.|3.8|She insisted on her innocence.
+/share/datas/kss/1/1_0557.wav|아내가 죽은 지 10년이 됐어요.|아내가 죽은 지 십 년이 됐어요.|아내가 죽은 지 십 년이 됐어요.|2.8|It has been ten years since my wife died.
+/share/datas/kss/1/1_0558.wav|왜 이렇게 풀이 죽었어?|왜 이렇게 풀이 죽었어?|왜 이렇게 풀이 죽었어?|2.0|Why do you look so down?
+/share/datas/kss/1/1_0559.wav|당신을 위해 뭔가를 준비했어요.|당신을 위해 뭔가를 준비했어요.|당신을 위해 뭔가를 준비했어요.|3.1|I've prepared something for you.
+/share/datas/kss/1/1_0560.wav|저는 매일 엄마가 저녁 준비하시는 걸 도와드려요.|저는 매일 엄마가 저녁 준비하시는 걸 도와드려요.|저는 매일 엄마가 저녁 준비하시는 걸 도와드려요.|4.9|I help my mom prepare dinner everyday.
+/share/datas/kss/1/1_0561.wav|스웨터가 줄어들었어.|스웨터가 줄어들었어.|스웨터가 줄어들었어.|2.6|My sweater has shrunk.
+/share/datas/kss/1/1_0562.wav|한국의 농촌 인구가 줄어들고 있다.|한국의 농촌 인구가 줄어들고 있다.|한국의 농촌 인구가 줄어들고 있다.|3.6|The rural population of Korea is getting smaller.
+/share/datas/kss/1/1_0563.wav|소리 좀 줄여 주실래요?|소리 좀 줄여 주실래요?|소리 좀 줄여 주실래요?|1.8|Do you mind turning down the volume?
+/share/datas/kss/1/1_0564.wav|운동은 질병의 위험을 줄이기 위해 필요하다.|운동은 질병의 위험을 줄이기 위해 필요하다.|운동은 질병의 위험을 줄이기 위해 필요하다.|4.2|Exercise is necessary to reduce the risk of disease.
+/share/datas/kss/1/1_0565.wav|밧줄을 꽉 쥐어라.|밧줄을 꽉 쥐어라.|밧줄을 꽉 쥐어라.|2.1|Hold the rope firmly.
+/share/datas/kss/1/1_0566.wav|그는 흥분하여 두 주먹을 불끈 쥐었다.|그는 흥분하여 두 주먹을 불끈 쥐었다.|그는 흥분하여 두 주먹을 불끈 쥐었다.|4.2|He clenched his fists in fury.
+/share/datas/kss/1/1_0567.wav|요즘에는 아이들의 키도 커지고 덩치도 커졌다.|요즘에는 아이들의 키도 커지고 덩치도 커졌다.|요즘에는 아이들의 키도 커지고 덩치도 커졌다.|4.4|These days, children have become taller and bigger.
+/share/datas/kss/1/1_0568.wav|홈쇼핑 사업은 점점 커지고 있다.|홈쇼핑 사업은 점점 커지고 있다.|홈쇼핑 사업은 점점 커지고 있다.|3.7|Home shopping businesses are getting bigger.
+/share/datas/kss/1/1_0569.wav|너 이 다음에 커서 뭐가 되고 싶니?|너 이 다음에 커서 뭐가 되고 싶니?|너 이 다음에 커서 뭐가 되고 싶니?|2.6|What do you want to be in the future when you grow up.
+/share/datas/kss/1/1_0570.wav|저는 시골에서 컸어요.|저는 시골에서 컸어요.|저는 시골에서 컸어요.|2.1|I grew up in the countryside.
+/share/datas/kss/1/1_0571.wav|저는 고양이를 12마리 키워요.|저는 고양이를 열두 마리 키워요.|저는 고양이를 열두 마리 키워요.|3.4|I have twelve cats.
+/share/datas/kss/1/1_0572.wav|아버지는 혼자서 나와 형을 키우셨다.|아버지는 혼자서 나와 형을 키우셨다.|아버지는 혼자서 나와 형을 키우셨다.|3.8|My father raised me and my elder brother by himself.
+/share/datas/kss/1/1_0573.wav|어제 한밤중에 갑자기 잠에서 깼습니다.|어제 한밤중에 갑자기 잠에서 깼습니다.|어제 한밤중에 갑자기 잠에서 깼습니다.|3.7|Yesterday in the middle of the night, I woke up suddenly.
+/share/datas/kss/1/1_0574.wav|술이 깬 다음 얘기하자.|술이 깬 다음 얘기하자.|술이 깬 다음 얘기하자.|2.4|Let's talk when you sober up.
+/share/datas/kss/1/1_0575.wav|실수로 접시를 깼어요.|실수로 접시를 깼어요.|실수로 접시를 깼어요.|2.6|I broke the dishes by mistake.
+/share/datas/kss/1/1_0576.wav|걔는 늘 분위기를 깨.|걔는 늘 분위기를 깨.|걔는 늘 분위기를 깨.|3.1|He/She always spoil the mood.
+/share/datas/kss/1/1_0577.wav|이제서야 제 실수를 깨달았어요.|이제서야 제 실수를 깨달았어요.|이제서야 제 실수를 깨달았어요.|4.1|Until now I couldn't realize my mistake.
+/share/datas/kss/1/1_0578.wav|나는 내가 그녀를 많이 사랑한다는 걸 깨달았다.|나는 내가 그녀를 많이 사랑한다는 걸 깨달았다.|나는 내가 그녀를 많이 사랑한다는 걸 깨달았다.|4.5|I realized I loved her so much.
+/share/datas/kss/1/1_0579.wav|사과 깎을 줄 알아?|사과 깎을 줄 알아?|사과 깎을 줄 알아?|2.0|Can you peel an apple?
+/share/datas/kss/1/1_0580.wav|어제 머리를 깎았어요.|어제 머리를 깎았어요.|어제 머리를 깎았어요.|2.4|I had my hair cut yesterday.
+/share/datas/kss/1/1_0581.wav|조금만 깎아 주세요.|조금만 깎아 주세요.|조금만 깎아 주세요.|2.5|Please give me a little discount.
+/share/datas/kss/1/1_0582.wav|그 사람은 자기 지갑을 꺼내려고 차에 갔어요.|그 사람은 자기 지갑을 꺼내려고 차에 갔어요.|그 사람은 자기 지갑을 꺼내려고 차에 갔어요.|4.3|He/She went to go get his/her wallet out of the car.
+/share/datas/kss/1/1_0583.wav|그는 호주머니에서 반지를 꺼내 내게 청혼했다.|그는 호주머니에서 반지를 꺼내 내게 청혼했다.|그는 호주머니에서 반지를 꺼내 내게 청혼했다.|4.6|He took out a ring from his pocket and proposed to me.
+/share/datas/kss/1/1_0584.wav|담배 껐는지 확인해라.|담배 껐는지 확인해라.|담배 껐는지 확인해라.|2.9|Make sure you put out the cigarette.
+/share/datas/kss/1/1_0585.wav|방을 나갈 때에는 불을 꺼라.|방을 나갈 때에는 불을 꺼라.|방을 나갈 때에는 불을 꺼라.|3.1|Turn the light out when you leave the room.
+/share/datas/kss/1/1_0586.wav|그는 고개를 끄덕이면서 말했다.|그는 고개를 끄덕이면서 말했다.|그는 고개를 끄덕이면서 말했다.|3.3|He spoke while nodding his head.
+/share/datas/kss/1/1_0587.wav|어떤 나라에서는 고개를 끄덕이는 것이 부정을 의미합니다.|어떤 나라에서는 고개를 끄덕이는 것이 부정을 의미합니다.|어떤 나라에서는 고개를 끄덕이는 것이 부정을 의미합니다.|4.9|In some countries, to nod means "no."
+/share/datas/kss/1/1_0588.wav|아이가 엄마 소매를 끌었다.|아이가 엄마 소매를 끌었다.|아이가 엄마 소매를 끌었다.|3.0|The kid pulled his mom by the sleeve.
+/share/datas/kss/1/1_0589.wav|그 여배우는 늘 사람들의 시선을 끈다.|그 여배우는 늘 사람들의 시선을 끈다.|그 여배우는 늘 사람들의 시선을 끈다.|3.7|The actress always draws people's attention.
+/share/datas/kss/1/1_0590.wav|연설이 시간을 오래 끄니까 사람들이 자리를 뜨기 시작했어요.|연설이 시간을 오래 끄니까 사람들이 자리를 뜨기 시작했어요.|연설이 시간을 오래 끄니까 사람들이 자리를 뜨기 시작했어요.|4.7|The speech dragged on for hours and people began to leave.
+/share/datas/kss/1/1_0591.wav|갑자기 실이 끊어졌다.|갑자기 실이 끊어졌다.|갑자기 실이 끊어졌다.|1.7|The string broke suddenly.
+/share/datas/kss/1/1_0592.wav|전화가 끊어졌어요.|전화가 끊어졌어요.|전화가 끊어졌어요.|1.4|I was cut off.
+/share/datas/kss/1/1_0593.wav|우리 사이는 끝났어.|우리 사이는 끝났어.|우리 사이는 끝났어.|1.6|We are finished.
+/share/datas/kss/1/1_0594.wav|영화가 끝나 갈 즈음에 잠이 들었다.|영화가 끝나 갈 즈음에 잠이 들었다.|영화가 끝나 갈 즈음에 잠이 들었다.|2.8|I fell asleep when the movie was almost over.
+/share/datas/kss/1/1_0595.wav|오늘 일은 다 끝냈어?|오늘 일은 다 끝냈어?|오늘 일은 다 끝냈어?|1.7|Have you done your work today?
+/share/datas/kss/1/1_0596.wav|오늘 안으로 과제를 끝내야 해.|오늘 안으로 과제를 끝내야 해.|오늘 안으로 과제를 끝내야 해.|2.2|I have to finish my assignment today.
+/share/datas/kss/1/1_0597.wav|수리공이 실수로 선을 끊어 버린 것 같아.|수리공이 실수로 선을 끊어 버린 것 같아.|수리공이 실수로 선을 끊어 버린 것 같아.|2.8|I think the repairman cut the wire by mistake.
+/share/datas/kss/1/1_0598.wav|술 끊었어요.|술 끊었어요.|술 끊었어요.|1.2|I quit drinking.
+/share/datas/kss/1/1_0599.wav|전화 끊었다 다시 걸게.|전화 끊었다 다시 걸게.|전화 끊었다 다시 걸게.|2.0|Let me hang up and call you back, OK?
+/share/datas/kss/1/1_0600.wav|물을 끓인 후에 라면을 넣으세요.|물을 끓인 후에 라면을 넣으세요.|물을 끓인 후에 라면을 넣으세요.|2.4|Boil water and put the ramen in.
+/share/datas/kss/1/1_0601.wav|내가 당신을 위해 커피 끓여 놓았어.|내가 당신을 위해 커피 끓여 놓았어.|내가 당신을 위해 커피 끓여 놓았어.|3.0|I made coffee for you.
+/share/datas/kss/1/1_0602.wav|저는 집 꾸미는 걸 좋아해요.|저는 집 꾸미는 걸 좋아해요.|저는 집 꾸미는 걸 좋아해요.|2.1|I like decorating my house.
+/share/datas/kss/1/1_0603.wav|그거 전부 내가 꾸며 낸 거야.|그거 전부 내가 꾸며 낸 거야.|그거 전부 내가 꾸며 낸 거야.|2.1|I made it all up.
+/share/datas/kss/1/1_0604.wav|사람들은 모두 행복해지기를 꿈꾼다.|사람들은 모두 행복해지기를 꿈꾼다.|사람들은 모두 행복해지기를 꿈꾼다.|3.7|People all dream of being happy.
+/share/datas/kss/1/1_0605.wav|저는 늘 한국에 다시 오는 걸 꿈꿔 왔어요.|저는 늘 한국에 다시 오는 걸 꿈꿔 왔어요.|저는 늘 한국에 다시 오는 걸 꿈꿔 왔어요.|3.1|I've always dreamed of coming to Korea again.
+/share/datas/kss/1/1_0606.wav|너무 더워서 에어컨을 켰어.|너무 더워서 에어컨을 켰어.|너무 더워서 에어컨을 켰어.|2.6|It was too hot, so I turned on the air conditioner.
+/share/datas/kss/1/1_0607.wav|가스 레인지 좀 켜 봐.|가스 레인지 좀 켜 봐.|가스 레인지 좀 켜 봐.|1.6|Turn on the gas range.
+/share/datas/kss/1/1_0608.wav|소영이는 벌써 일을 마치고 집에 돌아갔어요.|소영이는 벌써 일을 마치고 집에 돌아갔어요.|소영이는 벌써 일을 마치고 집에 돌아갔어요.|3.5|Soyoung already finished her work and went back home.
+/share/datas/kss/1/1_0609.wav|일이 마치면 좀 쉬어.|일이 마치면 좀 쉬어.|일이 마치면 좀 쉬어.|1.8|Get some rest after work is over.
+/share/datas/kss/1/1_0610.wav|겨우 3개 맞혔어.|겨우 세 개 맞혔어.|겨우 세 개 맞혔어.|1.5|I got only three right.
+/share/datas/kss/1/1_0611.wav|내가 그 문제 맞히면 뭐 줄 거야?|내가 그 문제 맞히면 뭐 줄 거야?|내가 그 문제 맞히면 뭐 줄 거야?|2.9|What will you give me if I give the correct answer.
+/share/datas/kss/1/1_0612.wav|안전벨트를 매세요.|안전벨트를 매세요.|안전벨트를 매세요.|1.8|Fasten your seat belt.
+/share/datas/kss/1/1_0613.wav|우리 회사에서는 넥타이를 매지 않아도 됩니다.|우리 회사에서는 넥타이를 매지 않아도 됩니다.|우리 회사에서는 넥타이를 매지 않아도 됩니다.|3.5|You don't have to wear a tie in our office.
+/share/datas/kss/1/1_0614.wav|싱크대가 막혔어.|싱크대가 막혔어.|싱크대가 막혔어.|1.6|My sink is clogged.
+/share/datas/kss/1/1_0615.wav|코가 막혀요.|코가 막혀요.|코가 막혀요.|1.3|I have a stuffy nose.
+/share/datas/kss/1/1_0616.wav|차가 막혀서 늦었습니다.|차가 막혀서 늦었습니다.|차가 막혀서 늦었습니다.|2.0|I'm late because I was tied up in traffic.
+/share/datas/kss/1/1_0617.wav|쥐가 들어오지 못하게 구멍을 막아라.|쥐가 들어오지 못하게 구멍을 막아라.|쥐가 들어오지 못하게 구멍을 막아라.|3.1|Block the hole to keep mice from entering.
+/share/datas/kss/1/1_0618.wav|우리 가족 누구도 우리 아버지를 막을 수 없다.|우리 가족 누구도 우리 아버지를 막을 수 없다.|우리 가족 누구도 우리 아버지를 막을 수 없다.|3.9|No one in my family can stop my father.
+/share/datas/kss/1/1_0619.wav|들어가지 마십시오.|들어가지 마십시오.|들어가지 마십시오.|1.8|Do not enter.
+/share/datas/kss/1/1_0620.wav|회사가 결국 망하고 말았다.|회사가 결국 망하고 말았다.|회사가 결국 망하고 말았다.|2.5|The company ended up going bankrupt.
+/share/datas/kss/1/1_0621.wav|나한테 네가 원하는 걸 말해 봐.|나한테 네가 원하는 걸 말해 봐.|나한테 네가 원하는 걸 말해 봐.|2.7|Tell me what you want.
+/share/datas/kss/1/1_0622.wav|나는 아내에게 바가지 좀 그만 긁으라고 말했다.|나는 아내에게 바가지 좀 그만 긁으라고 말했다.|나는 아내에게 바가지 좀 그만 긁으라고 말했다.|3.7|I told my wife to stop nagging me.
+/share/datas/kss/1/1_0623.wav|원하는 게 뭔지 말씀해 보세요.|원하는 게 뭔지 말씀해 보세요.|원하는 게 뭔지 말씀해 보세요.|2.4|Tell me what you want.
+/share/datas/kss/1/1_0624.wav|어머니는 늘 내게 재혼하지 않겠다고 말씀하셨다.|어머니는 늘 내게 재혼하지 않겠다고 말씀하셨다.|어머니는 늘 내게 재혼하지 않겠다고 말씀하셨다.|4.6|My mom always told me that she would never get married again.
+/share/datas/kss/1/1_0625.wav|어떻게 이렇게 큰 눈사람을 만들었어?|어떻게 이렇게 큰 눈사람을 만들었어?|어떻게 이렇게 큰 눈사람을 만들었어?|2.8|How did you make such a big snowman?
+/share/datas/kss/1/1_0626.wav|그는 늘 여자 친구를 질리게 만든다.|그는 늘 여자 친구를 질리게 만든다.|그는 늘 여자 친구를 질리게 만든다.|3.4|He always makes his girlfriend tired of him.
+/share/datas/kss/1/1_0627.wav|머리 좀 그만 만져.|머리 좀 그만 만져.|머리 좀 그만 만져.|1.7|Stop touching your hair.
+/share/datas/kss/1/1_0628.wav|만지지 마시오.|만지지 마시오.|만지지 마시오.|1.4|Don't touch.
+/share/datas/kss/1/1_0629.wav|이 계약에 만족하실 거라고 확신합니다.|이 계약에 만족하실 거라고 확신합니다.|이 계약에 만족하실 거라고 확신합니다.|3.2|I'm sure you will be satisfied with this contract.
+/share/datas/kss/1/1_0630.wav|저는 새 멤버들에게 만족합니다.|저는 새 멤버들에게 만족합니다.|저는 새 멤버들에게 만족합니다.|2.6|I'm satisfied that new members are fine.
+/share/datas/kss/1/1_0631.wav|아내와 영화관 앞에서 만나기로 했습니다.|아내와 영화관 앞에서 만나기로 했습니다.|아내와 영화관 앞에서 만나기로 했습니다.|3.1|I arranged to meet my wife in front of the movie theater.
+/share/datas/kss/1/1_0632.wav|너를 여기서 만나다니 정말 세상 좁구나!|너를 여기서 만나다니 정말 세상 좁구나!|너를 여기서 만나다니 정말 세상 좁구나!|3.5|What a small world! Fancy seeing you here!
+/share/datas/kss/1/1_0633.wav|그 접착제는 아주 빨리 마르고 한 시간만 지나면 굳는다.|그 접착제는 아주 빨리 마르고 한 시간만 지나면 굳는다.|그 접착제는 아주 빨리 마르고 한 시간만 지나면 굳는다.|4.9|The glue dries very fast and hardens in an hour.
+/share/datas/kss/1/1_0634.wav|그 사람 정말 말랐어.|그 사람 정말 말랐어.|그 사람 정말 말랐어.|1.8|He is really thin.
+/share/datas/kss/1/1_0635.wav|살 집은 마련했어?|살 집은 마련했어?|살 집은 마련했어?|1.7|Have you arranged a house to live in?
+/share/datas/kss/1/1_0636.wav|편하신 때로 자리를 마련하겠습니다.|편하신 때로 자리를 마련하겠습니다.|편하신 때로 자리를 마련하겠습니다.|2.7|Let me arrange a meeting at your convenience.
+/share/datas/kss/1/1_0637.wav|커피를 마시다 입이 헐었다.|커피를 마시다 입이 헐었다.|커피를 마시다 입이 헐었다.|2.5|I scalded my mouth drinking hot coffee.
+/share/datas/kss/1/1_0638.wav|술을 전혀 못 마셔서 걱정입니다.|술을 전혀 못 마셔서 걱정입니다.|술을 전혀 못 마셔서 걱정입니다.|2.9|I'm worried that I can't drink at all.
+/share/datas/kss/1/1_0639.wav|시험이 끝난 후 친구와 답을 맞춰 보았다.|시험이 끝난 후 친구와 답을 맞춰 보았다.|시험이 끝난 후 친구와 답을 맞춰 보았다.|3.3|I compared my answers with my friend's after the exam.
+/share/datas/kss/1/1_0640.wav|자기 전에 알람 시계를 6시에 맞춰라.|자기 전에 알람 시계를 여섯 시에 맞춰라.|자기 전에 알람 시계를 여섯 시에 맞춰라.|3.8|Set the alarm for six o'clock before going to bed.
+/share/datas/kss/1/1_0641.wav|귀중품은 카운터에 맡기세요.|귀중품은 카운터에 맡기세요.|귀중품은 카운터에 맡기세요.|2.3|Leave your valuables at the counter.
+/share/datas/kss/1/1_0642.wav|그 일은 저한테 맡겨 주세요.|그 일은 저한테 맡겨 주세요.|그 일은 저한테 맡겨 주세요.|2.0|Let me take care of it.
+/share/datas/kss/1/1_0643.wav|이거 정말 맞아요?|이거 정말 맞아요?|이거 정말 맞아요?|1.3|Are you sure this is right?
+/share/datas/kss/1/1_0644.wav|이 옷 너한테 잘 맞을 것 같은데.|이 옷 너한테 잘 맞을 것 같은데.|이 옷 너한테 잘 맞을 것 같은데.|2.4|This dress seems to fit you well.
+/share/datas/kss/1/1_0645.wav|어렸을 때, 가끔 아버지한테 매를 맞았어요.|어렸을 때, 가끔 아버지한테 매를 맞았어요.|어렸을 때, 가끔 아버지한테 매를 맞았어요.|3.9|When young, sometimes I was beaten by my father.
+/share/datas/kss/1/1_0646.wav|몇 점 맞았어?|몇 점 맞았어?|몇 점 맞았어?|1.2|How many points did you get?
+/share/datas/kss/1/1_0647.wav|휴일을 맞아 대청소를 했어요.|휴일을 맞아 대청소를 했어요.|휴일을 맞아 대청소를 했어요.|2.5|I cleaned up the house over the holiday.
+/share/datas/kss/1/1_0648.wav|손님을 늘 따뜻하게 맞으세요.|손님을 늘 따뜻하게 맞으세요.|손님을 늘 따뜻하게 맞으세요.|2.6|Always welcome our guests warmly.
+/share/datas/kss/1/1_0649.wav|그녀는 그 일을 맡기를 꺼려했다.|그녀는 그 일을 맡기를 꺼려했다.|그녀는 그 일을 맡기를 꺼려했다.|2.8|She is reluctant to undertake the job.
+/share/datas/kss/1/1_0650.wav|7시까지 가방을 맡아 주실 수 있나요?|일곱 시까지 가방을 맡아 주실 수 있나요?|일곱 시까지 가방을 맡아 주실 수 있나요?|3.3|Could you keep my bag until 7?
+/share/datas/kss/1/1_0651.wav|꽃 향기를 맡아 봐.|꽃 향기를 맡아 봐.|꽃 향기를 맡아 봐.|1.6|Smell the flowers.
+/share/datas/kss/1/1_0652.wav|저는 축농증이 있어서 냄새를 잘 못 맡아요.|저는 축농증이 있어서 냄새를 잘 못 맡아요.|저는 축농증이 있어서 냄새를 잘 못 맡아요.|3.7|I can't smell a thing because I have a sinus infection.
+/share/datas/kss/1/1_0653.wav|아이들에게 너무 많이 먹이지 마십시오.|아이들에게 너무 많이 먹이지 마십시오.|아이들에게 너무 많이 먹이지 마십시오.|3.5|Don't overfeed children.
+/share/datas/kss/1/1_0654.wav|나는 보통 새벽 세 시에 아기에게 젖을 먹이려고 일어난다.|나는 보통 새벽 세 시에 아기에게 젖을 먹이려고 일어난다.|나는 보통 새벽 세 시에 아기에게 젖을 먹이려고 일어난다.|5.4|I usually get up at 3 in the morning to breastfeed my baby.
+/share/datas/kss/1/1_0655.wav|중국 음식을 먹고 싶은데, 넌 어때?|중국 음식을 먹고 싶은데, 넌 어때?|중국 음식을 먹고 싶은데, 넌 어때?|2.9|I feel like eating Chinese food. How about you?
+/share/datas/kss/1/1_0656.wav|약속을 잊어 먹었어요.|약속을 잊어 먹었어요.|약속을 잊어 먹었어요.|2.0|I forgot the appointment.
+/share/datas/kss/1/1_0657.wav|버스가 횡단보도 앞에서 멈췄다.|버스가 횡단보도 앞에서 멈췄다.|버스가 횡단보도 앞에서 멈췄다.|2.9|A bus stopped in front of a crosswalk.
+/share/datas/kss/1/1_0658.wav|나는 웃음을 멈출 수가 없었어.|나는 웃음을 멈출 수가 없었어.|나는 웃음을 멈출 수가 없었어.|2.7|I couldn't stop laughing.
+/share/datas/kss/1/1_0659.wav|어디에 머무르실 건가요?|어디에 머무르실 건가요?|어디에 머무르실 건가요?|1.8|Where will you stay?
+/share/datas/kss/1/1_0660.wav|하룻밤 더 머무를 수 있나요?|하룻밤 더 머무를 수 있나요?|하룻밤 더 머무를 수 있나요?|2.0|Can I stay one more night?
+/share/datas/kss/1/1_0661.wav|너 미쳤어?|너 미쳤어?|너 미쳤어?|1.1|Are you crazy?
+/share/datas/kss/1/1_0662.wav|너 때문에 미치겠어.|너 때문에 미치겠어.|너 때문에 미치겠어.|1.9|You're driving me crazy!
+/share/datas/kss/1/1_0663.wav|책상을 밀고 있는 중이다.|책상을 밀고 있는 중이다.|책상을 밀고 있는 중이다.|2.1|I am pushing the desk forward.
+/share/datas/kss/1/1_0664.wav|뒤에서 밀지 마세요.|뒤에서 밀지 마세요.|뒤에서 밀지 마세요.|1.8|Don't push me from behind.
+/share/datas/kss/1/1_0665.wav|오늘 할 수 있는 일을 내일로 미루지 마라.|오늘 할 수 있는 일을 내일로 미루지 마라.|오늘 할 수 있는 일을 내일로 미루지 마라.|3.3|Never put off till tomorrow what can be done today.
+/share/datas/kss/1/1_0666.wav|책임을 다른 사람에게 미루지 마세요.|책임을 다른 사람에게 미루지 마세요.|책임을 다른 사람에게 미루지 마세요.|2.9|Don't pass the buck to others.
+/share/datas/kss/1/1_0667.wav|제 말을 믿으셔도 됩니다.|제 말을 믿으셔도 됩니다.|제 말을 믿으셔도 됩니다.|1.8|You can take my word for it.
+/share/datas/kss/1/1_0668.wav|그 녀석을 믿다니 어리석었구나.|그 녀석을 믿다니 어리석었구나.|그 녀석을 믿다니 어리석었구나.|2.5|It was stupid of you to trust him.
+/share/datas/kss/1/1_0669.wav|왜 내가 널 미워하겠니?|왜 내가 널 미워하겠니?|왜 내가 널 미워하겠니?|1.9|Why do you think I hate you?
+/share/datas/kss/1/1_0670.wav|남편과 저는 서로를 미워해요.|남편과 저는 서로를 미워해요.|남편과 저는 서로를 미워해요.|3.0|My husband and I hate each other.
+/share/datas/kss/1/1_0671.wav|그들은 불을 피우기 위해 나무를 모으고 있었다.|그들은 불을 피우기 위해 나무를 모으고 있었다.|그들은 불을 피우기 위해 나무를 모으고 있었다.|3.9|They were collecting wood for the fire.
+/share/datas/kss/1/1_0672.wav|올해에는 돈을 모으고 싶어요.|올해에는 돈을 모으고 싶어요.|올해에는 돈을 모으고 싶어요.|2.5|I'd like to make a fortune this year.
+/share/datas/kss/1/1_0673.wav|우리 클럽은 일주일에 두 번 정기적으로 모입니다.|우리 클럽은 일주일에 두 번 정기적으로 모입니다.|우리 클럽은 일주일에 두 번 정기적으로 모입니다.|4.1|Our club have a regular meeting twice a week.
+/share/datas/kss/1/1_0674.wav|시위대가 시청 앞 광장에 모였다.|시위대가 시청 앞 광장에 모였다.|시위대가 시청 앞 광장에 모였다.|2.6|The demonstrators gathered in theplaza in front of City Hall.
+/share/datas/kss/1/1_0675.wav|비타민이 모자라면 병에 걸리기 쉽다.|비타민이 모자라면 병에 걸리기 쉽다.|비타민이 모자라면 병에 걸리기 쉽다.|3.3|You may get easily sick if you are short of vitamins.
+/share/datas/kss/1/1_0676.wav|거스름돈이 모자란 거 같아요.|거스름돈이 모자란 거 같아요.|거스름돈이 모자란 거 같아요.|2.0|I think I was shortchanged.
+/share/datas/kss/1/1_0677.wav|차를 몰고 오실 건가요?|차를 몰고 오실 건가요?|차를 몰고 오실 건가요?|1.7|Will you come here with your car?
+/share/datas/kss/1/1_0678.wav|아버지는 20살 때부터 버스를 모셨다.|아버지는 스무 살 때부터 버스를 모셨다.|아버지는 스무 살 때부터 버스를 모셨다.|3.3|My father has driven a bus since he was twenty.
+/share/datas/kss/1/1_0679.wav|저녁마다 아들 녀석이 자기 방에서 뭘 하는지 모르겠어.|저녁마다 아들 녀석이 자기 방에서 뭘 하는지 모르겠어.|저녁마다 아들 녀석이 자기 방에서 뭘 하는지 모르겠어.|4.4|I have no idea what my son does in his room every night.
+/share/datas/kss/1/1_0680.wav|이 문제에 관해서는 나는 아무것도 몰라.|이 문제에 관해서는 나는 아무것도 몰라.|이 문제에 관해서는 나는 아무것도 몰라.|3.4|I don't know anything about this.
+/share/datas/kss/1/1_0681.wav|시부모님을 모시고 사세요?|시부모님을 모시고 사세요?|시부모님을 모시고 사세요?|2.0|Do you live with your parents-in-law and take care of them?
+/share/datas/kss/1/1_0682.wav|손님들을 전철 역까지 모셔 드리세요.|손님들을 전철 역까지 모셔 드리세요.|손님들을 전철 역까지 모셔 드리세요.|2.7|Take the customers to the subway station.
+/share/datas/kss/1/1_0683.wav|저는 노래를 잘 못해요.|저는 노래를 잘 못해요.|저는 노래를 잘 못해요.|2.1|I'm poor at singing.
+/share/datas/kss/1/1_0684.wav|지금은 배가 아파서 아무것도 먹지 못합니다.|지금은 배가 아파서 아무것도 먹지 못합니다.|지금은 배가 아파서 아무것도 먹지 못합니다.|3.4|I have a stomachache, so I can't eat anything right now.
+/share/datas/kss/1/1_0685.wav|내 여자 친구는 아침에 머리를 안 감으면 머리를 묶고 다닌다.|내 여자 친구는 아침에 머리를 안 감으면 머리를 묶고 다닌다.|내 여자 친구는 아침에 머리를 안 감으면 머리를 묶고 다닌다.|5.2|My girlfriendusually ties her hair back when she didn't wash it in the morning.
+/share/datas/kss/1/1_0686.wav|테러리스트들은 인질들의 손과 발을 밧줄로 묶었다.|테러리스트들은 인질들의 손과 발을 밧줄로 묶었다.|테러리스트들은 인질들의 손과 발을 밧줄로 묶었다.|4.8|The terrorists bound the hands and feet of the hostages with ropes.
+/share/datas/kss/1/1_0687.wav|어떤 개가 내 다리를 물었어.|어떤 개가 내 다리를 물었어.|어떤 개가 내 다리를 물었어.|2.8|A dog bit my leg.
+/share/datas/kss/1/1_0688.wav|그는 늘 입에 담배를 물고 일을 합니다.|그는 늘 입에 담배를 물고 일을 합니다.|그는 늘 입에 담배를 물고 일을 합니다.|4.0|He always works with a cigarette in his mouth.
+/share/datas/kss/1/1_0689.wav|테러로 다리가 무너졌다.|테러로 다리가 무너졌다.|테러로 다리가 무너졌다.|1.8|The bridge collapsed during the terrorist attacks.
+/share/datas/kss/1/1_0690.wav|하늘이 무너져도 솟아날 구멍이 있다.|하늘이 무너져도 솟아날 구멍이 있다.|하늘이 무너져도 솟아날 구멍이 있다.|2.9|There is always a way out.
+/share/datas/kss/1/1_0691.wav|다음 토요일에 우리 집에 올 수 있나 너한테 물어보려고 전화했어.|다음 토요일에 우리 집에 올 수 있나 너한테 물어보려고 전화했어.|다음 토요일에 우리 집에 올 수 있나 너한테 물어보려고 전화했어.|4.7|I'm calling to ask if you can come over next Saturday.
+/share/datas/kss/1/1_0692.wav|뭐 하나 물어봐도 돼?|뭐 하나 물어봐도 돼?|뭐 하나 물어봐도 돼?|1.4|Can I just ask you a question?
+/share/datas/kss/1/1_0693.wav|내 직장 상사는 내 요구를 무시했다.|내 직장 상사는 내 요구를 무시했다.|내 직장 상사는 내 요구를 무시했다.|3.4|My boss ignored my request.
+/share/datas/kss/1/1_0694.wav|사람들은 다른 사람이 자신을 무시할 때 화가 나는 법이다.|사람들은 다른 사람이 자신을 무시할 때 화가 나는 법이다.|사람들은 다른 사람이 자신을 무시할 때 화가 나는 법이다.|4.7|People are supposed to be upset when others ignore them.
+/share/datas/kss/1/1_0695.wav|너한테 묻고 싶은 게 있어.|너한테 묻고 싶은 게 있어.|너한테 묻고 싶은 게 있어.|1.8|I have something to ask you.
+/share/datas/kss/1/1_0696.wav|그걸 왜 물어?|그걸 왜 물어?|그걸 왜 물어?|1.0|Why are you asking that?
+/share/datas/kss/1/1_0697.wav|나무에 새싹이 났어요.|나무에 새싹이 났어요.|나무에 새싹이 났어요.|1.9|New buds appeared on the trees.
+/share/datas/kss/1/1_0698.wav|어제 인도네시아에서 지진이 났다.|어제 인도네시아에서 지진이 났다.|어제 인도네시아에서 지진이 났다.|3.0|An earthquake took place in Indonesia yesterday.
+/share/datas/kss/1/1_0699.wav|숙제부터 하고 나서 놀아라.|숙제부터 하고 나서 놀아라.|숙제부터 하고 나서 놀아라.|2.2|Play after finishing your homework.
+/share/datas/kss/1/1_0700.wav|그는 신문에 광고를 냈다.|그는 신문에 광고를 냈다.|그는 신문에 광고를 냈다.|2.1|He put an advertisement in the paper.
+/share/datas/kss/1/1_0701.wav|답안지를 내세요.|답안지를 내세요.|답안지를 내세요.|1.5|Hand in your answer sheet.
+/share/datas/kss/1/1_0702.wav|배송료는 누가 낼 겁니까?|배송료는 누가 낼 겁니까?|배송료는 누가 낼 겁니까?|2.0|Who will pay for the delivery?
+/share/datas/kss/1/1_0703.wav|골키퍼가 슛을 막아 냈어요.|골키퍼가 슛을 막아 냈어요.|골키퍼가 슛을 막아 냈어요.|2.2|The goalkeeper succeeded to block a shot.
+/share/datas/kss/1/1_0704.wav|그녀가 손을 내밀어 악수를 청했다.|그녀가 손을 내밀어 악수를 청했다.|그녀가 손을 내밀어 악수를 청했다.|2.8|She extended her hand for a handshake.
+/share/datas/kss/1/1_0705.wav|창 밖으로 고개를 내밀지 마세요.|창 밖으로 고개를 내밀지 마세요.|창 밖으로 고개를 내밀지 마세요.|2.5|Don't stretch your head out the window.
+/share/datas/kss/1/1_0706.wav|음식물 쓰레기를 바깥에 내놓아라.|음식물 쓰레기를 바깥에 내놓아라.|음식물 쓰레기를 바깥에 내놓아라.|2.8|Put the food garbage out.
+/share/datas/kss/1/1_0707.wav|이 의자 팔려고 내놓은 건가요?|이 의자 팔려고 내놓은 건가요?|이 의자 팔려고 내놓은 건가요?|2.8|Did you put this chair up for sale?
+/share/datas/kss/1/1_0708.wav|비가 내리기 시작했다.|비가 내리기 시작했다.|비가 내리기 시작했다.|1.7|It began to rain.
+/share/datas/kss/1/1_0709.wav|엘리베이터를 타고 5층에서 내리세요.|엘리베이터를 타고 오 층에서 내리세요.|엘리베이터를 타고 오 층에서 내리세요.|3.1|Take the elevator to the 5th floor.
+/share/datas/kss/1/1_0710.wav|총을 내려 놓아!|총을 내려 놓아!|총을 내려 놓아!|1.1|Put your gun down!
+/share/datas/kss/1/1_0711.wav|이번 주말에 집에 내려갈 거야.|이번 주말에 집에 내려갈 거야.|이번 주말에 집에 내려갈 거야.|2.5|I'm going down home this weekend.
+/share/datas/kss/1/1_0712.wav|최근 물가가 내려갔어요.|최근 물가가 내려갔어요.|최근 물가가 내려갔어요.|2.1|Prices dropped recently.
+/share/datas/kss/1/1_0713.wav|산을 올라가는 것보다 산을 내려가는 게 더 힘들어요.|산을 올라가는 것보다 산을 내려가는 게 더 힘들어요.|산을 올라가는 것보다 산을 내려가는 게 더 힘들어요.|4.4|It's more difficult to go back down the mountain than to climb it up.
+/share/datas/kss/1/1_0714.wav|요즘 고향으로 내려오는 젊은 사람들이 많다.|요즘 고향으로 내려오는 젊은 사람들이 많다.|요즘 고향으로 내려오는 젊은 사람들이 많다.|4.0|These days many young people come down to their hometown.
+/share/datas/kss/1/1_0715.wav|계단을 내려올 때 발 조심하세요.|계단을 내려올 때 발 조심하세요.|계단을 내려올 때 발 조심하세요.|2.6|Watch your step when you come down the stairs.
+/share/datas/kss/1/1_0716.wav|밖에 나가 놀자.|밖에 나가 놀자.|밖에 나가 놀자.|1.5|Let's play outside.
+/share/datas/kss/1/1_0717.wav|왜 어제 모임을 안 나간 거야?|왜 어제 모임을 안 나간 거야?|왜 어제 모임을 안 나간 거야?|1.9|Why didn't you attend the meeting yesterday?
+/share/datas/kss/1/1_0718.wav|잘린 게 아냐. 내가 내 발로 회사에서 나간 거지.|잘린 게 아냐. 내가 내 발로 회사에서 나간 거지.|잘린 게 아냐. 내가 내 발로 회사에서 나간 거지.|3.8|I wasn't fired. I quit my job.
+/share/datas/kss/1/1_0719.wav|새 한 마리가 사무실 건물 위로 날고 있어요.|새 한 마리가 사무실 건물 위로 날고 있어요.|새 한 마리가 사무실 건물 위로 날고 있어요.|3.7|A bird is flying over the office building.
+/share/datas/kss/1/1_0720.wav|누구나 하늘을 날고 싶은 소망이 있지요.|누구나 하늘을 날고 싶은 소망이 있지요.|누구나 하늘을 날고 싶은 소망이 있지요.|2.8|Everyone has a desire to fly in the sky.
+/share/datas/kss/1/1_0721.wav|메시지를 남기시겠어요?|메시지를 남기시겠어요?|메시지를 남기시겠어요?|1.9|May I take a message?
+/share/datas/kss/1/1_0722.wav|아내를 미국에 남겨 두고 혼자 한국에 왔습니다.|아내를 미국에 남겨 두고 혼자 한국에 왔습니다.|아내를 미국에 남겨 두고 혼자 한국에 왔습니다.|3.9|I came to Korea alone leaving my wife in America.
+/share/datas/kss/1/1_0723.wav|흉터가 남지 않을 거라니 다행이야.|흉터가 남지 않을 거라니 다행이야.|흉터가 남지 않을 거라니 다행이야.|2.7|It's good that it won't leave a scar.
+/share/datas/kss/1/1_0724.wav|바구니 속에 샌드위치가 남아 있다.|바구니 속에 샌드위치가 남아 있다.|바구니 속에 샌드위치가 남아 있다.|2.8|There are still some sandwiches left over in the basket.
+/share/datas/kss/1/1_0725.wav|우리 그 돈을 반으로 나누자.|우리 그 돈을 반으로 나누자.|우리 그 돈을 반으로 나누자.|2.4|Let's divide the money in two.
+/share/datas/kss/1/1_0726.wav|친구와 먹을 것을 나눠 먹어라.|친구와 먹을 것을 나눠 먹어라.|친구와 먹을 것을 나눠 먹어라.|2.6|Share your food with your friends.
+/share/datas/kss/1/1_0727.wav|주말에는 보통 집 밖으로 나오지 않아요.|주말에는 보통 집 밖으로 나오지 않아요.|주말에는 보통 집 밖으로 나오지 않아요.|3.3|Usually I don't go outside on weekends.
+/share/datas/kss/1/1_0728.wav|어느 대학 나오셨어요?|어느 대학 나오셨어요?|어느 대학 나오셨어요?|1.6|Which university did you graduate from?
+/share/datas/kss/1/1_0729.wav|공부를 계속하려고 직장을 나왔습니다.|공부를 계속하려고 직장을 나왔습니다.|공부를 계속하려고 직장을 나왔습니다.|3.0|I quit my job to keep up my studies.
+/share/datas/kss/1/1_0730.wav|어머니의 건강이 점점 나빠지고 있어요.|어머니의 건강이 점점 나빠지고 있어요.|어머니의 건강이 점점 나빠지고 있어요.|3.3|My mother's health is getting worse.
+/share/datas/kss/1/1_0731.wav|시력이 많이 나빠졌어요.|시력이 많이 나빠졌어요.|시력이 많이 나빠졌어요.|1.9|My eyesight has become worse.
+/share/datas/kss/1/1_0732.wav|제비들은 여름이 되면 북쪽으로 날아간다.|제비들은 여름이 되면 북쪽으로 날아간다.|제비들은 여름이 되면 북쪽으로 날아간다.|3.8|The swallow flies north in the summer.
+/share/datas/kss/1/1_0733.wav|나는 그 파일이 날아가 버렸음을 알았다.|나는 그 파일이 날아가 버렸음을 알았다.|나는 그 파일이 날아가 버렸음을 알았다.|3.3|I discovered that the file had disappeared.
+/share/datas/kss/1/1_0734.wav|회사에 가려고 집을 나섰다.|회사에 가려고 집을 나섰다.|회사에 가려고 집을 나섰다.|2.2|I left home to go to work.
+/share/datas/kss/1/1_0735.wav|남의 일에 나서지 마라.|남의 일에 나서지 마라.|남의 일에 나서지 마라.|2.1|Mind your own business.
+/share/datas/kss/1/1_0736.wav|아내는 어젯밤 사내 아이를 낳았다.|아내는 어젯밤 사내 아이를 낳았다.|아내는 어젯밤 사내 아이를 낳았다.|3.0|My wife gave birth to a baby boy last night.
+/share/datas/kss/1/1_0737.wav|우리 농장의 암탉은 매일 알을 두 개씩 낳는다.|우리 농장의 암탉은 매일 알을 두 개씩 낳는다.|우리 농장의 암탉은 매일 알을 두 개씩 낳는다.|4.0|Hens in my farm lay two eggs everday.
+/share/datas/kss/1/1_0738.wav|폭력은 폭력을 낳는 법입니다.|폭력은 폭력을 낳는 법입니다.|폭력은 폭력을 낳는 법입니다.|2.6|Violence gives rise to violence.
+/share/datas/kss/1/1_0739.wav|그가 파티에 나타나서 깜짝 놀랐다.|그가 파티에 나타나서 깜짝 놀랐다.|그가 파티에 나타나서 깜짝 놀랐다.|3.0|I was so surprised because he appeared at the party.
+/share/datas/kss/1/1_0740.wav|고양이는 언제나 밥 시간에 딱 맞춰서 나타난다.|고양이는 언제나 밥 시간에 딱 맞춰서 나타난다.|고양이는 언제나 밥 시간에 딱 맞춰서 나타난다.|3.9|The cat always makes a punctual appearance at mealtimes.
+/share/datas/kss/1/1_0741.wav|그는 법정에 모습을 나타내지 않았다.|그는 법정에 모습을 나타내지 않았다.|그는 법정에 모습을 나타내지 않았다.|3.1|He didn't show up at the court.
+/share/datas/kss/1/1_0742.wav|H2O는 물을 나타내는 기호이다.|에이치 투 오는 물을 나타내는 기호이다.|에이치 투 오는 물을 나타내는 기호이다.|3.5|H2O is the symbol for water.
+/share/datas/kss/1/1_0743.wav|맥주가 넘쳐요.|맥주가 넘쳐요.|맥주가 넘쳐요.|1.3|The beer is brimming over.
+/share/datas/kss/1/1_0744.wav|그들은 자신감이 넘쳤다.|그들은 자신감이 넘쳤다.|그들은 자신감이 넘쳤다.|2.1|They were filled with confidence.
+/share/datas/kss/1/1_0745.wav|이 고개만 넘어가자.|이 고개만 넘어가자.|이 고개만 넘어가자.|1.6|Let's just go over this hill.
+/share/datas/kss/1/1_0746.wav|다음 장으로 넘어갑시다.|다음 장으로 넘어갑시다.|다음 장으로 넘어갑시다.|1.8|Let's move on to the next chapter.
+/share/datas/kss/1/1_0747.wav|내 생각에는 네가 정도를 넘어선 것 같아.|내 생각에는 네가 정도를 넘어선 것 같아.|내 생각에는 네가 정도를 넘어선 것 같아.|3.5|I think you went too far.
+/share/datas/kss/1/1_0748.wav|참을 수 있는 한계를 넘어섰어요.|참을 수 있는 한계를 넘어섰어요.|참을 수 있는 한계를 넘어섰어요.|2.2|It's more than I can take.
+/share/datas/kss/1/1_0749.wav|그녀는 셔틀콕을 네트 위로 넘기는 데 실패했다.|그녀는 셔틀콕을 네트 위로 넘기는 데 실패했다.|그녀는 셔틀콕을 네트 위로 넘기는 데 실패했다.|4.1|She failed to hit the shuttlecock over the net.
+/share/datas/kss/1/1_0750.wav|페이지를 한 장 넘겨라.|페이지를 한 장 넘겨라.|페이지를 한 장 넘겨라.|1.9|Turn the page.
+/share/datas/kss/1/1_0751.wav|벌써 5시가 넘었어.|벌써 다섯 시가 넘었어.|벌써 다섯 시가 넘었어.|1.7|It has passed five o'clock already.
+/share/datas/kss/1/1_0752.wav|우리는 벌써 예산을 넘었어.|우리는 벌써 예산을 넘었어.|우리는 벌써 예산을 넘었어.|2.1|We've already exceeded our budget.
+/share/datas/kss/1/1_0753.wav|강도는 담을 넘어 들어온 게 분명합니다.|강도는 담을 넘어 들어온 게 분명합니다.|강도는 담을 넘어 들어온 게 분명합니다.|3.5|The burglar must have broken into the house and passed over the wall.
+/share/datas/kss/1/1_0754.wav|이 옷은 세탁기에 넣지 마세요.|이 옷은 세탁기에 넣지 마세요.|이 옷은 세탁기에 넣지 마세요.|2.8|Don't put these clothes in the washing machine.
+/share/datas/kss/1/1_0755.wav|가득 넣어 주십시오.|가득 넣어 주십시오.|가득 넣어 주십시오.|1.4|Fill it up, please.
+/share/datas/kss/1/1_0756.wav|그녀는 팔에 심한 통증을 느꼈다.|그녀는 팔에 심한 통증을 느꼈다.|그녀는 팔에 심한 통증을 느꼈다.|3.0|She felt a sharp pain in her arm.
+/share/datas/kss/1/1_0757.wav|테니스를 시작하고 나서 건강이 훨씬 좋아지는 것을 느끼고 있습니다.|테니스를 시작하고 나서 건강이 훨씬 좋아지는 것을 느끼고 있습니다.|테니스를 시작하고 나서 건강이 훨씬 좋아지는 것을 느끼고 있습니다.|5.3|I've been feeling much better since I started playing tennis.
+/share/datas/kss/1/1_0758.wav|어머니는 나이에 비해 늙어 보이세요.|어머니는 나이에 비해 늙어 보이세요.|어머니는 나이에 비해 늙어 보이세요.|3.2|My mother looks old for her age.
+/share/datas/kss/1/1_0759.wav|할아버지는 그런 일을 하시기에는 너무 늙으셨어.|할아버지는 그런 일을 하시기에는 너무 늙으셨어.|할아버지는 그런 일을 하시기에는 너무 늙으셨어.|3.8|My grandfather is too old to do such a thing.
+/share/datas/kss/1/1_0760.wav|몸무게가 약간 늘었어요.|몸무게가 약간 늘었어요.|몸무게가 약간 늘었어요.|2.1|I have gained some weight.
+/share/datas/kss/1/1_0761.wav|아내의 요리 솜씨가 점점 늘고 있어요.|아내의 요리 솜씨가 점점 늘고 있어요.|아내의 요리 솜씨가 점점 늘고 있어요.|3.2|My wife's cooking is getting better and better.
+/share/datas/kss/1/1_0762.wav|치마 길이를 조금만 늘리고 싶어요.|치마 길이를 조금만 늘리고 싶어요.|치마 길이를 조금만 늘리고 싶어요.|2.9|I'd like to lengthen this skirt a little.
+/share/datas/kss/1/1_0763.wav|미국이 수출을 늘리기 위해 많은 압력을 가하고 있어요.|미국이 수출을 늘리기 위해 많은 압력을 가하고 있어요.|미국이 수출을 늘리기 위해 많은 압력을 가하고 있어요.|4.0|The US is putting a lot of pressure on us to boost their exports.
+/share/datas/kss/1/1_0764.wav|새 셔츠가 늘어나서 속상해요.|새 셔츠가 늘어나서 속상해요.|새 셔츠가 늘어나서 속상해요.|2.6|I'm upset because a new shirt has stretched.
+/share/datas/kss/1/1_0765.wav|이혼율이 늘어나고 있다.|이혼율이 늘어나고 있다.|이혼율이 늘어나고 있다.|1.8|The divorce rate is on the rise.
+/share/datas/kss/1/1_0766.wav|그 녀석은 수업 시간에 늘상 늦는다.|그 녀석은 수업 시간에 늘상 늦는다.|그 녀석은 수업 시간에 늘상 늦는다.|3.1|He is always late for class.
+/share/datas/kss/1/1_0767.wav|왜 이렇게 늦었어?|왜 이렇게 늦었어?|왜 이렇게 늦었어?|1.6|Why are you so late?
+/share/datas/kss/1/1_0768.wav|책상 위에 놓여 있던 연필 어디 갔어?|책상 위에 놓여 있던 연필 어디 갔어?|책상 위에 놓여 있던 연필 어디 갔어?|3.0|Where is the pencil which was on the desk?
+/share/datas/kss/1/1_0769.wav|그녀의 소식을 들으니 마음이 놓였다.|그녀의 소식을 들으니 마음이 놓였다.|그녀의 소식을 들으니 마음이 놓였다.|2.9|I felt relieved when I finally heard her news.
+/share/datas/kss/1/1_0770.wav|아들 녀석은 인형을 가지고 노는 걸 좋아해요.|아들 녀석은 인형을 가지고 노는 걸 좋아해요.|아들 녀석은 인형을 가지고 노는 걸 좋아해요.|3.6|My son likes playing with dolls.
+/share/datas/kss/1/1_0771.wav|나는 여자 아이들과 놀 때 마음이 편하다.|나는 여자 아이들과 놀 때 마음이 편하다.|나는 여자 아이들과 놀 때 마음이 편하다.|3.3|I feel comfortable when hanging out with girls.
+/share/datas/kss/1/1_0772.wav|그의 갑작스러운 청혼에 나는 깜짝 놀랐다.|그의 갑작스러운 청혼에 나는 깜짝 놀랐다.|그의 갑작스러운 청혼에 나는 깜짝 놀랐다.|3.7|I was surprised by his sudden proposal.
+/share/datas/kss/1/1_0773.wav|그 소식은 우리를 깜짝 놀라게 했다.|그 소식은 우리를 깜짝 놀라게 했다.|그 소식은 우리를 깜짝 놀라게 했다.|3.2|The news took us by surprise.
+/share/datas/kss/1/1_0774.wav|도둑을 막으려면 담을 높여야 해.|도둑을 막으려면 담을 높여야 해.|도둑을 막으려면 담을 높여야 해.|2.8|You should extend the wall to prevent thieves from getting in.
+/share/datas/kss/1/1_0775.wav|야간에 운전자들은 속도를 높이면 안 된다.|야간에 운전자들은 속도를 높이면 안 된다.|야간에 운전자들은 속도를 높이면 안 된다.|3.8|Drivers must not speed at night.
+/share/datas/kss/1/1_0776.wav|나는 춤추는 것보다 노래하는 게 더 좋다.|나는 춤추는 것보다 노래하는 게 더 좋다.|나는 춤추는 것보다 노래하는 게 더 좋다.|3.4|I prefer singing to dancing.
+/share/datas/kss/1/1_0777.wav|그녀는 밤새 춤추고 노래해도 지치는 법이 없어.|그녀는 밤새 춤추고 노래해도 지치는 법이 없어.|그녀는 밤새 춤추고 노래해도 지치는 법이 없어.|4.4|She is never exhausted though she sings and dances all night long.
+/share/datas/kss/1/1_0778.wav|정부는 경제 활성화에 노력하고 있습니다.|정부는 경제 활성화에 노력하고 있습니다.|정부는 경제 활성화에 노력하고 있습니다.|3.0|The government put a lot of effort into stimulating the economy.
+/share/datas/kss/1/1_0779.wav|합격을 위해 정말 열심히 노력했어.|합격을 위해 정말 열심히 노력했어.|합격을 위해 정말 열심히 노력했어.|3.2|I made great efforts to pass the exam.
+/share/datas/kss/1/1_0780.wav|접시를 식탁 위에 놓아라.|접시를 식탁 위에 놓아라.|접시를 식탁 위에 놓아라.|1.9|Put the dishes on the table.
+/share/datas/kss/1/1_0781.wav|손 놓아!|손 놓아!|손 놓아!|0.8|Let go of my hand!
+/share/datas/kss/1/1_0782.wav|창문을 열어 놓으세요.|창문을 열어 놓으세요.|창문을 열어 놓으세요.|1.5|Leave the window open.
+/share/datas/kss/1/1_0783.wav|제일 좋아하는 연속극을 놓치고 싶지 않아요.|제일 좋아하는 연속극을 놓치고 싶지 않아요.|제일 좋아하는 연속극을 놓치고 싶지 않아요.|3.1|I don't want to miss my favorite soap opera.
+/share/datas/kss/1/1_0784.wav|좋은 기회를 놓치지 마라.|좋은 기회를 놓치지 마라.|좋은 기회를 놓치지 마라.|2.3|You have to make hay while the sun shines.
+/share/datas/kss/1/1_0785.wav|비행기를 놓칠 뻔했어요.|비행기를 놓칠 뻔했어요.|비행기를 놓칠 뻔했어요.|1.7|I almost missed the plane.
+/share/datas/kss/1/1_0786.wav|엄마는 침대에 누워 계신다.|엄마는 침대에 누워 계신다.|엄마는 침대에 누워 계신다.|2.1|My mom is lying on the bed.
+/share/datas/kss/1/1_0787.wav|오른쪽으로 누우세요.|오른쪽으로 누우세요.|오른쪽으로 누우세요.|1.6|Lie on your right side.
+/share/datas/kss/1/1_0788.wav|외부 전화는 9번을 누르세요.|외부 전화는 구 번을 누르세요.|외부 전화는 구 번을 누르세요.|2.5|Press nine for an outside call.
+/share/datas/kss/1/1_0789.wav|나는 더 이상 화를 누를 수 없었다.|나는 더 이상 화를 누를 수 없었다.|나는 더 이상 화를 누를 수 없었다.|2.6|I couldn't suppress my anger any more.
+/share/datas/kss/1/1_0790.wav|시간 있으면 제 전시회에 오세요.|시간 있으면 제 전시회에 오세요.|시간 있으면 제 전시회에 오세요.|2.7|If you can find the time, please come to my art exhibit.
+/share/datas/kss/1/1_0791.wav|그 사람은 20년간 한 회사에서 일해 왔어요.|그 사람은 이십 년간 한 회사에서 일해 왔어요.|그 사람은 이십 년간 한 회사에서 일해 왔어요.|3.8|He has worked for one company for twenty years.
+/share/datas/kss/1/1_0792.wav|엄마가 내게 돌아오라고 외쳤다.|엄마가 내게 돌아오라고 외쳤다.|엄마가 내게 돌아오라고 외쳤다.|2.5|My mom shouted at me to come back.
+/share/datas/kss/1/1_0793.wav|누군가 도와 달라고 외치는 것을 들었다.|누군가 도와 달라고 외치는 것을 들었다.|누군가 도와 달라고 외치는 것을 들었다.|2.8|I heard someone shouting for help.
+/share/datas/kss/1/1_0794.wav|3층까지 계단을 걸어 올라가세요.|삼 층까지 계단을 걸어 올라가세요.|삼 층까지 계단을 걸어 올라가세요.|2.4|Walk up the stairs to the third floor.
+/share/datas/kss/1/1_0795.wav|오늘은 기온이 많이 올라갔다.|오늘은 기온이 많이 올라갔다.|오늘은 기온이 많이 올라갔다.|2.2|The temperature went up a lot today.
+/share/datas/kss/1/1_0796.wav|언제 서울에 올라오셨어요?|언제 서울에 올라오셨어요?|언제 서울에 올라오셨어요?|1.8|When did you come to Seoul?
+/share/datas/kss/1/1_0797.wav|옥상으로 올라오세요.|옥상으로 올라오세요.|옥상으로 올라오세요.|1.4|Come up to the rooftop.
+/share/datas/kss/1/1_0798.wav|바지 지퍼를 올리세요.|바지 지퍼를 올리세요.|바지 지퍼를 올리세요.|1.6|Please pull your zipper up.
+/share/datas/kss/1/1_0799.wav|시험 점수를 빨리 올릴 방법이 없을까?|시험 점수를 빨리 올릴 방법이 없을까?|시험 점수를 빨리 올릴 방법이 없을까?|3.1|Is there a quick way I could raise my test score?
+/share/datas/kss/1/1_0800.wav|게시판에 글 좀 올려.|게시판에 글 좀 올려.|게시판에 글 좀 올려.|1.7|Post some messages on the bulletin board.
+/share/datas/kss/1/1_0801.wav|제 짐 좀 방으로 옮겨 주세요.|제 짐 좀 방으로 옮겨 주세요.|제 짐 좀 방으로 옮겨 주세요.|2.1|Please carry my luggage up to my room.
+/share/datas/kss/1/1_0802.wav|아버지께서 저더러 이 캐비닛을 밖으로 옮기라고 하셨어요.|아버지께서 저더러 이 캐비닛을 밖으로 옮기라고 하셨어요.|아버지께서 저더러 이 캐비닛을 밖으로 옮기라고 하셨어요.|4.4|My father told me to move this cabinet outside.
+/share/datas/kss/1/1_0803.wav|이 산을 오르는 건 결코 쉽지 않아.|이 산을 오르는 건 결코 쉽지 않아.|이 산을 오르는 건 결코 쉽지 않아.|3.0|It is never easy to climb this mountain.
+/share/datas/kss/1/1_0804.wav|딸 아이가 이번 시험에서 성적이 많이 올랐어요.|딸 아이가 이번 시험에서 성적이 많이 올랐어요.|딸 아이가 이번 시험에서 성적이 많이 올랐어요.|4.0|My daughter's grades went up on this exam.
+/share/datas/kss/1/1_0805.wav|빚을 갚으려고 친구한테 오토바이를 팔았다.|빚을 갚으려고 친구한테 오토바이를 팔았다.|빚을 갚으려고 친구한테 오토바이를 팔았다.|3.6|I sold my motorbike to a friend to pay the debt.
+/share/datas/kss/1/1_0806.wav|저희는 물건을 다발로 팔아요.|저희는 물건을 다발로 팔아요.|저희는 물건을 다발로 팔아요.|2.4|We sell things in a bundle.
+/share/datas/kss/1/1_0807.wav|코스모스는 가을에 펴요.|코스모스는 가을에 펴요.|코스모스는 가을에 펴요.|1.9|Cosmoses bloom in autumn.
+/share/datas/kss/1/1_0808.wav|벚꽃이 활짝 폈다.|벚꽃이 활짝 폈다.|벚꽃이 활짝 폈다.|2.2|The cherry trees are in full bloom.
+/share/datas/kss/1/1_0809.wav|격렬한 운동은 피하셔야 합니다.|격렬한 운동은 피하셔야 합니다.|격렬한 운동은 피하셔야 합니다.|2.3|You should abstain from any strenuous exercise.
+/share/datas/kss/1/1_0810.wav|왜 요즘 저를 자꾸 피해요?|왜 요즘 저를 자꾸 피해요?|왜 요즘 저를 자꾸 피해요?|1.9|Why are you avoiding me these days?
+/share/datas/kss/1/1_0811.wav|그가 난로에 불을 피웠다.|그가 난로에 불을 피웠다.|그가 난로에 불을 피웠다.|2.2|He made a fire on the stove.
+/share/datas/kss/1/1_0812.wav|여기서 담배 피워도 되나요?|여기서 담배 피워도 되나요?|여기서 담배 피워도 되나요?|1.9|May I smoke here?
+/share/datas/kss/1/1_0813.wav|저는 제게 주어진 일을 절대 쉽게 포기하지 않습니다.|저는 제게 주어진 일을 절대 쉽게 포기하지 않습니다.|저는 제게 주어진 일을 절대 쉽게 포기하지 않습니다.|4.1|I don't easily give up on tasks.
+/share/datas/kss/1/1_0814.wav|포기하기에는 일러.|포기하기에는 일러.|포기하기에는 일러.|1.4|It is too early to give up.
+/share/datas/kss/1/1_0815.wav|그 요금에 아침 식사가 포함되어 있습니까?|그 요금에 아침 식사가 포함되어 있습니까?|그 요금에 아침 식사가 포함되어 있습니까?|3.3|Does this charge include breakfast?
+/share/datas/kss/1/1_0816.wav|통근 수당은 봉급에 포함되어 있습니다.|통근 수당은 봉급에 포함되어 있습니다.|통근 수당은 봉급에 포함되어 있습니다.|2.7|A commuting allowance is included in the salary.
+/share/datas/kss/1/1_0817.wav|세금을 포함하는 건가요?|세금을 포함하는 건가요?|세금을 포함하는 건가요?|1.7|Does this include tax?
+/share/datas/kss/1/1_0818.wav|우리 가족은 저를 포함해서 모두 6명입니다.|우리 가족은 저를 포함해서 모두 여섯 명입니다.|우리 가족은 저를 포함해서 모두 여섯 명입니다.|3.9|There are six people in my family, counting me.
+/share/datas/kss/1/1_0819.wav|초대장에서 그 사람 이름을 빼라.|초대장에서 그 사람 이름을 빼라.|초대장에서 그 사람 이름을 빼라.|2.7|Leave out his name from the invitation card.
+/share/datas/kss/1/1_0820.wav|십 빼기 팔은 이|십 빼기 팔은 이|십 빼기 팔은 이|2.0|10-8=2
+/share/datas/kss/1/1_0821.wav|살을 빼는 제일 좋은 방법이 뭘까요?|살을 빼는 제일 좋은 방법이 뭘까요?|살을 빼는 제일 좋은 방법이 뭘까요?|2.8|What is the best way to lose weight?
+/share/datas/kss/1/1_0822.wav|어떻게 그렇게 혼잡한 곳에서 빠져나갔니?|어떻게 그렇게 혼잡한 곳에서 빠져나갔니?|어떻게 그렇게 혼잡한 곳에서 빠져나갔니?|3.0|How did you get out of such a crowded place?
+/share/datas/kss/1/1_0823.wav|아무도 여기를 빠져나갈 수는 없어.|아무도 여기를 빠져나갈 수는 없어.|아무도 여기를 빠져나갈 수는 없어.|2.7|No one can escape here.
+/share/datas/kss/1/1_0824.wav|어렸을 때 바다에 빠져 죽을 뻔한 적이 있어요.|어렸을 때 바다에 빠져 죽을 뻔한 적이 있어요.|어렸을 때 바다에 빠져 죽을 뻔한 적이 있어요.|3.3|When I was a kid, I almost drowned in a sea.
+/share/datas/kss/1/1_0825.wav|나 사랑에 빠진 것 같아.|나 사랑에 빠진 것 같아.|나 사랑에 빠진 것 같아.|1.8|I feel like I'm in love.
+/share/datas/kss/1/1_0826.wav|요즘 매일 머리가 한 움큼씩 빠져.|요즘 매일 머리가 한 움큼씩 빠져.|요즘 매일 머리가 한 움큼씩 빠져.|2.6|These days a fistful of hair falls out everday.
+/share/datas/kss/1/1_0827.wav|내 이름이 합격자 명단에서 빠져 있어.|내 이름이 합격자 명단에서 빠져 있어.|내 이름이 합격자 명단에서 빠져 있어.|3.7|My name has been left out from the list of people who passed the test.
+/share/datas/kss/1/1_0828.wav|내 아들 녀석은 학교를 자주 빠져요.|내 아들 녀석은 학교를 자주 빠져요.|내 아들 녀석은 학교를 자주 빠져요.|3.0|My son is often absent from school.
+/share/datas/kss/1/1_0829.wav|오늘 치과에서 이를 뽑아서 씹을 수가 없어.|오늘 치과에서 이를 뽑아서 씹을 수가 없어.|오늘 치과에서 이를 뽑아서 씹을 수가 없어.|3.8|I can't chew because I had a tooth pulled at the dentist's.
+/share/datas/kss/1/1_0830.wav|이 사람들 중에서 5명만 뽑을 거야.|이 사람들 중에서 다섯 명만 뽑을 거야.|이 사람들 중에서 다섯 명만 뽑을 거야.|2.8|We'll select only five from these people.
+/share/datas/kss/1/1_0831.wav|음식에 후추 좀 그만 뿌려라.|음식에 후추 좀 그만 뿌려라.|음식에 후추 좀 그만 뿌려라.|1.9|Stop sprinkling pepper on the food.
+/share/datas/kss/1/1_0832.wav|향수만 뿌리면 돼.|향수만 뿌리면 돼.|향수만 뿌리면 돼.|1.5|I just need to put on my perfume.
+/share/datas/kss/1/1_0833.wav|좌석벨트를 풀어 주십시오|좌석벨트를 풀어 주십시오|좌석벨트를 풀어 주십시오|1.9|Please unfasten your seat belt.
+/share/datas/kss/1/1_0834.wav|이 문제를 못 풀겠어.|이 문제를 못 풀겠어.|이 문제를 못 풀겠어.|1.9|I can't figure this problem out.
+/share/datas/kss/1/1_0835.wav|왼쪽 신발 끈이 풀렸어요.|왼쪽 신발 끈이 풀렸어요.|왼쪽 신발 끈이 풀렸어요.|2.3|Your left shoelace is undone.
+/share/datas/kss/1/1_0836.wav|그 문제는 의외로 쉽게 풀렸어.|그 문제는 의외로 쉽게 풀렸어.|그 문제는 의외로 쉽게 풀렸어.|2.7|The problem was solved easier than expected.
+/share/datas/kss/1/1_0837.wav|할아버지 이불 펴 드려라.|할아버지 이불 펴 드려라.|할아버지 이불 펴 드려라.|1.6|Make the bed for grandpa.
+/share/datas/kss/1/1_0838.wav|10쪽을 펴세요.|십 쪽을 펴세요.|십 쪽을 펴세요.|1.3|Open your book at page ten.
+/share/datas/kss/1/1_0839.wav|나는 그 애의 책이 책상 위에 펼쳐져 있는 걸 본 적이 없어.|나는 그 애의 책이 책상 위에 펼쳐져 있는 걸 본 적이 없어.|나는 그 애의 책이 책상 위에 펼쳐져 있는 걸 본 적이 없어.|4.4|I've never seen his book lying open on the desk.
+/share/datas/kss/1/1_0840.wav|부산국제영화제가 10월 2일부터 10월 8일까지 펼쳐질 예정입니다.|부산국제영화제가 시월 이 일부터 시월 팔 일까지 펼쳐질 예정입니다.|부산국제영화제가 시월 이 일부터 시월 팔 일까지 펼쳐질 예정입니다.|5.9|The PIFF will be held from October 2 through 8.
+/share/datas/kss/1/1_0841.wav|지하철에서는 신문을 펼치고 봐서는 안 된다.|지하철에서는 신문을 펼치고 봐서는 안 된다.|지하철에서는 신문을 펼치고 봐서는 안 된다.|3.8|You shouldn't open the newspaper up when you read it on the subway.
+/share/datas/kss/1/1_0842.wav|두 팀은 막상막하의 경기를 펼쳤습니다.|두 팀은 막상막하의 경기를 펼쳤습니다.|두 팀은 막상막하의 경기를 펼쳤습니다.|3.5|The two teams werd evenly matched.
+/share/datas/kss/1/1_0843.wav|경상도 남자들은 애정을 잘 표현하지 않아요|경상도 남자들은 애정을 잘 표현하지 않아요|경상도 남자들은 애정을 잘 표현하지 않아요|3.8|Men in Gyeongsang province rarely express their love.
+/share/datas/kss/1/1_0844.wav|한국어로 제 생각을 표현하는 게 쉽지 않아요.|한국어로 제 생각을 표현하는 게 쉽지 않아요.|한국어로 제 생각을 표현하는 게 쉽지 않아요.|3.5|It's not easy to express my thoughts in Korean.
+/share/datas/kss/1/1_0845.wav|어디에서 우표를 살 수 있습니까?|어디에서 우표를 살 수 있습니까?|어디에서 우표를 살 수 있습니까?|2.0|Where can I buy stamps?
+/share/datas/kss/1/1_0847.wav|그는 하루 종일 뭘 먹을지 생각한다.|그는 하루 종일 뭘 먹을지 생각한다.|그는 하루 종일 뭘 먹을지 생각한다.|3.1|He thinks about what to eat all day long.
+/share/datas/kss/1/1_0848.wav|아무리 그 질문에 대해 생각해 봐도 모르겠어요.|아무리 그 질문에 대해 생각해 봐도 모르겠어요.|아무리 그 질문에 대해 생각해 봐도 모르겠어요.|4.1|No matter how hard I think about the question, I don't know the answer.
+/share/datas/kss/1/1_0849.wav|많은 사람들이 그 아이를 천재라고 생각합니다.|많은 사람들이 그 아이를 천재라고 생각합니다.|많은 사람들이 그 아이를 천재라고 생각합니다.|3.9|Many people think the child as a prodigy.
+/share/datas/kss/1/1_0850.wav|그 남자가 범인으로 생각됩니다.|그 남자가 범인으로 생각됩니다.|그 남자가 범인으로 생각됩니다.|2.8|I think he committed the crime.
+/share/datas/kss/1/1_0851.wav|아프다고 생각되면 빨리 병원에 가라.|아프다고 생각되면 빨리 병원에 가라.|아프다고 생각되면 빨리 병원에 가라.|3.1|If you feel sick, go to a doctor at once.
+/share/datas/kss/1/1_0852.wav|좋은 의견이 생각나면 말해 줘.|좋은 의견이 생각나면 말해 줘.|좋은 의견이 생각나면 말해 줘.|2.4|Tell me if a great idea occurs to you.
+/share/datas/kss/1/1_0853.wav|나는 비만 보면 예전 여자 친구가 생각나.|나는 비만 보면 예전 여자 친구가 생각나.|나는 비만 보면 예전 여자 친구가 생각나.|3.5|Rain always reminds me of my ex-girlfriend.
+/share/datas/kss/1/1_0854.wav|회사 건너편에 새로 생긴 커피숍 가 봤니?|회사 건너편에 새로 생긴 커피숍 가 봤니?|회사 건너편에 새로 생긴 커피숍 가 봤니?|3.2|Have you been to the new cafe across the office?
+/share/datas/kss/1/1_0855.wav|이 아기는 바비 인형처럼 생겼어요.|이 아기는 바비 인형처럼 생겼어요.|이 아기는 바비 인형처럼 생겼어요.|2.8|This baby looks like a Barbie doll.
+/share/datas/kss/1/1_0856.wav|이 지역에 새 아파트가 생겨나고 있다.|이 지역에 새 아파트가 생겨나고 있다.|이 지역에 새 아파트가 생겨나고 있다.|2.9|New apartments are being buit in this area.
+/share/datas/kss/1/1_0857.wav|이 곰팡이는 어디에서 생겨난 거야?|이 곰팡이는 어디에서 생겨난 거야?|이 곰팡이는 어디에서 생겨난 거야?|2.4|Where does this mold come from?
+/share/datas/kss/1/1_0858.wav|그녀는 길 건너편에 산다.|그녀는 길 건너편에 산다.|그녀는 길 건너편에 산다.|2.2|She lives across the street.
+/share/datas/kss/1/1_0859.wav|기숙사에서 사는 게 지겨워.|기숙사에서 사는 게 지겨워.|기숙사에서 사는 게 지겨워.|2.1|I'm tired of living in the dorm.
+/share/datas/kss/1/1_0860.wav|누가 절 살려 주셨어요?|누가 절 살려 주셨어요?|누가 절 살려 주셨어요?|1.9|Who saved my life?
+/share/datas/kss/1/1_0861.wav|다음 대통령이 가장 먼저 해야 할 일은 경제를 살리는 것이다.|다음 대통령이 가장 먼저 해야 할 일은 경제를 살리는 것이다.|다음 대통령이 가장 먼저 해야 할 일은 경제를 살리는 것이다.|4.8|The first thing the next President should do is to revive the economy.
+/share/datas/kss/1/1_0862.wav|다른 서랍을 살펴봤어?|다른 서랍을 살펴봤어?|다른 서랍을 살펴봤어?|1.7|Did you check the other drawer?
+/share/datas/kss/1/1_0863.wav|비용 문제를 자세히 살펴봐야 한다.|비용 문제를 자세히 살펴봐야 한다.|비용 문제를 자세히 살펴봐야 한다.|2.7|We should examine the cost problem closely.
+/share/datas/kss/1/1_0864.wav|그녀가 다른 남자와 같이 있는 걸 상상할 수가 없어요.|그녀가 다른 남자와 같이 있는 걸 상상할 수가 없어요.|그녀가 다른 남자와 같이 있는 걸 상상할 수가 없어요.|4.2|I can't imagine her with another guy.
+/share/datas/kss/1/1_0865.wav|가격은 선생님이 상상하시는 것보다 저렴합니다.|가격은 선생님이 상상하시는 것보다 저렴합니다.|가격은 선생님이 상상하시는 것보다 저렴합니다.|3.7|Prices are cheaper than you'd imagine.
+/share/datas/kss/1/1_0866.wav|하루에 수십 개의 언어가 이 땅에서 사라지고 있다.|하루에 수십 개의 언어가 이 땅에서 사라지고 있다.|하루에 수십 개의 언어가 이 땅에서 사라지고 있다.|3.8|Dozens of languages disappear from the world each day.
+/share/datas/kss/1/1_0867.wav|달이 구름 속으로 사라졌다.|달이 구름 속으로 사라졌다.|달이 구름 속으로 사라졌다.|2.4|The moon disappeared behind the clouds.
+/share/datas/kss/1/1_0868.wav|저는 자유보다 복종을 더 사랑해요.|저는 자유보다 복종을 더 사랑해요.|저는 자유보다 복종을 더 사랑해요.|3.1|I love obedience more than freedom.
+/share/datas/kss/1/1_0869.wav|당신을 더 이상 사랑하지 않아.|당신을 더 이상 사랑하지 않아.|당신을 더 이상 사랑하지 않아.|2.2|I don't love you anymore.
+/share/datas/kss/1/1_0870.wav|이것은 무언가를 자르는 데 사용된다.|이것은 무언가를 자르는 데 사용된다.|이것은 무언가를 자르는 데 사용된다.|2.8|This is used to cut something.
+/share/datas/kss/1/1_0871.wav|이 방은 응접실로 사용될 겁니다.|이 방은 응접실로 사용될 겁니다.|이 방은 응접실로 사용될 겁니다.|3.1|This room will be used as a living room.
+/share/datas/kss/1/1_0872.wav|산 지렁이를 미끼로 사용해 봐.|산 지렁이를 미끼로 사용해 봐.|산 지렁이를 미끼로 사용해 봐.|2.5|Use a live worm for bait.
+/share/datas/kss/1/1_0873.wav|쿠폰을 사용해서 돈을 조금 절약할 수 있었다.|쿠폰을 사용해서 돈을 조금 절약할 수 있었다.|쿠폰을 사용해서 돈을 조금 절약할 수 있었다.|3.5|I could save some money by using the coupons.
+/share/datas/kss/1/1_0874.wav|구석에 서 있지 마세요.|구석에 서 있지 마세요.|구석에 서 있지 마세요.|1.6|Don't stand on the corner.
+/share/datas/kss/1/1_0875.wav|서울역 가는 버스가 여기 서요?|서울역 가는 버스가 여기 서요?|서울역 가는 버스가 여기 서요?|2.5|Does the bus to the Seoul Station stop here?
+/share/datas/kss/1/1_0876.wav|서두르지 않아도 돼.|서두르지 않아도 돼.|서두르지 않아도 돼.|1.6|You don't have to hurry up.
+/share/datas/kss/1/1_0877.wav|떠날 채비를 서둘러라.|떠날 채비를 서둘러라.|떠날 채비를 서둘러라.|1.9|Hurry to get ready to leave.
+/share/datas/kss/1/1_0878.wav|우유랑 버터를 밀가루에 섞으세요.|우유랑 버터를 밀가루에 섞으세요.|우유랑 버터를 밀가루에 섞으세요.|2.4|Blend milk and butter into the flour.
+/share/datas/kss/1/1_0879.wav|제가 카드 섞어요?|제가 카드 섞어요?|제가 카드 섞어요?|1.6|Do you want me to shuffle the cards?
+/share/datas/kss/1/1_0880.wav|나는 의사에게 내 증상을 자세히 설명했다.|나는 의사에게 내 증상을 자세히 설명했다.|나는 의사에게 내 증상을 자세히 설명했다.|3.9|I explained my symptoms to the doctor in detail.
+/share/datas/kss/1/1_0881.wav|좀 더 자세히 설명해 주시겠어요?|좀 더 자세히 설명해 주시겠어요?|좀 더 자세히 설명해 주시겠어요?|2.4|Could you explain it in more detail?
+/share/datas/kss/1/1_0882.wav|사업에 성공하려면 우선 자신을 돌봐야 한다.|사업에 성공하려면 우선 자신을 돌봐야 한다.|사업에 성공하려면 우선 자신을 돌봐야 한다.|3.9|You have to take care of yourself first if you want to succeed in business.
+/share/datas/kss/1/1_0883.wav|그 영화는 상업적으로 크게 성공했다.|그 영화는 상업적으로 크게 성공했다.|그 영화는 상업적으로 크게 성공했다.|3.3|The movie was very successful commercially.
+/share/datas/kss/1/1_0884.wav|나는 그녀에게 꽃 한 다발을 선물했다.|나는 그녀에게 꽃 한 다발을 선물했다.|나는 그녀에게 꽃 한 다발을 선물했다.|3.5|I gave her a big bouquet of flowers as a present.
+/share/datas/kss/1/1_0885.wav|어머니 생신에 뭐 선물할 거니?|어머니 생신에 뭐 선물할 거니?|어머니 생신에 뭐 선물할 거니?|2.9|What present are you going to give your mother for her birthday?
+/share/datas/kss/1/1_0886.wav|직업을 잘 선택하는 것은 중요한 일이다.|직업을 잘 선택하는 것은 중요한 일이다.|직업을 잘 선택하는 것은 중요한 일이다.|3.3|It's important to choose your occupation well.
+/share/datas/kss/1/1_0887.wav|누구를 선택하시겠어요?|누구를 선택하시겠어요?|누구를 선택하시겠어요?|1.8|Who do you want to pick?
+/share/datas/kss/1/1_0888.wav|사람들을 일렬로 세우는 게 네가 할 일이야.|사람들을 일렬로 세우는 게 네가 할 일이야.|사람들을 일렬로 세우는 게 네가 할 일이야.|3.4|Your job is to stand people in a line.
+/share/datas/kss/1/1_0889.wav|내 꿈은 언젠가 학교를 세우는 거야.|내 꿈은 언젠가 학교를 세우는 거야.|내 꿈은 언젠가 학교를 세우는 거야.|3.3|My dream is to set up a school someday.
+/share/datas/kss/1/1_0890.wav|차를 세우고 물어봐야겠는걸.|차를 세우고 물어봐야겠는걸.|차를 세우고 물어봐야겠는걸.|2.2|Maybe we should stop the car and ask somebody.
+/share/datas/kss/1/1_0891.wav|요즘 너무 많은 스트레스에 시달리고 있어요.|요즘 너무 많은 스트레스에 시달리고 있어요.|요즘 너무 많은 스트레스에 시달리고 있어요.|3.0|I'm under too much stress.
+/share/datas/kss/1/1_0892.wav|오늘 조카들한테 시달려서 몹시 피곤해.|오늘 조카들한테 시달려서 몹시 피곤해.|오늘 조카들한테 시달려서 몹시 피곤해.|3.3|I'm so exhausted because today I was harassed by my nephews.
+/share/datas/kss/1/1_0893.wav|의사 선생님이 운동을 시작하라고 하셨다.|의사 선생님이 운동을 시작하라고 하셨다.|의사 선생님이 운동을 시작하라고 하셨다.|3.1|The doctor advised me to start exercising.
+/share/datas/kss/1/1_0894.wav|영화가 막 시작하려고 합니다.|영화가 막 시작하려고 합니다.|영화가 막 시작하려고 합니다.|1.9|The movie is about to begin.
+/share/datas/kss/1/1_0895.wav|회의가 곧 시작돼요.|회의가 곧 시작돼요.|회의가 곧 시작돼요.|1.9|The meeting starts soon.
+/share/datas/kss/1/1_0896.wav|보통 장마가 언제 시작됩니까?|보통 장마가 언제 시작됩니까?|보통 장마가 언제 시작됩니까?|2.5|When does the rainy season usually start?
+/share/datas/kss/1/1_0897.wav|시키는 대로 하는 게 좋을 텐데.|시키는 대로 하는 게 좋을 텐데.|시키는 대로 하는 게 좋을 텐데.|2.2|You'd better do what I tell you.
+/share/datas/kss/1/1_0898.wav|오늘 점심은 시켜 먹읍시다.|오늘 점심은 시켜 먹읍시다.|오늘 점심은 시켜 먹읍시다.|1.9|Let's have lunch delivered today.
+/share/datas/kss/1/1_0899.wav|저녁 식사하셨어요?|저녁 식사하셨어요?|저녁 식사하셨어요?|1.4|Did you have dinner?
+/share/datas/kss/1/1_0900.wav|점심 식사하러 나가죠.|점심 식사하러 나가죠.|점심 식사하러 나가죠.|1.6|Let's go out for lunch.
+/share/datas/kss/1/1_0901.wav|실례합니다.|실례합니다.|실례합니다.|1.1|Excuse me.
+/share/datas/kss/1/1_0902.wav|실례합니다만 먼저 가 봐야 해서요.|실례합니다만 먼저 가 봐야 해서요.|실례합니다만 먼저 가 봐야 해서요.|2.4|I'm afraid I should be going.
+/share/datas/kss/1/1_0903.wav|이 영화는 상을 받았지만, 흥행에는 실패했어.|이 영화는 상을 받았지만, 흥행에는 실패했어.|이 영화는 상을 받았지만, 흥행에는 실패했어.|3.4|This movie won an award, but failed at the box office.
+/share/datas/kss/1/1_0904.wav|내가 실패할 줄은 몰랐어.|내가 실패할 줄은 몰랐어.|내가 실패할 줄은 몰랐어.|2.0|Little did I know that I would fail.
+/share/datas/kss/1/1_0905.wav|누구나 실수할 수 있다.|누구나 실수할 수 있다.|누구나 실수할 수 있다.|1.8|Everyone can make mistakes.
+/share/datas/kss/1/1_0906.wav|이메일을 보내다가 실수하신 적이 있습니까?|이메일을 보내다가 실수하신 적이 있습니까?|이메일을 보내다가 실수하신 적이 있습니까?|3.3|Have you ever made a mistake when sending an e-mail?
+/share/datas/kss/1/1_0907.wav|나는 아버지를 도와 옥수수를 심겠다고 약속했다.|나는 아버지를 도와 옥수수를 심겠다고 약속했다.|나는 아버지를 도와 옥수수를 심겠다고 약속했다.|3.9|I promised to help my father plant some corn in the field.
+/share/datas/kss/1/1_0908.wav|심은 대로 거둔다.|심은 대로 거둔다.|심은 대로 거둔다.|1.6|Reap what one has sown.
+/share/datas/kss/1/1_0909.wav|스타킹 위에 양말을 신지 그래?|스타킹 위에 양말을 신지 그래?|스타킹 위에 양말을 신지 그래?|2.4|Why don't you wear socks over your stockings?
+/share/datas/kss/1/1_0910.wav|신발 신는 것 좀 도와 줘.|신발 신는 것 좀 도와 줘.|신발 신는 것 좀 도와 줘.|1.9|Help me put on my shoes.
+/share/datas/kss/1/1_0911.wav|저는 여자 친구와 쇼핑하는 걸 굉장히 싫어해요.|저는 여자 친구와 쇼핑하는 걸 굉장히 싫어해요.|저는 여자 친구와 쇼핑하는 걸 굉장히 싫어해요.|3.6|I really hate to go shopping with my girlfriend.
+/share/datas/kss/1/1_0912.wav|그녀가 나를 싫어하기 때문에 나도 그녀를 싫어한다.|그녀가 나를 싫어하기 때문에 나도 그녀를 싫어한다.|그녀가 나를 싫어하기 때문에 나도 그녀를 싫어한다.|4.0|I hate her because she hates me.
+/share/datas/kss/1/1_0913.wav|그 사람들 지금 트럭에 상자를 싣는 중이라 바빠요.|그 사람들 지금 트럭에 상자를 싣는 중이라 바빠요.|그 사람들 지금 트럭에 상자를 싣는 중이라 바빠요.|4.1|They are busy loading boxes onto the truck.
+/share/datas/kss/1/1_0914.wav|차에 짐 다 실었어?|차에 짐 다 실었어?|차에 짐 다 실었어?|1.5|Have you finished loading your luggage onto the car?
+/share/datas/kss/1/1_0915.wav|여러분께 제 어머니를 소개합니다.|여러분께 제 어머니를 소개합니다.|여러분께 제 어머니를 소개합니다.|2.4|Let me introduce my mother to you.
+/share/datas/kss/1/1_0916.wav|저를 소개하겠습니다.|저를 소개하겠습니다.|저를 소개하겠습니다.|1.5|Let me introduce myself.
+/share/datas/kss/1/1_0917.wav|저는 어느 동아리에도 속해 있지 않아요.|저는 어느 동아리에도 속해 있지 않아요.|저는 어느 동아리에도 속해 있지 않아요.|2.7|I don't belong to any club.
+/share/datas/kss/1/1_0918.wav|그녀는 상당한 미인에 속한다.|그녀는 상당한 미인에 속한다.|그녀는 상당한 미인에 속한다.|2.3|She is fairly beautiful.
+/share/datas/kss/1/1_0919.wav|나한테 소리치지 마.|나한테 소리치지 마.|나한테 소리치지 마.|1.3|Don't yell at me.
+/share/datas/kss/1/1_0920.wav|우리는 도와 달라고 소리쳤다.|우리는 도와 달라고 소리쳤다.|우리는 도와 달라고 소리쳤다.|2.3|We shouted for help.
+/share/datas/kss/1/1_0921.wav|포장지에 싸 드릴까요?|포장지에 싸 드릴까요?|포장지에 싸 드릴까요?|1.7|Do you want me to wrap it in wrapping paper?
+/share/datas/kss/1/1_0922.wav|남은 음식 좀 싸 주시겠어요?|남은 음식 좀 싸 주시겠어요?|남은 음식 좀 싸 주시겠어요?|2.0|Can I have a doggy bag?
+/share/datas/kss/1/1_0923.wav|모니터 위에 먼지가 잔뜩 쌓였어요.|모니터 위에 먼지가 잔뜩 쌓였어요.|모니터 위에 먼지가 잔뜩 쌓였어요.|2.7|Dust has accumulated on the monitor.
+/share/datas/kss/1/1_0924.wav|오늘은 정말 스트레스 쌓여.|오늘은 정말 스트레스 쌓여.|오늘은 정말 스트레스 쌓여.|2.1|I'm really stressed out today.
+/share/datas/kss/1/1_0925.wav|최대한 빨리 여기에 통나무를 쌓아라.|최대한 빨리 여기에 통나무를 쌓아라.|최대한 빨리 여기에 통나무를 쌓아라.|2.9|Pile up the logs as soon as you can.
+/share/datas/kss/1/1_0926.wav|좋은 작가가 되려면 폭넓은 경험을 쌓는 것이 중요하다.|좋은 작가가 되려면 폭넓은 경험을 쌓는 것이 중요하다.|좋은 작가가 되려면 폭넓은 경험을 쌓는 것이 중요하다.|4.6|It is important to accumulate broad experince to be a good writer.
+/share/datas/kss/1/1_0927.wav|엄마는 나한테 제발 동생과 그만 싸우라고 소리쳤다.|엄마는 나한테 제발 동생과 그만 싸우라고 소리쳤다.|엄마는 나한테 제발 동생과 그만 싸우라고 소리쳤다.|4.5|My mom shouted at me to stop fighting with my brother.
+/share/datas/kss/1/1_0928.wav|뭐 때문에 싸웠어?|뭐 때문에 싸웠어?|뭐 때문에 싸웠어?|1.4|What did you fight about?
+/share/datas/kss/1/1_0929.wav|파를 썰어서 접시 위에 두어라.|파를 썰어서 접시 위에 두어라.|파를 썰어서 접시 위에 두어라.|2.4|Chop scallions and put them on the plate.
+/share/datas/kss/1/1_0930.wav|치즈 좀 썰어 줄래?|치즈 좀 썰어 줄래?|치즈 좀 썰어 줄래?|1.4|Could you please slice some cheese for me?
+/share/datas/kss/1/1_0931.wav|첫 장에 이름 쓰는 거 잊지 마세요.|첫 장에 이름 쓰는 거 잊지 마세요.|첫 장에 이름 쓰는 거 잊지 마세요.|2.6|Don't forget to write down your name on the first page.
+/share/datas/kss/1/1_0932.wav|저는 이메일보다 편지를 쓰는 걸 더 좋아해요.|저는 이메일보다 편지를 쓰는 걸 더 좋아해요.|저는 이메일보다 편지를 쓰는 걸 더 좋아해요.|3.7|I prefer to write a letter than an e-mail.
+/share/datas/kss/1/1_0933.wav|저는 외출을 할 때 꼭 모자를 씁니다.|저는 외출을 할 때 꼭 모자를 씁니다.|저는 외출을 할 때 꼭 모자를 씁니다.|3.2|I always wear a cap when I go outside.
+/share/datas/kss/1/1_0934.wav|군인은 비가 와도 우산을 쓸 수 없어요.|군인은 비가 와도 우산을 쓸 수 없어요.|군인은 비가 와도 우산을 쓸 수 없어요.|3.1|Soldiers are not allowed to use an umbrella even if it rains.
+/share/datas/kss/1/1_0935.wav|얼마 동안 쓰실 건가요?|얼마 동안 쓰실 건가요?|얼마 동안 쓰실 건가요?|1.8|How long would you like to use it?
+/share/datas/kss/1/1_0936.wav|돈을 어디에 다 쓴 거야?|돈을 어디에 다 쓴 거야?|돈을 어디에 다 쓴 거야?|1.6|What did you spend all the money on?
+/share/datas/kss/1/1_0937.wav|이 돈은 가난한 사람들을 돕는 데 쓰일 거야.|이 돈은 가난한 사람들을 돕는 데 쓰일 거야.|이 돈은 가난한 사람들을 돕는 데 쓰일 거야.|3.7|This money will be used to help the poor.
+/share/datas/kss/1/1_0938.wav|국제회의에서는 흔히 영어가 쓰인다.|국제회의에서는 흔히 영어가 쓰인다.|국제회의에서는 흔히 영어가 쓰인다.|3.0|Usually English is used at international conventions.
+/share/datas/kss/1/1_0939.wav|껌 좀 조용히 씹어.|껌 좀 조용히 씹어.|껌 좀 조용히 씹어.|1.6|Please chew your gum quietly.
+/share/datas/kss/1/1_0940.wav|음식을 씹은 다음 삼켜라.|음식을 씹은 다음 삼켜라.|음식을 씹은 다음 삼켜라.|2.1|Swallow the food after chewing.
+/share/datas/kss/1/1_0941.wav|손 먼저 씻어라.|손 먼저 씻어라.|손 먼저 씻어라.|1.4|Wash your hands first.
+/share/datas/kss/1/1_0942.wav|차가운 물로 발을 씻으면 기분이 상쾌해질 거야.|차가운 물로 발을 씻으면 기분이 상쾌해질 거야.|차가운 물로 발을 씻으면 기분이 상쾌해질 거야.|3.6|Washing your feet with cold water will refresh you.
+/share/datas/kss/1/1_0943.wav|비가 억수같이 쏟아지고 있어요.|비가 억수같이 쏟아지고 있어요.|비가 억수같이 쏟아지고 있어요.|2.3|The rain is pouring down.
+/share/datas/kss/1/1_0944.wav|아내가 이혼을 원한다는 말을 듣자 눈물이 쏟아졌다.|아내가 이혼을 원한다는 말을 듣자 눈물이 쏟아졌다.|아내가 이혼을 원한다는 말을 듣자 눈물이 쏟아졌다.|4.2|The tears came pouring out when I heard my wife wanted a divorce.
+/share/datas/kss/1/1_0945.wav|내 뒤에 얼른 숨어.|내 뒤에 얼른 숨어.|내 뒤에 얼른 숨어.|1.3|Hurry, hide behind me!
+/share/datas/kss/1/1_0946.wav|그는 산속으로 숨어 버렸다.|그는 산속으로 숨어 버렸다.|그는 산속으로 숨어 버렸다.|2.2|He disappeared into the mountains.
+/share/datas/kss/1/1_0947.wav|그녀가 좀 쉬어야 한다고 생각합니다.|그녀가 좀 쉬어야 한다고 생각합니다.|그녀가 좀 쉬어야 한다고 생각합니다.|2.4|I believe she needs some rest.
+/share/datas/kss/1/1_0948.wav|오늘은 쉬는 날이야.|오늘은 쉬는 날이야.|오늘은 쉬는 날이야.|1.4|I'm off today.
+/share/datas/kss/1/1_0949.wav|우리는 비행기에 타려고 줄을 섰다.|우리는 비행기에 타려고 줄을 섰다.|우리는 비행기에 타려고 줄을 섰다.|2.8|We lined up to board the plane.
+/share/datas/kss/1/1_0950.wav|저는 운전할 줄은 아는데 자전거를 탈 줄은 몰라요.|저는 운전할 줄은 아는데 자전거를 탈 줄은 몰라요.|저는 운전할 줄은 아는데 자전거를 탈 줄은 몰라요.|3.9|I know how to drive, but I don't know how to ride a bicycle.
+/share/datas/kss/1/1_0951.wav|뭔가 타고 있는 것 같아요.|뭔가 타고 있는 것 같아요.|뭔가 타고 있는 것 같아요.|1.8|I think something is burning.
+/share/datas/kss/1/1_0952.wav|고기가 다 타서 먹을 수가 없었죠.|고기가 다 타서 먹을 수가 없었죠.|고기가 다 타서 먹을 수가 없었죠.|2.6|We couldn't eat the meat because it was completely burned.
+/share/datas/kss/1/1_0953.wav|한국에서는 태어나면 곧바로 한 살이에요.|한국에서는 태어나면 곧바로 한 살이에요.|한국에서는 태어나면 곧바로 한 살이에요.|3.4|In Korea, you're a year old when you're born.
+/share/datas/kss/1/1_0954.wav|저는 미국에서 태어났지만 한국에서 자랐어요.|저는 미국에서 태어났지만 한국에서 자랐어요.|저는 미국에서 태어났지만 한국에서 자랐어요.|3.5|I was born in the US but raised in Korea.
+/share/datas/kss/1/1_0955.wav|버스는 이미 승객들을 가득 태우고 있었다.|버스는 이미 승객들을 가득 태우고 있었다.|버스는 이미 승객들을 가득 태우고 있었다.|3.2|The bus was full of passengers already.
+/share/datas/kss/1/1_0956.wav|나 좀 태워 줘요.|나 좀 태워 줘요.|나 좀 태워 줘요.|1.3|Please give me a ride.
+/share/datas/kss/1/1_0957.wav|산에서 쓰레기를 태우는 건 아주 위험해요.|산에서 쓰레기를 태우는 건 아주 위험해요.|산에서 쓰레기를 태우는 건 아주 위험해요.|3.2|It is very dangerous to burn garbage on a mountain.
+/share/datas/kss/1/1_0958.wav|너는 늘 밥을 태우는구나.|너는 늘 밥을 태우는구나.|너는 늘 밥을 태우는구나.|2.1|You always burn the rice.
+/share/datas/kss/1/1_0959.wav|여기저기서 폭탄이 터졌다.|여기저기서 폭탄이 터졌다.|여기저기서 폭탄이 터졌다.|2.2|The bombs went off here and there.
+/share/datas/kss/1/1_0960.wav|사람들이 전쟁이 터질 때를 대비해서 물건을 사재기하고 있습니다.|사람들이 전쟁이 터질 때를 대비해서 물건을 사재기하고 있습니다.|사람들이 전쟁이 터질 때를 대비해서 물건을 사재기하고 있습니다.|4.9|People are stockpiling things in case of a war.
+/share/datas/kss/1/1_0961.wav|개를 보자마자 핸들을 왼쪽으로 틀려고 했지만 이미 늦었다.|개를 보자마자 핸들을 왼쪽으로 틀려고 했지만 이미 늦었다.|개를 보자마자 핸들을 왼쪽으로 틀려고 했지만 이미 늦었다.|4.8|I tried to turn the steering wheel to the left on seeing a dog, but it was too late.
+/share/datas/kss/1/1_0962.wav|선풍기 틀어도 괜찮으시겠어요?|선풍기 틀어도 괜찮으시겠어요?|선풍기 틀어도 괜찮으시겠어요?|2.3|Do you mind if I turn on the fan?
+/share/datas/kss/1/1_0963.wav|내 생각엔, 네 답이 틀린 것 같은데.|내 생각엔, 네 답이 틀린 것 같은데.|내 생각엔, 네 답이 틀린 것 같은데.|2.8|I think your answer is wrong.
+/share/datas/kss/1/1_0964.wav|한국어 시험에서 두 문제를 틀렸어.|한국어 시험에서 두 문제를 틀렸어.|한국어 시험에서 두 문제를 틀렸어.|2.6|I got two questions wrong on the Korean test.
+/share/datas/kss/1/1_0965.wav|나무는 전기가 안 통해요.|나무는 전기가 안 통해요.|나무는 전기가 안 통해요.|2.0|Wood doesn't conduct electricity.
+/share/datas/kss/1/1_0966.wav|시행착오를 통해 배우는 것도 나쁘지 않아.|시행착오를 통해 배우는 것도 나쁘지 않아.|시행착오를 통해 배우는 것도 나쁘지 않아.|3.5|It's not bad to learn by trial and error.
+/share/datas/kss/1/1_0967.wav|이 부분은 뜻이 안 통하는 것 같은데.|이 부분은 뜻이 안 통하는 것 같은데.|이 부분은 뜻이 안 통하는 것 같은데.|2.6|I don't think this part makes sense.
+/share/datas/kss/1/1_0968.wav|엄마는 포도를 따고 계세요.|엄마는 포도를 따고 계세요.|엄마는 포도를 따고 계세요.|2.0|My mom is plucking grapes.
+/share/datas/kss/1/1_0969.wav|이 캔 좀 따 줘.|이 캔 좀 따 줘.|이 캔 좀 따 줘.|1.3|Could you open this can?
+/share/datas/kss/1/1_0970.wav|그 남자는 자기 아이를 때렸다는 이유로 고소를 당했다.|그 남자는 자기 아이를 때렸다는 이유로 고소를 당했다.|그 남자는 자기 아이를 때렸다는 이유로 고소를 당했다.|4.5|He was accused of beating his child.
+/share/datas/kss/1/1_0971.wav|선생님이 회초리로 손바닥을 때리셨어.|선생님이 회초리로 손바닥을 때리셨어.|선생님이 회초리로 손바닥을 때리셨어.|3.2|The teacher hit me on the palm with a stick.
+/share/datas/kss/1/1_0972.wav|이 길을 따라가세요.|이 길을 따라가세요.|이 길을 따라가세요.|1.5|Follow this street.
+/share/datas/kss/1/1_0973.wav|토론에서는 그 여자를 따라갈 사람이 없어.|토론에서는 그 여자를 따라갈 사람이 없어.|토론에서는 그 여자를 따라갈 사람이 없어.|3.4|Nobody can match her when it comes to a debate.
+/share/datas/kss/1/1_0974.wav|저를 따라오십시오.|저를 따라오십시오.|저를 따라오십시오.|1.5|Please, follow me.
+/share/datas/kss/1/1_0975.wav|수학이라면 저를 따라올 사람이 없어요.|수학이라면 저를 따라올 사람이 없어요.|수학이라면 저를 따라올 사람이 없어요.|2.7|I am second to none when it comes to mathematics.
+/share/datas/kss/1/1_0976.wav|총에서 손을 떼라.|총에서 손을 떼라.|총에서 손을 떼라.|1.7|Take your hands off the gun.
+/share/datas/kss/1/1_0977.wav|나는 그 아름다운 여인에게서 눈을 뗄 수가 없었다.|나는 그 아름다운 여인에게서 눈을 뗄 수가 없었다.|나는 그 아름다운 여인에게서 눈을 뗄 수가 없었다.|3.6|I couldn't take my eyes off the beautiful woman.
+/share/datas/kss/1/1_0978.wav|왜 떨고 있어?|왜 떨고 있어?|왜 떨고 있어?|1.2|Why are you shuddering?
+/share/datas/kss/1/1_0979.wav|다리 좀 떨지 마.|다리 좀 떨지 마.|다리 좀 떨지 마.|1.3|Don't shake your legs.
+/share/datas/kss/1/1_0980.wav|놀라서 목소리가 떨리기 시작했다.|놀라서 목소리가 떨리기 시작했다.|놀라서 목소리가 떨리기 시작했다.|3.0|My voice began to quiver with surprise.
+/share/datas/kss/1/1_0981.wav|시험 보기 전이면 항상 이렇게 떨려.|시험 보기 전이면 항상 이렇게 떨려.|시험 보기 전이면 항상 이렇게 떨려.|3.1|I am always so nervous like this before an exam.
+/share/datas/kss/1/1_0982.wav|그 사람 어디로 떠난 거야?|그 사람 어디로 떠난 거야?|그 사람 어디로 떠난 거야?|1.7|Where did he leave for?
+/share/datas/kss/1/1_0983.wav|좋은 추억을 많이 가지고 한국을 떠나셨으면 좋겠네요.|좋은 추억을 많이 가지고 한국을 떠나셨으면 좋겠네요.|좋은 추억을 많이 가지고 한국을 떠나셨으면 좋겠네요.|4.1|I hope you'll leave Korea with a lot of good memories.
+/share/datas/kss/1/1_0984.wav|해외여행을 떠나려면 준비할 게 많아.|해외여행을 떠나려면 준비할 게 많아.|해외여행을 떠나려면 준비할 게 많아.|2.9|You should prepare many things before leaving on a trip overseas.
+/share/datas/kss/1/1_0985.wav|행복했던 시절을 떠올리면 미소가 지어진다.|행복했던 시절을 떠올리면 미소가 지어진다.|행복했던 시절을 떠올리면 미소가 지어진다.|3.6|It makes me smile to recollect my happy days.
+/share/datas/kss/1/1_0986.wav|그 사람을 볼 때마다 내 예전 남자 친구를 떠올리게 돼.|그 사람을 볼 때마다 내 예전 남자 친구를 떠올리게 돼.|그 사람을 볼 때마다 내 예전 남자 친구를 떠올리게 돼.|4.3|Whenever I see him, I remember my ex-boyfriend.
+/share/datas/kss/1/1_0987.wav|해는 동쪽에서 떠오른다.|해는 동쪽에서 떠오른다.|해는 동쪽에서 떠오른다.|2.2|The sun rises in the east.
+/share/datas/kss/1/1_0988.wav|좋은 생각이 떠올랐다.|좋은 생각이 떠올랐다.|좋은 생각이 떠올랐다.|1.8|I hit upon a great idea.
+/share/datas/kss/1/1_0989.wav|말에서 떨어져서 왼팔이 부러졌어요.|말에서 떨어져서 왼팔이 부러졌어요.|말에서 떨어져서 왼팔이 부러졌어요.|3.2|I fell off a horse and my left arm was broken.
+/share/datas/kss/1/1_0990.wav|딸아이가 입학시험에 떨어졌어요.|딸아이가 입학시험에 떨어졌어요.|딸아이가 입학시험에 떨어졌어요.|3.2|My daughter failed the entrance exam.
+/share/datas/kss/1/1_0991.wav|연료가 다 떨어져 가.|연료가 다 떨어져 가.|연료가 다 떨어져 가.|1.7|We're running out of gas.
+/share/datas/kss/1/1_0992.wav|무언가가 표면에 떠 다닌다.|무언가가 표면에 떠 다닌다.|무언가가 표면에 떠 다닌다.|2.3|Something is floating on the surface.
+/share/datas/kss/1/1_0993.wav|태양은 동쪽에서 떠서 서쪽으로 진다.|태양은 동쪽에서 떠서 서쪽으로 진다.|태양은 동쪽에서 떠서 서쪽으로 진다.|3.1|The sun rises in the east and sets in the west.
+/share/datas/kss/1/1_0994.wav|눈을 뜨고 나를 봐요.|눈을 뜨고 나를 봐요.|눈을 뜨고 나를 봐요.|1.7|Open your eyes and look at me.
+/share/datas/kss/1/1_0995.wav|아침 7시에 눈을 떴어요.|아침 일곱 시에 눈을 떴어요.|아침 일곱 시에 눈을 떴어요.|2.0|I woke up at seven.
+/share/datas/kss/1/1_0996.wav|'아줌마'는 결혼한 여자를 뜻한다.|아줌마는 결혼한 여자를 뜻한다.|아줌마는 결혼한 여자를 뜻한다.|2.6|‘Ajumma' refers to a married woman.
+/share/datas/kss/1/1_0997.wav|이 문장은 무엇을 뜻합니까?|이 문장은 무엇을 뜻합니까?|이 문장은 무엇을 뜻합니까?|2.2|What does this sentence mean?
+/share/datas/kss/1/1_0998.wav|걷지 말고 뛰어!|걷지 말고 뛰어!|걷지 말고 뛰어!|1.3|Don't walk. Run!
+/share/datas/kss/1/1_0999.wav|모든 사람들이 출구를 향해 뛰기 시작했다.|모든 사람들이 출구를 향해 뛰기 시작했다.|모든 사람들이 출구를 향해 뛰기 시작했다.|3.4|Everyone started to run for the exit.
+/share/datas/kss/1/1_1000.wav|그녀는 육상 선수였기 때문에 굉장히 높이 뛸 수 있다.|그녀는 육상 선수였기 때문에 굉장히 높이 뛸 수 있다.|그녀는 육상 선수였기 때문에 굉장히 높이 뛸 수 있다.|4.3|She can jump high because she was an athlete.
+/share/datas/kss/1/1_1001.wav|그의 맥박은 여전히 뛰고 있다.|그의 맥박은 여전히 뛰고 있다.|그의 맥박은 여전히 뛰고 있다.|2.8|His pulse is still beating.
+/share/datas/kss/1/1_1002.wav|한글은 15세기에 세종대왕에 의해 만들어졌어.|한글은 십오 세기에 세종대왕에 의해 만들어졌어.|한글은 십오 세기에 세종대왕에 의해 만들어졌어.|4.9|Hangul was invented in the 15th century by King Sejong.
+/share/datas/kss/1/1_1003.wav|그가 회복된 건 순전히 그 여자의 간호에 의한 거야.|그가 회복된 건 순전히 그 여자의 간호에 의한 거야.|그가 회복된 건 순전히 그 여자의 간호에 의한 거야.|4.0|His recovery is totally thanks to her care.
+/share/datas/kss/1/1_1004.wav|일기예보에 의하면 날씨가 좋을 거래요.|일기예보에 의하면 날씨가 좋을 거래요.|일기예보에 의하면 날씨가 좋을 거래요.|3.6|According to the weather forecast, it will be fine.
+/share/datas/kss/1/1_1005.wav|IMF는 뭘 의미합니까?|아이엠에프는 뭘 의미합니까?|아이엠에프는 뭘 의미ᅡᆸ니까?|2.2|What does the IMF mean?
+/share/datas/kss/1/1_1006.wav|빨간 불은 위험을 의미해요.|빨간 불은 위험을 의미해요.|빨간 불은 위험을 의미해요.|2.2|The red light means danger.
+/share/datas/kss/1/1_1007.wav|여름철에는 매미가 우는 걸 쉽게 볼 수 있어요.|여름철에는 매미가 우는 걸 쉽게 볼 수 있어요.|여름철에는 매미가 우는 걸 쉽게 볼 수 있어요.|3.5|You can easily find cicadas singing in summer.
+/share/datas/kss/1/1_1008.wav|그는 기뻐서 울고 있다.|그는 기뻐서 울고 있다.|그는 기뻐서 울고 있다.|2.2|He is sheding tears of delight.
+/share/datas/kss/1/1_1009.wav|우리 형은 어릴 때 걸핏하면 저를 울렸어요.|우리 형은 어릴 때 걸핏하면 저를 울렸어요.|우리 형은 어릴 때 걸핏하면 저를 울렸어요.|4.2|When I was young, my elder brother often made me cry.
+/share/datas/kss/1/1_1010.wav|전화 받아! 전화벨 울리잖아!|전화 받아! 전화벨 울리잖아!|전화 받아! 전화벨 울리잖아!|3.0|Pick up the phone! The telephone is ringing!
+/share/datas/kss/1/1_1011.wav|고개를 움직여 봐.|고개를 움직여 봐.|고개를 움직여 봐.|1.3|Move your head.
+/share/datas/kss/1/1_1012.wav|팔이 안 움직여.|팔이 안 움직여.|팔이 안 움직여.|1.3|I can't move my arms.
+/share/datas/kss/1/1_1013.wav|오늘은 운동하기에 아주 좋은 날씨였다.|오늘은 운동하기에 아주 좋은 날씨였다.|오늘은 운동하기에 아주 좋은 날씨였다.|3.1|It was perfect weather for exercising.
+/share/datas/kss/1/1_1014.wav|저는 매일 운동하러 헬스 클럽에 다녀요.|저는 매일 운동하러 헬스 클럽에 다녀요.|저는 매일 운동하러 헬스 클럽에 다녀요.|3.3|I go to the health club for my daily workout.
+/share/datas/kss/1/1_1015.wav|버스를 운전할 수 있으세요?|버스를 운전할 수 있으세요?|버스를 운전할 수 있으세요?|2.0|Can you drive a bus?
+/share/datas/kss/1/1_1016.wav|비 오는 날 빨리 운전하면 매우 위험하다.|비 오는 날 빨리 운전하면 매우 위험하다.|비 오는 날 빨리 운전하면 매우 위험하다.|3.5|It is very dangerous to drive fast on a rainy day.
+/share/datas/kss/1/1_1017.wav|그는 엉뚱한 질문으로 사람들을 곧잘 웃겼다.|그는 엉뚱한 질문으로 사람들을 곧잘 웃겼다.|그는 엉뚱한 질문으로 사람들을 곧잘 웃겼다.|3.8|He would make others laugh with random questions.
+/share/datas/kss/1/1_1018.wav|그 사람 정말 웃겨.|그 사람 정말 웃겨.|그 사람 정말 웃겨.|1.6|He is so funny.
+/share/datas/kss/1/1_1019.wav|그는 머리를 뒤로 젖히고 웃었다.|그는 머리를 뒤로 젖히고 웃었다.|그는 머리를 뒤로 젖히고 웃었다.|2.6|He threw back his head and laughed.
+/share/datas/kss/1/1_1020.wav|아기가 나를 보고 웃었어.|아기가 나를 보고 웃었어.|아기가 나를 보고 웃었어.|1.9|The baby smiled at me.
+/share/datas/kss/1/1_1021.wav|그들은 도시 전체를 보기 위해 산꼭대기로 올라갔다.|그들은 도시 전체를 보기 위해 산꼭대기로 올라갔다.|그들은 도시 전체를 보기 위해 산꼭대기로 올라갔다.|3.9|They climbed up to the top of the mountain to see the whole city.
+/share/datas/kss/1/1_1022.wav|그 사람은 자기 부모를 끔찍이 위해요.|그 사람은 자기 부모를 끔찍이 위해요.|그 사람은 자기 부모를 끔찍이 위해요.|3.1|He thinks of his parents before himself.
+/share/datas/kss/1/1_1023.wav|누구나 오래 살길 원한다.|누구나 오래 살길 원한다.|누구나 오래 살길 원한다.|2.2|Everyone wants to live for a long time.
+/share/datas/kss/1/1_1024.wav|뭘 원해?|뭘 원해?|뭘 원해?|0.9|What do you want?
+/share/datas/kss/1/1_1025.wav|나는 새해에는 담배를 끊겠다고 아들 녀석과 약속했다.|나는 새해에는 담배를 끊겠다고 아들 녀석과 약속했다.|나는 새해에는 담배를 끊겠다고 아들 녀석과 약속했다.|5.1|I promised my son that I will quit smoking after the New Year.
+/share/datas/kss/1/1_1026.wav|시험을 잘 보면 아빠가 새 컴퓨터를 사 주시겠다고 나한테 약속하셨어요.|시험을 잘 보면 아빠가 새 컴퓨터를 사 주시겠다고 나한테 약속하셨어요.|시험을 잘 보면 아빠가 새 컴퓨터를 사 주시겠다고 나한테 약속하셨어요.|5.9|My dad promised me a new computer if I did well on my test.
+/share/datas/kss/1/1_1027.wav|그는 전국 방방곡곡을 여행했다.|그는 전국 방방곡곡을 여행했다.|그는 전국 방방곡곡을 여행했다.|3.1|He travelled the length and breadth of the country.
+/share/datas/kss/1/1_1028.wav|기차를 타고 유럽 전역을 여행했어요.|기차를 타고 유럽 전역을 여행했어요.|기차를 타고 유럽 전역을 여행했어요.|3.2|I travelled throughout Europe by train.
+/share/datas/kss/1/1_1029.wav|창문 열어도 될까요?|창문 열어도 될까요?|창문 열어도 될까요?|1.5|Do you mind if I open the window?
+/share/datas/kss/1/1_1030.wav|첨부하신 파일을 못 열겠어요.|첨부하신 파일을 못 열겠어요.|첨부하신 파일을 못 열겠어요.|2.3|I can't open the file attached to your e-mail.
+/share/datas/kss/1/1_1031.wav|두드려라, 그러면 열릴 것이다.|두드려라, 그러면 열릴 것이다.|두드려라, 그러면 열릴 것이다.|3.0|Knock at the door and it will be open.
+/share/datas/kss/1/1_1032.wav|2002년 월드컵이 한국과 일본에서 열렸다.|이천이 년 월드컵이 한국과 일본에서 열렸다.|이천이 년 월드컵이 한국과 일본에서 열렸다.|3.9|The 2002 World Cup was held in Korea and Japan.
+/share/datas/kss/1/1_1033.wav|아버지는 한국어를 연구하는 데 평생을 바치셨다.|아버지는 한국어를 연구하는 데 평생을 바치셨다.|아버지는 한국어를 연구하는 데 평생을 바치셨다.|4.3|My father devoted his entire life to studying the Korean language.
+/share/datas/kss/1/1_1034.wav|제 일은 고대 문자에 대해 연구하는 거예요.|제 일은 고대 문자에 대해 연구하는 거예요.|제 일은 고대 문자에 대해 연구하는 거예요.|3.6|My job is to study the ancient scripts.
+/share/datas/kss/1/1_1035.wav|내일은 제일 중요한 장면을 연습할 거야.|내일은 제일 중요한 장면을 연습할 거야.|내일은 제일 중요한 장면을 연습할 거야.|3.1|We'll rehearse the most important scene tomorrow.
+/share/datas/kss/1/1_1036.wav|그 선수가 연습하는 걸 보려고 사람들이 모여 들었어요.|그 선수가 연습하는 걸 보려고 사람들이 모여 들었어요.|그 선수가 연습하는 걸 보려고 사람들이 모여 들었어요.|3.8|People gathered to watch the player practice.
+/share/datas/kss/1/1_1037.wav|우리 부모님은 저한테 너무 많은 것을 요구하세요.|우리 부모님은 저한테 너무 많은 것을 요구하세요.|우리 부모님은 저한테 너무 많은 것을 요구하세요.|4.3|My parents demand too much of me.
+/share/datas/kss/1/1_1038.wav|내가 환불을 요구하자 그들은 영수증을 보여 달라고 했다.|내가 환불을 요구하자 그들은 영수증을 보여 달라고 했다.|내가 환불을 요구하자 그들은 영수증을 보여 달라고 했다.|4.5|As I asked for a refund, they asked me to show the receipt.
+/share/datas/kss/1/1_1039.wav|김치찌개 요리하다 손가락을 베었어.|김치찌개 요리하다 손가락을 베었어.|김치찌개 요리하다 손가락을 베었어.|3.2|I cut my finger when I was cooking kimchi stew.
+/share/datas/kss/1/1_1040.wav|제 아내는 요리하는 걸 좋아해요.|제 아내는 요리하는 걸 좋아해요.|제 아내는 요리하는 걸 좋아해요.|2.8|My wife enjoys cooking.
