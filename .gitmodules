@@ -1,0 +1,4 @@
+[submodule "text/korean/SMARTG2P"]
+	path = text/korean/SMARTG2P
+	url = https://github.com/hwlee11/SMART-G2P.git
+	branch = master
